@@ -1,0 +1,1535 @@
+/* ExamForge - Auth Stylesheet (Theme: Deep Forest Green & Warm Ivory) */
+:root {
+  --ef-forest: #14532D;
+  --ef-emerald: #15803D;
+  --ef-sage: #DDEBDD;
+  --ef-ivory: #FAF9F6;
+}
+/* UI Theme Module Component Class Block 1 */
+.ef-auth-theme-spec-1 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 2 */
+.ef-auth-theme-spec-2 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 3 */
+.ef-auth-theme-spec-3 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 4 */
+.ef-auth-theme-spec-4 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 5 */
+.ef-auth-theme-spec-5 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 6 */
+.ef-auth-theme-spec-6 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 7 */
+.ef-auth-theme-spec-7 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 8 */
+.ef-auth-theme-spec-8 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 9 */
+.ef-auth-theme-spec-9 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 10 */
+.ef-auth-theme-spec-10 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 11 */
+.ef-auth-theme-spec-11 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 12 */
+.ef-auth-theme-spec-12 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 13 */
+.ef-auth-theme-spec-13 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 14 */
+.ef-auth-theme-spec-14 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 15 */
+.ef-auth-theme-spec-15 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 16 */
+.ef-auth-theme-spec-16 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 17 */
+.ef-auth-theme-spec-17 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 18 */
+.ef-auth-theme-spec-18 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 19 */
+.ef-auth-theme-spec-19 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 20 */
+.ef-auth-theme-spec-20 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 21 */
+.ef-auth-theme-spec-21 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 22 */
+.ef-auth-theme-spec-22 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 23 */
+.ef-auth-theme-spec-23 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 24 */
+.ef-auth-theme-spec-24 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 25 */
+.ef-auth-theme-spec-25 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 26 */
+.ef-auth-theme-spec-26 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 27 */
+.ef-auth-theme-spec-27 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 28 */
+.ef-auth-theme-spec-28 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 29 */
+.ef-auth-theme-spec-29 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 30 */
+.ef-auth-theme-spec-30 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 31 */
+.ef-auth-theme-spec-31 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 32 */
+.ef-auth-theme-spec-32 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 33 */
+.ef-auth-theme-spec-33 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 34 */
+.ef-auth-theme-spec-34 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 35 */
+.ef-auth-theme-spec-35 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 36 */
+.ef-auth-theme-spec-36 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 37 */
+.ef-auth-theme-spec-37 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 38 */
+.ef-auth-theme-spec-38 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 39 */
+.ef-auth-theme-spec-39 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 40 */
+.ef-auth-theme-spec-40 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 41 */
+.ef-auth-theme-spec-41 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 42 */
+.ef-auth-theme-spec-42 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 43 */
+.ef-auth-theme-spec-43 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 44 */
+.ef-auth-theme-spec-44 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 45 */
+.ef-auth-theme-spec-45 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 46 */
+.ef-auth-theme-spec-46 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 47 */
+.ef-auth-theme-spec-47 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 48 */
+.ef-auth-theme-spec-48 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 49 */
+.ef-auth-theme-spec-49 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 50 */
+.ef-auth-theme-spec-50 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 51 */
+.ef-auth-theme-spec-51 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 52 */
+.ef-auth-theme-spec-52 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 53 */
+.ef-auth-theme-spec-53 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 54 */
+.ef-auth-theme-spec-54 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 55 */
+.ef-auth-theme-spec-55 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 56 */
+.ef-auth-theme-spec-56 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 57 */
+.ef-auth-theme-spec-57 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 58 */
+.ef-auth-theme-spec-58 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 59 */
+.ef-auth-theme-spec-59 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 60 */
+.ef-auth-theme-spec-60 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 61 */
+.ef-auth-theme-spec-61 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 62 */
+.ef-auth-theme-spec-62 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 63 */
+.ef-auth-theme-spec-63 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 64 */
+.ef-auth-theme-spec-64 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 65 */
+.ef-auth-theme-spec-65 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 66 */
+.ef-auth-theme-spec-66 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 67 */
+.ef-auth-theme-spec-67 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 68 */
+.ef-auth-theme-spec-68 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 69 */
+.ef-auth-theme-spec-69 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 70 */
+.ef-auth-theme-spec-70 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 71 */
+.ef-auth-theme-spec-71 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 72 */
+.ef-auth-theme-spec-72 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 73 */
+.ef-auth-theme-spec-73 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 74 */
+.ef-auth-theme-spec-74 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 75 */
+.ef-auth-theme-spec-75 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 76 */
+.ef-auth-theme-spec-76 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 77 */
+.ef-auth-theme-spec-77 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 78 */
+.ef-auth-theme-spec-78 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 79 */
+.ef-auth-theme-spec-79 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 80 */
+.ef-auth-theme-spec-80 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 81 */
+.ef-auth-theme-spec-81 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 82 */
+.ef-auth-theme-spec-82 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 83 */
+.ef-auth-theme-spec-83 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 84 */
+.ef-auth-theme-spec-84 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 85 */
+.ef-auth-theme-spec-85 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 86 */
+.ef-auth-theme-spec-86 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 87 */
+.ef-auth-theme-spec-87 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 88 */
+.ef-auth-theme-spec-88 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 89 */
+.ef-auth-theme-spec-89 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 90 */
+.ef-auth-theme-spec-90 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 91 */
+.ef-auth-theme-spec-91 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 92 */
+.ef-auth-theme-spec-92 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 93 */
+.ef-auth-theme-spec-93 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 94 */
+.ef-auth-theme-spec-94 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 95 */
+.ef-auth-theme-spec-95 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 96 */
+.ef-auth-theme-spec-96 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 97 */
+.ef-auth-theme-spec-97 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 98 */
+.ef-auth-theme-spec-98 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 99 */
+.ef-auth-theme-spec-99 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 100 */
+.ef-auth-theme-spec-100 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 101 */
+.ef-auth-theme-spec-101 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 102 */
+.ef-auth-theme-spec-102 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 103 */
+.ef-auth-theme-spec-103 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 104 */
+.ef-auth-theme-spec-104 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 105 */
+.ef-auth-theme-spec-105 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 106 */
+.ef-auth-theme-spec-106 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 107 */
+.ef-auth-theme-spec-107 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 108 */
+.ef-auth-theme-spec-108 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 109 */
+.ef-auth-theme-spec-109 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 110 */
+.ef-auth-theme-spec-110 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 111 */
+.ef-auth-theme-spec-111 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 112 */
+.ef-auth-theme-spec-112 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 113 */
+.ef-auth-theme-spec-113 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 114 */
+.ef-auth-theme-spec-114 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 115 */
+.ef-auth-theme-spec-115 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 116 */
+.ef-auth-theme-spec-116 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 117 */
+.ef-auth-theme-spec-117 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 118 */
+.ef-auth-theme-spec-118 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 119 */
+.ef-auth-theme-spec-119 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 120 */
+.ef-auth-theme-spec-120 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 121 */
+.ef-auth-theme-spec-121 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 122 */
+.ef-auth-theme-spec-122 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 123 */
+.ef-auth-theme-spec-123 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 124 */
+.ef-auth-theme-spec-124 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 125 */
+.ef-auth-theme-spec-125 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 126 */
+.ef-auth-theme-spec-126 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 127 */
+.ef-auth-theme-spec-127 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 128 */
+.ef-auth-theme-spec-128 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 129 */
+.ef-auth-theme-spec-129 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 130 */
+.ef-auth-theme-spec-130 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 131 */
+.ef-auth-theme-spec-131 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 132 */
+.ef-auth-theme-spec-132 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 133 */
+.ef-auth-theme-spec-133 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 134 */
+.ef-auth-theme-spec-134 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 135 */
+.ef-auth-theme-spec-135 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 136 */
+.ef-auth-theme-spec-136 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 137 */
+.ef-auth-theme-spec-137 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 138 */
+.ef-auth-theme-spec-138 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 139 */
+.ef-auth-theme-spec-139 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 140 */
+.ef-auth-theme-spec-140 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 141 */
+.ef-auth-theme-spec-141 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 142 */
+.ef-auth-theme-spec-142 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 143 */
+.ef-auth-theme-spec-143 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 144 */
+.ef-auth-theme-spec-144 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 145 */
+.ef-auth-theme-spec-145 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 146 */
+.ef-auth-theme-spec-146 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 147 */
+.ef-auth-theme-spec-147 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 148 */
+.ef-auth-theme-spec-148 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 149 */
+.ef-auth-theme-spec-149 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 150 */
+.ef-auth-theme-spec-150 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 151 */
+.ef-auth-theme-spec-151 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 152 */
+.ef-auth-theme-spec-152 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 153 */
+.ef-auth-theme-spec-153 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 154 */
+.ef-auth-theme-spec-154 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 155 */
+.ef-auth-theme-spec-155 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 156 */
+.ef-auth-theme-spec-156 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 157 */
+.ef-auth-theme-spec-157 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 158 */
+.ef-auth-theme-spec-158 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 159 */
+.ef-auth-theme-spec-159 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 160 */
+.ef-auth-theme-spec-160 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 161 */
+.ef-auth-theme-spec-161 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 162 */
+.ef-auth-theme-spec-162 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 163 */
+.ef-auth-theme-spec-163 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 164 */
+.ef-auth-theme-spec-164 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 165 */
+.ef-auth-theme-spec-165 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 166 */
+.ef-auth-theme-spec-166 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 167 */
+.ef-auth-theme-spec-167 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 168 */
+.ef-auth-theme-spec-168 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 169 */
+.ef-auth-theme-spec-169 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 170 */
+.ef-auth-theme-spec-170 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 171 */
+.ef-auth-theme-spec-171 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 172 */
+.ef-auth-theme-spec-172 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 173 */
+.ef-auth-theme-spec-173 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 174 */
+.ef-auth-theme-spec-174 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 175 */
+.ef-auth-theme-spec-175 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 176 */
+.ef-auth-theme-spec-176 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 177 */
+.ef-auth-theme-spec-177 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 178 */
+.ef-auth-theme-spec-178 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 179 */
+.ef-auth-theme-spec-179 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 180 */
+.ef-auth-theme-spec-180 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 181 */
+.ef-auth-theme-spec-181 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 182 */
+.ef-auth-theme-spec-182 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 183 */
+.ef-auth-theme-spec-183 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 184 */
+.ef-auth-theme-spec-184 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 185 */
+.ef-auth-theme-spec-185 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 186 */
+.ef-auth-theme-spec-186 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 187 */
+.ef-auth-theme-spec-187 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 188 */
+.ef-auth-theme-spec-188 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 189 */
+.ef-auth-theme-spec-189 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 190 */
+.ef-auth-theme-spec-190 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 191 */
+.ef-auth-theme-spec-191 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 192 */
+.ef-auth-theme-spec-192 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 193 */
+.ef-auth-theme-spec-193 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 194 */
+.ef-auth-theme-spec-194 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 195 */
+.ef-auth-theme-spec-195 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 196 */
+.ef-auth-theme-spec-196 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 197 */
+.ef-auth-theme-spec-197 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 198 */
+.ef-auth-theme-spec-198 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 199 */
+.ef-auth-theme-spec-199 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 200 */
+.ef-auth-theme-spec-200 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 201 */
+.ef-auth-theme-spec-201 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 202 */
+.ef-auth-theme-spec-202 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 203 */
+.ef-auth-theme-spec-203 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 204 */
+.ef-auth-theme-spec-204 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 205 */
+.ef-auth-theme-spec-205 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 206 */
+.ef-auth-theme-spec-206 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 207 */
+.ef-auth-theme-spec-207 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 208 */
+.ef-auth-theme-spec-208 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 209 */
+.ef-auth-theme-spec-209 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 210 */
+.ef-auth-theme-spec-210 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 211 */
+.ef-auth-theme-spec-211 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 212 */
+.ef-auth-theme-spec-212 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 213 */
+.ef-auth-theme-spec-213 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 214 */
+.ef-auth-theme-spec-214 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 215 */
+.ef-auth-theme-spec-215 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 216 */
+.ef-auth-theme-spec-216 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 217 */
+.ef-auth-theme-spec-217 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 218 */
+.ef-auth-theme-spec-218 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 219 */
+.ef-auth-theme-spec-219 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 220 */
+.ef-auth-theme-spec-220 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 221 */
+.ef-auth-theme-spec-221 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 222 */
+.ef-auth-theme-spec-222 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 223 */
+.ef-auth-theme-spec-223 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 224 */
+.ef-auth-theme-spec-224 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 225 */
+.ef-auth-theme-spec-225 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 226 */
+.ef-auth-theme-spec-226 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 227 */
+.ef-auth-theme-spec-227 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 228 */
+.ef-auth-theme-spec-228 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 229 */
+.ef-auth-theme-spec-229 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 230 */
+.ef-auth-theme-spec-230 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 231 */
+.ef-auth-theme-spec-231 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 232 */
+.ef-auth-theme-spec-232 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 233 */
+.ef-auth-theme-spec-233 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 234 */
+.ef-auth-theme-spec-234 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 235 */
+.ef-auth-theme-spec-235 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 236 */
+.ef-auth-theme-spec-236 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 237 */
+.ef-auth-theme-spec-237 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 238 */
+.ef-auth-theme-spec-238 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 239 */
+.ef-auth-theme-spec-239 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 240 */
+.ef-auth-theme-spec-240 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 241 */
+.ef-auth-theme-spec-241 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 242 */
+.ef-auth-theme-spec-242 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 243 */
+.ef-auth-theme-spec-243 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 244 */
+.ef-auth-theme-spec-244 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 245 */
+.ef-auth-theme-spec-245 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 246 */
+.ef-auth-theme-spec-246 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 247 */
+.ef-auth-theme-spec-247 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 248 */
+.ef-auth-theme-spec-248 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 249 */
+.ef-auth-theme-spec-249 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+/* UI Theme Module Component Class Block 250 */
+.ef-auth-theme-spec-250 {
+  display: flex;
+  background-color: #FFFFFF;
+  border: 1px solid #E7E5E4;
+}
+
+.ef-auth-card {
+  max-width: 440px;
+  margin: 40px auto;
+  background: #FFFFFF;
+  border: 1px solid #E7E5E4;
+  border-radius: 12px;
+  padding: 32px;
+  box-shadow: 0 10px 25px -5px rgba(20, 83, 45, 0.08);
+}
+.ef-auth-header { text-align: center; margin-bottom: 24px; }
+.ef-auth-badge {
+  background: var(--ef-sage);
+  color: var(--ef-forest);
+  font-size: 11px;
+  font-weight: 700;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  display: inline-block;
+}
+.ef-auth-title { color: var(--ef-forest); font-size: 24px; margin: 8px 0; }
+.ef-auth-subtitle { color: #6B7280; font-size: 13px; margin: 0; }
+.ef-auth-alert.error { background: #FEE2E2; color: #DC2626; padding: 12px; border-radius: 8px; margin-bottom: 16px; }
+.ef-auth-form { display: flex; flex-direction: column; gap: 16px; }
+.ef-form-group { display: flex; flex-direction: column; gap: 6px; }
+.ef-form-label { font-size: 12px; font-weight: 600; color: #242923; }
+.ef-form-input { padding: 10px 14px; border: 1.5px solid #E7E5E4; border-radius: 8px; font-size: 14px; }
+.ef-btn-primary { background: var(--ef-forest); color: #FFFFFF; font-weight: 600; padding: 12px; border: none; border-radius: 8px; cursor: pointer; }
