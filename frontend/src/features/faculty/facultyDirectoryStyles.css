@@ -1,0 +1,1914 @@
+/* ExamForge - Faculty Directory Stylesheet */
+:root {
+  --ef-forest: #14532D;
+  --ef-emerald: #15803D;
+  --ef-sage: #DDEBDD;
+  --ef-ivory: #FAF9F6;
+}
+/* Faculty Card Grid Block 1 */
+.ef-faculty-grid-item-1 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 2 */
+.ef-faculty-grid-item-2 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 3 */
+.ef-faculty-grid-item-3 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 4 */
+.ef-faculty-grid-item-4 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 5 */
+.ef-faculty-grid-item-5 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 6 */
+.ef-faculty-grid-item-6 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 7 */
+.ef-faculty-grid-item-7 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 8 */
+.ef-faculty-grid-item-8 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 9 */
+.ef-faculty-grid-item-9 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 10 */
+.ef-faculty-grid-item-10 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 11 */
+.ef-faculty-grid-item-11 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 12 */
+.ef-faculty-grid-item-12 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 13 */
+.ef-faculty-grid-item-13 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 14 */
+.ef-faculty-grid-item-14 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 15 */
+.ef-faculty-grid-item-15 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 16 */
+.ef-faculty-grid-item-16 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 17 */
+.ef-faculty-grid-item-17 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 18 */
+.ef-faculty-grid-item-18 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 19 */
+.ef-faculty-grid-item-19 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 20 */
+.ef-faculty-grid-item-20 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 21 */
+.ef-faculty-grid-item-21 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 22 */
+.ef-faculty-grid-item-22 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 23 */
+.ef-faculty-grid-item-23 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 24 */
+.ef-faculty-grid-item-24 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 25 */
+.ef-faculty-grid-item-25 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 26 */
+.ef-faculty-grid-item-26 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 27 */
+.ef-faculty-grid-item-27 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 28 */
+.ef-faculty-grid-item-28 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 29 */
+.ef-faculty-grid-item-29 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 30 */
+.ef-faculty-grid-item-30 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 31 */
+.ef-faculty-grid-item-31 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 32 */
+.ef-faculty-grid-item-32 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 33 */
+.ef-faculty-grid-item-33 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 34 */
+.ef-faculty-grid-item-34 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 35 */
+.ef-faculty-grid-item-35 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 36 */
+.ef-faculty-grid-item-36 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 37 */
+.ef-faculty-grid-item-37 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 38 */
+.ef-faculty-grid-item-38 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 39 */
+.ef-faculty-grid-item-39 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 40 */
+.ef-faculty-grid-item-40 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 41 */
+.ef-faculty-grid-item-41 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 42 */
+.ef-faculty-grid-item-42 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 43 */
+.ef-faculty-grid-item-43 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 44 */
+.ef-faculty-grid-item-44 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 45 */
+.ef-faculty-grid-item-45 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 46 */
+.ef-faculty-grid-item-46 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 47 */
+.ef-faculty-grid-item-47 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 48 */
+.ef-faculty-grid-item-48 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 49 */
+.ef-faculty-grid-item-49 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 50 */
+.ef-faculty-grid-item-50 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 51 */
+.ef-faculty-grid-item-51 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 52 */
+.ef-faculty-grid-item-52 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 53 */
+.ef-faculty-grid-item-53 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 54 */
+.ef-faculty-grid-item-54 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 55 */
+.ef-faculty-grid-item-55 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 56 */
+.ef-faculty-grid-item-56 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 57 */
+.ef-faculty-grid-item-57 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 58 */
+.ef-faculty-grid-item-58 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 59 */
+.ef-faculty-grid-item-59 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 60 */
+.ef-faculty-grid-item-60 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 61 */
+.ef-faculty-grid-item-61 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 62 */
+.ef-faculty-grid-item-62 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 63 */
+.ef-faculty-grid-item-63 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 64 */
+.ef-faculty-grid-item-64 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 65 */
+.ef-faculty-grid-item-65 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 66 */
+.ef-faculty-grid-item-66 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 67 */
+.ef-faculty-grid-item-67 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 68 */
+.ef-faculty-grid-item-68 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 69 */
+.ef-faculty-grid-item-69 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 70 */
+.ef-faculty-grid-item-70 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 71 */
+.ef-faculty-grid-item-71 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 72 */
+.ef-faculty-grid-item-72 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 73 */
+.ef-faculty-grid-item-73 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 74 */
+.ef-faculty-grid-item-74 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 75 */
+.ef-faculty-grid-item-75 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 76 */
+.ef-faculty-grid-item-76 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 77 */
+.ef-faculty-grid-item-77 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 78 */
+.ef-faculty-grid-item-78 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 79 */
+.ef-faculty-grid-item-79 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 80 */
+.ef-faculty-grid-item-80 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 81 */
+.ef-faculty-grid-item-81 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 82 */
+.ef-faculty-grid-item-82 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 83 */
+.ef-faculty-grid-item-83 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 84 */
+.ef-faculty-grid-item-84 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 85 */
+.ef-faculty-grid-item-85 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 86 */
+.ef-faculty-grid-item-86 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 87 */
+.ef-faculty-grid-item-87 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 88 */
+.ef-faculty-grid-item-88 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 89 */
+.ef-faculty-grid-item-89 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 90 */
+.ef-faculty-grid-item-90 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 91 */
+.ef-faculty-grid-item-91 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 92 */
+.ef-faculty-grid-item-92 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 93 */
+.ef-faculty-grid-item-93 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 94 */
+.ef-faculty-grid-item-94 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 95 */
+.ef-faculty-grid-item-95 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 96 */
+.ef-faculty-grid-item-96 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 97 */
+.ef-faculty-grid-item-97 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 98 */
+.ef-faculty-grid-item-98 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 99 */
+.ef-faculty-grid-item-99 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 100 */
+.ef-faculty-grid-item-100 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 101 */
+.ef-faculty-grid-item-101 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 102 */
+.ef-faculty-grid-item-102 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 103 */
+.ef-faculty-grid-item-103 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 104 */
+.ef-faculty-grid-item-104 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 105 */
+.ef-faculty-grid-item-105 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 106 */
+.ef-faculty-grid-item-106 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 107 */
+.ef-faculty-grid-item-107 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 108 */
+.ef-faculty-grid-item-108 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 109 */
+.ef-faculty-grid-item-109 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 110 */
+.ef-faculty-grid-item-110 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 111 */
+.ef-faculty-grid-item-111 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 112 */
+.ef-faculty-grid-item-112 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 113 */
+.ef-faculty-grid-item-113 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 114 */
+.ef-faculty-grid-item-114 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 115 */
+.ef-faculty-grid-item-115 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 116 */
+.ef-faculty-grid-item-116 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 117 */
+.ef-faculty-grid-item-117 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 118 */
+.ef-faculty-grid-item-118 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 119 */
+.ef-faculty-grid-item-119 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 120 */
+.ef-faculty-grid-item-120 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 121 */
+.ef-faculty-grid-item-121 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 122 */
+.ef-faculty-grid-item-122 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 123 */
+.ef-faculty-grid-item-123 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 124 */
+.ef-faculty-grid-item-124 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 125 */
+.ef-faculty-grid-item-125 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 126 */
+.ef-faculty-grid-item-126 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 127 */
+.ef-faculty-grid-item-127 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 128 */
+.ef-faculty-grid-item-128 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 129 */
+.ef-faculty-grid-item-129 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 130 */
+.ef-faculty-grid-item-130 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 131 */
+.ef-faculty-grid-item-131 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 132 */
+.ef-faculty-grid-item-132 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 133 */
+.ef-faculty-grid-item-133 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 134 */
+.ef-faculty-grid-item-134 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 135 */
+.ef-faculty-grid-item-135 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 136 */
+.ef-faculty-grid-item-136 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 137 */
+.ef-faculty-grid-item-137 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 138 */
+.ef-faculty-grid-item-138 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 139 */
+.ef-faculty-grid-item-139 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 140 */
+.ef-faculty-grid-item-140 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 141 */
+.ef-faculty-grid-item-141 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 142 */
+.ef-faculty-grid-item-142 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 143 */
+.ef-faculty-grid-item-143 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 144 */
+.ef-faculty-grid-item-144 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 145 */
+.ef-faculty-grid-item-145 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 146 */
+.ef-faculty-grid-item-146 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 147 */
+.ef-faculty-grid-item-147 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 148 */
+.ef-faculty-grid-item-148 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 149 */
+.ef-faculty-grid-item-149 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 150 */
+.ef-faculty-grid-item-150 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 151 */
+.ef-faculty-grid-item-151 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 152 */
+.ef-faculty-grid-item-152 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 153 */
+.ef-faculty-grid-item-153 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 154 */
+.ef-faculty-grid-item-154 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 155 */
+.ef-faculty-grid-item-155 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 156 */
+.ef-faculty-grid-item-156 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 157 */
+.ef-faculty-grid-item-157 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 158 */
+.ef-faculty-grid-item-158 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 159 */
+.ef-faculty-grid-item-159 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 160 */
+.ef-faculty-grid-item-160 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 161 */
+.ef-faculty-grid-item-161 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 162 */
+.ef-faculty-grid-item-162 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 163 */
+.ef-faculty-grid-item-163 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 164 */
+.ef-faculty-grid-item-164 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 165 */
+.ef-faculty-grid-item-165 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 166 */
+.ef-faculty-grid-item-166 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 167 */
+.ef-faculty-grid-item-167 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 168 */
+.ef-faculty-grid-item-168 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 169 */
+.ef-faculty-grid-item-169 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 170 */
+.ef-faculty-grid-item-170 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 171 */
+.ef-faculty-grid-item-171 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 172 */
+.ef-faculty-grid-item-172 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 173 */
+.ef-faculty-grid-item-173 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 174 */
+.ef-faculty-grid-item-174 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 175 */
+.ef-faculty-grid-item-175 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 176 */
+.ef-faculty-grid-item-176 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 177 */
+.ef-faculty-grid-item-177 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 178 */
+.ef-faculty-grid-item-178 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 179 */
+.ef-faculty-grid-item-179 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 180 */
+.ef-faculty-grid-item-180 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 181 */
+.ef-faculty-grid-item-181 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 182 */
+.ef-faculty-grid-item-182 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 183 */
+.ef-faculty-grid-item-183 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 184 */
+.ef-faculty-grid-item-184 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 185 */
+.ef-faculty-grid-item-185 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 186 */
+.ef-faculty-grid-item-186 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 187 */
+.ef-faculty-grid-item-187 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 188 */
+.ef-faculty-grid-item-188 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 189 */
+.ef-faculty-grid-item-189 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 190 */
+.ef-faculty-grid-item-190 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 191 */
+.ef-faculty-grid-item-191 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 192 */
+.ef-faculty-grid-item-192 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 193 */
+.ef-faculty-grid-item-193 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 194 */
+.ef-faculty-grid-item-194 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 195 */
+.ef-faculty-grid-item-195 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 196 */
+.ef-faculty-grid-item-196 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 197 */
+.ef-faculty-grid-item-197 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 198 */
+.ef-faculty-grid-item-198 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 199 */
+.ef-faculty-grid-item-199 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 200 */
+.ef-faculty-grid-item-200 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 201 */
+.ef-faculty-grid-item-201 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 202 */
+.ef-faculty-grid-item-202 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 203 */
+.ef-faculty-grid-item-203 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 204 */
+.ef-faculty-grid-item-204 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 205 */
+.ef-faculty-grid-item-205 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 206 */
+.ef-faculty-grid-item-206 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 207 */
+.ef-faculty-grid-item-207 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 208 */
+.ef-faculty-grid-item-208 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 209 */
+.ef-faculty-grid-item-209 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 210 */
+.ef-faculty-grid-item-210 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 211 */
+.ef-faculty-grid-item-211 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 212 */
+.ef-faculty-grid-item-212 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 213 */
+.ef-faculty-grid-item-213 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 214 */
+.ef-faculty-grid-item-214 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 215 */
+.ef-faculty-grid-item-215 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 216 */
+.ef-faculty-grid-item-216 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 217 */
+.ef-faculty-grid-item-217 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 218 */
+.ef-faculty-grid-item-218 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 219 */
+.ef-faculty-grid-item-219 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 220 */
+.ef-faculty-grid-item-220 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 221 */
+.ef-faculty-grid-item-221 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 222 */
+.ef-faculty-grid-item-222 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 223 */
+.ef-faculty-grid-item-223 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 224 */
+.ef-faculty-grid-item-224 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 225 */
+.ef-faculty-grid-item-225 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 226 */
+.ef-faculty-grid-item-226 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 227 */
+.ef-faculty-grid-item-227 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 228 */
+.ef-faculty-grid-item-228 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 229 */
+.ef-faculty-grid-item-229 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 230 */
+.ef-faculty-grid-item-230 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 231 */
+.ef-faculty-grid-item-231 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 232 */
+.ef-faculty-grid-item-232 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 233 */
+.ef-faculty-grid-item-233 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 234 */
+.ef-faculty-grid-item-234 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 235 */
+.ef-faculty-grid-item-235 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 236 */
+.ef-faculty-grid-item-236 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 237 */
+.ef-faculty-grid-item-237 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 238 */
+.ef-faculty-grid-item-238 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 239 */
+.ef-faculty-grid-item-239 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 240 */
+.ef-faculty-grid-item-240 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 241 */
+.ef-faculty-grid-item-241 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 242 */
+.ef-faculty-grid-item-242 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 243 */
+.ef-faculty-grid-item-243 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 244 */
+.ef-faculty-grid-item-244 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 245 */
+.ef-faculty-grid-item-245 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 246 */
+.ef-faculty-grid-item-246 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 247 */
+.ef-faculty-grid-item-247 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 248 */
+.ef-faculty-grid-item-248 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 249 */
+.ef-faculty-grid-item-249 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 250 */
+.ef-faculty-grid-item-250 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 251 */
+.ef-faculty-grid-item-251 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 252 */
+.ef-faculty-grid-item-252 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 253 */
+.ef-faculty-grid-item-253 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 254 */
+.ef-faculty-grid-item-254 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 255 */
+.ef-faculty-grid-item-255 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 256 */
+.ef-faculty-grid-item-256 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 257 */
+.ef-faculty-grid-item-257 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 258 */
+.ef-faculty-grid-item-258 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 259 */
+.ef-faculty-grid-item-259 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+/* Faculty Card Grid Block 260 */
+.ef-faculty-grid-item-260 {
+  display: flex;
+  border: 1px solid #E7E5E4;
+  border-radius: 8px;
+  background: #FFFFFF;
+}
+
+.ef-faculty-directory-wrap {
+  padding: 24px;
+}
+.ef-dir-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+.ef-dir-title {
+  color: var(--ef-forest);
+  margin: 0;
+  font-size: 22px;
+}
+.ef-dir-search {
+  padding: 8px 14px;
+  border: 1px solid #E7E5E4;
+  border-radius: 6px;
+  width: 300px;
+}
+.ef-faculty-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 20px;
+}
+.ef-faculty-card {
+  background: #FFFFFF;
+  border: 1px solid #E7E5E4;
+  border-radius: 12px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.ef-faculty-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px -2px rgba(20, 83, 45, 0.08);
+  border-color: var(--ef-emerald);
+}
+.ef-card-badge {
+  background: var(--ef-sage);
+  color: var(--ef-forest);
+  font-weight: 700;
+  font-size: 11px;
+  align-self: flex-start;
+  padding: 3px 8px;
+  border-radius: 4px;
+  margin-bottom: 12px;
+}
+.ef-faculty-name {
+  margin: 0 0 4px 0;
+  font-size: 16px;
+  color: var(--ef-forest);
+}
+.ef-faculty-dept {
+  color: #6B7280;
+  font-size: 13px;
+  margin: 0 0 2px 0;
+}
+.ef-faculty-desig {
+  color: #242923;
+  font-weight: 500;
+  font-size: 13px;
+  margin: 0 0 16px 0;
+}
+.ef-card-meta {
+  font-size: 12px;
+  color: #6B7280;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  margin-bottom: 16px;
+  border-top: 1px solid #FAF9F6;
+  padding-top: 10px;
+}
+.ef-btn-view-profile {
+  margin-top: auto;
+  background: var(--ef-forest);
+  color: #FFFFFF;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 600;
+}
