@@ -1,0 +1,4 @@
+registration_no,roll_no,first_name,last_name,email,department_code,course_code,semester_number,admission_year,phone
+REG20241001,24CS101,Duplicate,Student,dup@test.edu,CSE,BTECH,4,2024,1234567890
+REG_NEW_001,24CS999,Invalid,Dept,inv@test.edu,NONEXISTENT_DEPT,BTECH,4,2024,1234567890
+,24CS998,Missing,RegNo,missing@test.edu,CSE,BTECH,4,2024,1234567890
