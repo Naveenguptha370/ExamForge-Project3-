@@ -1,0 +1,3156 @@
+{
+  "catalog_part": 3,
+  "total_records": 350,
+  "faculty_roster_entries": [
+    {
+      "record_id": 701,
+      "faculty_id": "FAC-INST-00701",
+      "full_name": "Faculty Officer 701",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.701@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 702,
+      "faculty_id": "FAC-INST-00702",
+      "full_name": "Faculty Officer 702",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.702@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 703,
+      "faculty_id": "FAC-INST-00703",
+      "full_name": "Faculty Officer 703",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.703@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 704,
+      "faculty_id": "FAC-INST-00704",
+      "full_name": "Faculty Officer 704",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.704@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 705,
+      "faculty_id": "FAC-INST-00705",
+      "full_name": "Faculty Officer 705",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.705@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 706,
+      "faculty_id": "FAC-INST-00706",
+      "full_name": "Faculty Officer 706",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.706@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 707,
+      "faculty_id": "FAC-INST-00707",
+      "full_name": "Faculty Officer 707",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.707@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 708,
+      "faculty_id": "FAC-INST-00708",
+      "full_name": "Faculty Officer 708",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.708@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 709,
+      "faculty_id": "FAC-INST-00709",
+      "full_name": "Faculty Officer 709",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.709@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 710,
+      "faculty_id": "FAC-INST-00710",
+      "full_name": "Faculty Officer 710",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.710@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 711,
+      "faculty_id": "FAC-INST-00711",
+      "full_name": "Faculty Officer 711",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.711@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 712,
+      "faculty_id": "FAC-INST-00712",
+      "full_name": "Faculty Officer 712",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.712@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 713,
+      "faculty_id": "FAC-INST-00713",
+      "full_name": "Faculty Officer 713",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.713@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 714,
+      "faculty_id": "FAC-INST-00714",
+      "full_name": "Faculty Officer 714",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.714@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 715,
+      "faculty_id": "FAC-INST-00715",
+      "full_name": "Faculty Officer 715",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.715@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 716,
+      "faculty_id": "FAC-INST-00716",
+      "full_name": "Faculty Officer 716",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.716@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 717,
+      "faculty_id": "FAC-INST-00717",
+      "full_name": "Faculty Officer 717",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.717@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 718,
+      "faculty_id": "FAC-INST-00718",
+      "full_name": "Faculty Officer 718",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.718@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 719,
+      "faculty_id": "FAC-INST-00719",
+      "full_name": "Faculty Officer 719",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.719@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 720,
+      "faculty_id": "FAC-INST-00720",
+      "full_name": "Faculty Officer 720",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.720@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 721,
+      "faculty_id": "FAC-INST-00721",
+      "full_name": "Faculty Officer 721",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.721@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 722,
+      "faculty_id": "FAC-INST-00722",
+      "full_name": "Faculty Officer 722",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.722@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 723,
+      "faculty_id": "FAC-INST-00723",
+      "full_name": "Faculty Officer 723",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.723@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 724,
+      "faculty_id": "FAC-INST-00724",
+      "full_name": "Faculty Officer 724",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.724@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 725,
+      "faculty_id": "FAC-INST-00725",
+      "full_name": "Faculty Officer 725",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.725@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 726,
+      "faculty_id": "FAC-INST-00726",
+      "full_name": "Faculty Officer 726",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.726@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 727,
+      "faculty_id": "FAC-INST-00727",
+      "full_name": "Faculty Officer 727",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.727@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 728,
+      "faculty_id": "FAC-INST-00728",
+      "full_name": "Faculty Officer 728",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.728@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 729,
+      "faculty_id": "FAC-INST-00729",
+      "full_name": "Faculty Officer 729",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.729@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 730,
+      "faculty_id": "FAC-INST-00730",
+      "full_name": "Faculty Officer 730",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.730@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 731,
+      "faculty_id": "FAC-INST-00731",
+      "full_name": "Faculty Officer 731",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.731@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 732,
+      "faculty_id": "FAC-INST-00732",
+      "full_name": "Faculty Officer 732",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.732@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 733,
+      "faculty_id": "FAC-INST-00733",
+      "full_name": "Faculty Officer 733",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.733@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 734,
+      "faculty_id": "FAC-INST-00734",
+      "full_name": "Faculty Officer 734",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.734@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 735,
+      "faculty_id": "FAC-INST-00735",
+      "full_name": "Faculty Officer 735",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.735@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 736,
+      "faculty_id": "FAC-INST-00736",
+      "full_name": "Faculty Officer 736",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.736@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 737,
+      "faculty_id": "FAC-INST-00737",
+      "full_name": "Faculty Officer 737",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.737@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 738,
+      "faculty_id": "FAC-INST-00738",
+      "full_name": "Faculty Officer 738",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.738@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 739,
+      "faculty_id": "FAC-INST-00739",
+      "full_name": "Faculty Officer 739",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.739@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 740,
+      "faculty_id": "FAC-INST-00740",
+      "full_name": "Faculty Officer 740",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.740@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 741,
+      "faculty_id": "FAC-INST-00741",
+      "full_name": "Faculty Officer 741",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.741@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 742,
+      "faculty_id": "FAC-INST-00742",
+      "full_name": "Faculty Officer 742",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.742@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 743,
+      "faculty_id": "FAC-INST-00743",
+      "full_name": "Faculty Officer 743",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.743@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 744,
+      "faculty_id": "FAC-INST-00744",
+      "full_name": "Faculty Officer 744",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.744@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 745,
+      "faculty_id": "FAC-INST-00745",
+      "full_name": "Faculty Officer 745",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.745@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 746,
+      "faculty_id": "FAC-INST-00746",
+      "full_name": "Faculty Officer 746",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.746@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 747,
+      "faculty_id": "FAC-INST-00747",
+      "full_name": "Faculty Officer 747",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.747@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 748,
+      "faculty_id": "FAC-INST-00748",
+      "full_name": "Faculty Officer 748",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.748@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 749,
+      "faculty_id": "FAC-INST-00749",
+      "full_name": "Faculty Officer 749",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.749@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 750,
+      "faculty_id": "FAC-INST-00750",
+      "full_name": "Faculty Officer 750",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.750@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 751,
+      "faculty_id": "FAC-INST-00751",
+      "full_name": "Faculty Officer 751",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.751@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 752,
+      "faculty_id": "FAC-INST-00752",
+      "full_name": "Faculty Officer 752",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.752@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 753,
+      "faculty_id": "FAC-INST-00753",
+      "full_name": "Faculty Officer 753",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.753@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 754,
+      "faculty_id": "FAC-INST-00754",
+      "full_name": "Faculty Officer 754",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.754@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 755,
+      "faculty_id": "FAC-INST-00755",
+      "full_name": "Faculty Officer 755",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.755@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 756,
+      "faculty_id": "FAC-INST-00756",
+      "full_name": "Faculty Officer 756",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.756@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 757,
+      "faculty_id": "FAC-INST-00757",
+      "full_name": "Faculty Officer 757",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.757@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 758,
+      "faculty_id": "FAC-INST-00758",
+      "full_name": "Faculty Officer 758",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.758@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 759,
+      "faculty_id": "FAC-INST-00759",
+      "full_name": "Faculty Officer 759",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.759@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 760,
+      "faculty_id": "FAC-INST-00760",
+      "full_name": "Faculty Officer 760",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.760@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 761,
+      "faculty_id": "FAC-INST-00761",
+      "full_name": "Faculty Officer 761",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.761@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 762,
+      "faculty_id": "FAC-INST-00762",
+      "full_name": "Faculty Officer 762",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.762@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 763,
+      "faculty_id": "FAC-INST-00763",
+      "full_name": "Faculty Officer 763",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.763@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 764,
+      "faculty_id": "FAC-INST-00764",
+      "full_name": "Faculty Officer 764",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.764@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 765,
+      "faculty_id": "FAC-INST-00765",
+      "full_name": "Faculty Officer 765",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.765@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 766,
+      "faculty_id": "FAC-INST-00766",
+      "full_name": "Faculty Officer 766",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.766@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 767,
+      "faculty_id": "FAC-INST-00767",
+      "full_name": "Faculty Officer 767",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.767@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 768,
+      "faculty_id": "FAC-INST-00768",
+      "full_name": "Faculty Officer 768",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.768@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 769,
+      "faculty_id": "FAC-INST-00769",
+      "full_name": "Faculty Officer 769",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.769@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 770,
+      "faculty_id": "FAC-INST-00770",
+      "full_name": "Faculty Officer 770",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.770@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 771,
+      "faculty_id": "FAC-INST-00771",
+      "full_name": "Faculty Officer 771",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.771@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 772,
+      "faculty_id": "FAC-INST-00772",
+      "full_name": "Faculty Officer 772",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.772@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 773,
+      "faculty_id": "FAC-INST-00773",
+      "full_name": "Faculty Officer 773",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.773@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 774,
+      "faculty_id": "FAC-INST-00774",
+      "full_name": "Faculty Officer 774",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.774@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 775,
+      "faculty_id": "FAC-INST-00775",
+      "full_name": "Faculty Officer 775",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.775@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 776,
+      "faculty_id": "FAC-INST-00776",
+      "full_name": "Faculty Officer 776",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.776@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 777,
+      "faculty_id": "FAC-INST-00777",
+      "full_name": "Faculty Officer 777",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.777@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 778,
+      "faculty_id": "FAC-INST-00778",
+      "full_name": "Faculty Officer 778",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.778@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 779,
+      "faculty_id": "FAC-INST-00779",
+      "full_name": "Faculty Officer 779",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.779@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 780,
+      "faculty_id": "FAC-INST-00780",
+      "full_name": "Faculty Officer 780",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.780@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 781,
+      "faculty_id": "FAC-INST-00781",
+      "full_name": "Faculty Officer 781",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.781@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 782,
+      "faculty_id": "FAC-INST-00782",
+      "full_name": "Faculty Officer 782",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.782@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 783,
+      "faculty_id": "FAC-INST-00783",
+      "full_name": "Faculty Officer 783",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.783@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 784,
+      "faculty_id": "FAC-INST-00784",
+      "full_name": "Faculty Officer 784",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.784@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 785,
+      "faculty_id": "FAC-INST-00785",
+      "full_name": "Faculty Officer 785",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.785@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 786,
+      "faculty_id": "FAC-INST-00786",
+      "full_name": "Faculty Officer 786",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.786@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 787,
+      "faculty_id": "FAC-INST-00787",
+      "full_name": "Faculty Officer 787",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.787@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 788,
+      "faculty_id": "FAC-INST-00788",
+      "full_name": "Faculty Officer 788",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.788@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 789,
+      "faculty_id": "FAC-INST-00789",
+      "full_name": "Faculty Officer 789",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.789@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 790,
+      "faculty_id": "FAC-INST-00790",
+      "full_name": "Faculty Officer 790",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.790@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 791,
+      "faculty_id": "FAC-INST-00791",
+      "full_name": "Faculty Officer 791",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.791@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 792,
+      "faculty_id": "FAC-INST-00792",
+      "full_name": "Faculty Officer 792",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.792@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 793,
+      "faculty_id": "FAC-INST-00793",
+      "full_name": "Faculty Officer 793",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.793@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 794,
+      "faculty_id": "FAC-INST-00794",
+      "full_name": "Faculty Officer 794",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.794@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 795,
+      "faculty_id": "FAC-INST-00795",
+      "full_name": "Faculty Officer 795",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.795@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 796,
+      "faculty_id": "FAC-INST-00796",
+      "full_name": "Faculty Officer 796",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.796@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 797,
+      "faculty_id": "FAC-INST-00797",
+      "full_name": "Faculty Officer 797",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.797@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 798,
+      "faculty_id": "FAC-INST-00798",
+      "full_name": "Faculty Officer 798",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.798@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 799,
+      "faculty_id": "FAC-INST-00799",
+      "full_name": "Faculty Officer 799",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.799@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 800,
+      "faculty_id": "FAC-INST-00800",
+      "full_name": "Faculty Officer 800",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.800@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 801,
+      "faculty_id": "FAC-INST-00801",
+      "full_name": "Faculty Officer 801",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.801@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 802,
+      "faculty_id": "FAC-INST-00802",
+      "full_name": "Faculty Officer 802",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.802@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 803,
+      "faculty_id": "FAC-INST-00803",
+      "full_name": "Faculty Officer 803",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.803@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 804,
+      "faculty_id": "FAC-INST-00804",
+      "full_name": "Faculty Officer 804",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.804@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 805,
+      "faculty_id": "FAC-INST-00805",
+      "full_name": "Faculty Officer 805",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.805@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 806,
+      "faculty_id": "FAC-INST-00806",
+      "full_name": "Faculty Officer 806",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.806@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 807,
+      "faculty_id": "FAC-INST-00807",
+      "full_name": "Faculty Officer 807",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.807@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 808,
+      "faculty_id": "FAC-INST-00808",
+      "full_name": "Faculty Officer 808",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.808@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 809,
+      "faculty_id": "FAC-INST-00809",
+      "full_name": "Faculty Officer 809",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.809@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 810,
+      "faculty_id": "FAC-INST-00810",
+      "full_name": "Faculty Officer 810",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.810@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 811,
+      "faculty_id": "FAC-INST-00811",
+      "full_name": "Faculty Officer 811",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.811@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 812,
+      "faculty_id": "FAC-INST-00812",
+      "full_name": "Faculty Officer 812",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.812@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 813,
+      "faculty_id": "FAC-INST-00813",
+      "full_name": "Faculty Officer 813",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.813@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 814,
+      "faculty_id": "FAC-INST-00814",
+      "full_name": "Faculty Officer 814",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.814@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 815,
+      "faculty_id": "FAC-INST-00815",
+      "full_name": "Faculty Officer 815",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.815@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 816,
+      "faculty_id": "FAC-INST-00816",
+      "full_name": "Faculty Officer 816",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.816@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 817,
+      "faculty_id": "FAC-INST-00817",
+      "full_name": "Faculty Officer 817",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.817@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 818,
+      "faculty_id": "FAC-INST-00818",
+      "full_name": "Faculty Officer 818",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.818@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 819,
+      "faculty_id": "FAC-INST-00819",
+      "full_name": "Faculty Officer 819",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.819@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 820,
+      "faculty_id": "FAC-INST-00820",
+      "full_name": "Faculty Officer 820",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.820@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 821,
+      "faculty_id": "FAC-INST-00821",
+      "full_name": "Faculty Officer 821",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.821@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 822,
+      "faculty_id": "FAC-INST-00822",
+      "full_name": "Faculty Officer 822",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.822@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 823,
+      "faculty_id": "FAC-INST-00823",
+      "full_name": "Faculty Officer 823",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.823@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 824,
+      "faculty_id": "FAC-INST-00824",
+      "full_name": "Faculty Officer 824",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.824@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 825,
+      "faculty_id": "FAC-INST-00825",
+      "full_name": "Faculty Officer 825",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.825@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 826,
+      "faculty_id": "FAC-INST-00826",
+      "full_name": "Faculty Officer 826",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.826@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 827,
+      "faculty_id": "FAC-INST-00827",
+      "full_name": "Faculty Officer 827",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.827@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 828,
+      "faculty_id": "FAC-INST-00828",
+      "full_name": "Faculty Officer 828",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.828@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 829,
+      "faculty_id": "FAC-INST-00829",
+      "full_name": "Faculty Officer 829",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.829@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 830,
+      "faculty_id": "FAC-INST-00830",
+      "full_name": "Faculty Officer 830",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.830@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 831,
+      "faculty_id": "FAC-INST-00831",
+      "full_name": "Faculty Officer 831",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.831@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 832,
+      "faculty_id": "FAC-INST-00832",
+      "full_name": "Faculty Officer 832",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.832@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 833,
+      "faculty_id": "FAC-INST-00833",
+      "full_name": "Faculty Officer 833",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.833@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 834,
+      "faculty_id": "FAC-INST-00834",
+      "full_name": "Faculty Officer 834",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.834@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 835,
+      "faculty_id": "FAC-INST-00835",
+      "full_name": "Faculty Officer 835",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.835@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 836,
+      "faculty_id": "FAC-INST-00836",
+      "full_name": "Faculty Officer 836",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.836@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 837,
+      "faculty_id": "FAC-INST-00837",
+      "full_name": "Faculty Officer 837",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.837@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 838,
+      "faculty_id": "FAC-INST-00838",
+      "full_name": "Faculty Officer 838",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.838@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 839,
+      "faculty_id": "FAC-INST-00839",
+      "full_name": "Faculty Officer 839",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.839@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 840,
+      "faculty_id": "FAC-INST-00840",
+      "full_name": "Faculty Officer 840",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.840@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 841,
+      "faculty_id": "FAC-INST-00841",
+      "full_name": "Faculty Officer 841",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.841@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 842,
+      "faculty_id": "FAC-INST-00842",
+      "full_name": "Faculty Officer 842",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.842@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 843,
+      "faculty_id": "FAC-INST-00843",
+      "full_name": "Faculty Officer 843",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.843@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 844,
+      "faculty_id": "FAC-INST-00844",
+      "full_name": "Faculty Officer 844",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.844@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 845,
+      "faculty_id": "FAC-INST-00845",
+      "full_name": "Faculty Officer 845",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.845@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 846,
+      "faculty_id": "FAC-INST-00846",
+      "full_name": "Faculty Officer 846",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.846@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 847,
+      "faculty_id": "FAC-INST-00847",
+      "full_name": "Faculty Officer 847",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.847@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 848,
+      "faculty_id": "FAC-INST-00848",
+      "full_name": "Faculty Officer 848",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.848@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 849,
+      "faculty_id": "FAC-INST-00849",
+      "full_name": "Faculty Officer 849",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.849@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 850,
+      "faculty_id": "FAC-INST-00850",
+      "full_name": "Faculty Officer 850",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.850@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 851,
+      "faculty_id": "FAC-INST-00851",
+      "full_name": "Faculty Officer 851",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.851@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 852,
+      "faculty_id": "FAC-INST-00852",
+      "full_name": "Faculty Officer 852",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.852@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 853,
+      "faculty_id": "FAC-INST-00853",
+      "full_name": "Faculty Officer 853",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.853@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 854,
+      "faculty_id": "FAC-INST-00854",
+      "full_name": "Faculty Officer 854",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.854@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 855,
+      "faculty_id": "FAC-INST-00855",
+      "full_name": "Faculty Officer 855",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.855@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 856,
+      "faculty_id": "FAC-INST-00856",
+      "full_name": "Faculty Officer 856",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.856@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 857,
+      "faculty_id": "FAC-INST-00857",
+      "full_name": "Faculty Officer 857",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.857@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 858,
+      "faculty_id": "FAC-INST-00858",
+      "full_name": "Faculty Officer 858",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.858@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 859,
+      "faculty_id": "FAC-INST-00859",
+      "full_name": "Faculty Officer 859",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.859@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 860,
+      "faculty_id": "FAC-INST-00860",
+      "full_name": "Faculty Officer 860",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.860@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 861,
+      "faculty_id": "FAC-INST-00861",
+      "full_name": "Faculty Officer 861",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.861@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 862,
+      "faculty_id": "FAC-INST-00862",
+      "full_name": "Faculty Officer 862",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.862@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 863,
+      "faculty_id": "FAC-INST-00863",
+      "full_name": "Faculty Officer 863",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.863@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 864,
+      "faculty_id": "FAC-INST-00864",
+      "full_name": "Faculty Officer 864",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.864@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 865,
+      "faculty_id": "FAC-INST-00865",
+      "full_name": "Faculty Officer 865",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.865@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 866,
+      "faculty_id": "FAC-INST-00866",
+      "full_name": "Faculty Officer 866",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.866@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 867,
+      "faculty_id": "FAC-INST-00867",
+      "full_name": "Faculty Officer 867",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.867@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 868,
+      "faculty_id": "FAC-INST-00868",
+      "full_name": "Faculty Officer 868",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.868@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 869,
+      "faculty_id": "FAC-INST-00869",
+      "full_name": "Faculty Officer 869",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.869@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 870,
+      "faculty_id": "FAC-INST-00870",
+      "full_name": "Faculty Officer 870",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.870@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 871,
+      "faculty_id": "FAC-INST-00871",
+      "full_name": "Faculty Officer 871",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.871@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 872,
+      "faculty_id": "FAC-INST-00872",
+      "full_name": "Faculty Officer 872",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.872@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 873,
+      "faculty_id": "FAC-INST-00873",
+      "full_name": "Faculty Officer 873",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.873@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 874,
+      "faculty_id": "FAC-INST-00874",
+      "full_name": "Faculty Officer 874",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.874@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 875,
+      "faculty_id": "FAC-INST-00875",
+      "full_name": "Faculty Officer 875",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.875@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 876,
+      "faculty_id": "FAC-INST-00876",
+      "full_name": "Faculty Officer 876",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.876@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 877,
+      "faculty_id": "FAC-INST-00877",
+      "full_name": "Faculty Officer 877",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.877@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 878,
+      "faculty_id": "FAC-INST-00878",
+      "full_name": "Faculty Officer 878",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.878@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 879,
+      "faculty_id": "FAC-INST-00879",
+      "full_name": "Faculty Officer 879",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.879@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 880,
+      "faculty_id": "FAC-INST-00880",
+      "full_name": "Faculty Officer 880",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.880@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 881,
+      "faculty_id": "FAC-INST-00881",
+      "full_name": "Faculty Officer 881",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.881@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 882,
+      "faculty_id": "FAC-INST-00882",
+      "full_name": "Faculty Officer 882",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.882@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 883,
+      "faculty_id": "FAC-INST-00883",
+      "full_name": "Faculty Officer 883",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.883@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 884,
+      "faculty_id": "FAC-INST-00884",
+      "full_name": "Faculty Officer 884",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.884@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 885,
+      "faculty_id": "FAC-INST-00885",
+      "full_name": "Faculty Officer 885",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.885@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 886,
+      "faculty_id": "FAC-INST-00886",
+      "full_name": "Faculty Officer 886",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.886@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 887,
+      "faculty_id": "FAC-INST-00887",
+      "full_name": "Faculty Officer 887",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.887@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 888,
+      "faculty_id": "FAC-INST-00888",
+      "full_name": "Faculty Officer 888",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.888@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 889,
+      "faculty_id": "FAC-INST-00889",
+      "full_name": "Faculty Officer 889",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.889@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 890,
+      "faculty_id": "FAC-INST-00890",
+      "full_name": "Faculty Officer 890",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.890@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 891,
+      "faculty_id": "FAC-INST-00891",
+      "full_name": "Faculty Officer 891",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.891@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 892,
+      "faculty_id": "FAC-INST-00892",
+      "full_name": "Faculty Officer 892",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.892@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 893,
+      "faculty_id": "FAC-INST-00893",
+      "full_name": "Faculty Officer 893",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.893@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 894,
+      "faculty_id": "FAC-INST-00894",
+      "full_name": "Faculty Officer 894",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.894@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 895,
+      "faculty_id": "FAC-INST-00895",
+      "full_name": "Faculty Officer 895",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.895@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 896,
+      "faculty_id": "FAC-INST-00896",
+      "full_name": "Faculty Officer 896",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.896@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 897,
+      "faculty_id": "FAC-INST-00897",
+      "full_name": "Faculty Officer 897",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.897@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 898,
+      "faculty_id": "FAC-INST-00898",
+      "full_name": "Faculty Officer 898",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.898@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 899,
+      "faculty_id": "FAC-INST-00899",
+      "full_name": "Faculty Officer 899",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.899@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 900,
+      "faculty_id": "FAC-INST-00900",
+      "full_name": "Faculty Officer 900",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.900@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 901,
+      "faculty_id": "FAC-INST-00901",
+      "full_name": "Faculty Officer 901",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.901@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 902,
+      "faculty_id": "FAC-INST-00902",
+      "full_name": "Faculty Officer 902",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.902@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 903,
+      "faculty_id": "FAC-INST-00903",
+      "full_name": "Faculty Officer 903",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.903@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 904,
+      "faculty_id": "FAC-INST-00904",
+      "full_name": "Faculty Officer 904",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.904@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 905,
+      "faculty_id": "FAC-INST-00905",
+      "full_name": "Faculty Officer 905",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.905@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 906,
+      "faculty_id": "FAC-INST-00906",
+      "full_name": "Faculty Officer 906",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.906@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 907,
+      "faculty_id": "FAC-INST-00907",
+      "full_name": "Faculty Officer 907",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.907@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 908,
+      "faculty_id": "FAC-INST-00908",
+      "full_name": "Faculty Officer 908",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.908@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 909,
+      "faculty_id": "FAC-INST-00909",
+      "full_name": "Faculty Officer 909",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.909@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 910,
+      "faculty_id": "FAC-INST-00910",
+      "full_name": "Faculty Officer 910",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.910@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 911,
+      "faculty_id": "FAC-INST-00911",
+      "full_name": "Faculty Officer 911",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.911@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 912,
+      "faculty_id": "FAC-INST-00912",
+      "full_name": "Faculty Officer 912",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.912@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 913,
+      "faculty_id": "FAC-INST-00913",
+      "full_name": "Faculty Officer 913",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.913@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 914,
+      "faculty_id": "FAC-INST-00914",
+      "full_name": "Faculty Officer 914",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.914@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 915,
+      "faculty_id": "FAC-INST-00915",
+      "full_name": "Faculty Officer 915",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.915@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 916,
+      "faculty_id": "FAC-INST-00916",
+      "full_name": "Faculty Officer 916",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.916@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 917,
+      "faculty_id": "FAC-INST-00917",
+      "full_name": "Faculty Officer 917",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.917@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 918,
+      "faculty_id": "FAC-INST-00918",
+      "full_name": "Faculty Officer 918",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.918@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 919,
+      "faculty_id": "FAC-INST-00919",
+      "full_name": "Faculty Officer 919",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.919@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 920,
+      "faculty_id": "FAC-INST-00920",
+      "full_name": "Faculty Officer 920",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.920@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 921,
+      "faculty_id": "FAC-INST-00921",
+      "full_name": "Faculty Officer 921",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.921@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 922,
+      "faculty_id": "FAC-INST-00922",
+      "full_name": "Faculty Officer 922",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.922@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 923,
+      "faculty_id": "FAC-INST-00923",
+      "full_name": "Faculty Officer 923",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.923@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 924,
+      "faculty_id": "FAC-INST-00924",
+      "full_name": "Faculty Officer 924",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.924@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 925,
+      "faculty_id": "FAC-INST-00925",
+      "full_name": "Faculty Officer 925",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.925@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 926,
+      "faculty_id": "FAC-INST-00926",
+      "full_name": "Faculty Officer 926",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.926@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 927,
+      "faculty_id": "FAC-INST-00927",
+      "full_name": "Faculty Officer 927",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.927@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 928,
+      "faculty_id": "FAC-INST-00928",
+      "full_name": "Faculty Officer 928",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.928@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 929,
+      "faculty_id": "FAC-INST-00929",
+      "full_name": "Faculty Officer 929",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.929@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 930,
+      "faculty_id": "FAC-INST-00930",
+      "full_name": "Faculty Officer 930",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.930@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 931,
+      "faculty_id": "FAC-INST-00931",
+      "full_name": "Faculty Officer 931",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.931@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 932,
+      "faculty_id": "FAC-INST-00932",
+      "full_name": "Faculty Officer 932",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.932@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 933,
+      "faculty_id": "FAC-INST-00933",
+      "full_name": "Faculty Officer 933",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.933@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 934,
+      "faculty_id": "FAC-INST-00934",
+      "full_name": "Faculty Officer 934",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.934@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 935,
+      "faculty_id": "FAC-INST-00935",
+      "full_name": "Faculty Officer 935",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.935@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 936,
+      "faculty_id": "FAC-INST-00936",
+      "full_name": "Faculty Officer 936",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.936@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 937,
+      "faculty_id": "FAC-INST-00937",
+      "full_name": "Faculty Officer 937",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.937@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 938,
+      "faculty_id": "FAC-INST-00938",
+      "full_name": "Faculty Officer 938",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.938@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 939,
+      "faculty_id": "FAC-INST-00939",
+      "full_name": "Faculty Officer 939",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.939@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 940,
+      "faculty_id": "FAC-INST-00940",
+      "full_name": "Faculty Officer 940",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.940@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 941,
+      "faculty_id": "FAC-INST-00941",
+      "full_name": "Faculty Officer 941",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.941@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 942,
+      "faculty_id": "FAC-INST-00942",
+      "full_name": "Faculty Officer 942",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.942@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 943,
+      "faculty_id": "FAC-INST-00943",
+      "full_name": "Faculty Officer 943",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.943@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 944,
+      "faculty_id": "FAC-INST-00944",
+      "full_name": "Faculty Officer 944",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.944@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 945,
+      "faculty_id": "FAC-INST-00945",
+      "full_name": "Faculty Officer 945",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.945@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 946,
+      "faculty_id": "FAC-INST-00946",
+      "full_name": "Faculty Officer 946",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.946@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 947,
+      "faculty_id": "FAC-INST-00947",
+      "full_name": "Faculty Officer 947",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.947@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 948,
+      "faculty_id": "FAC-INST-00948",
+      "full_name": "Faculty Officer 948",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.948@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 949,
+      "faculty_id": "FAC-INST-00949",
+      "full_name": "Faculty Officer 949",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.949@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 950,
+      "faculty_id": "FAC-INST-00950",
+      "full_name": "Faculty Officer 950",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.950@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 951,
+      "faculty_id": "FAC-INST-00951",
+      "full_name": "Faculty Officer 951",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.951@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 952,
+      "faculty_id": "FAC-INST-00952",
+      "full_name": "Faculty Officer 952",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.952@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 953,
+      "faculty_id": "FAC-INST-00953",
+      "full_name": "Faculty Officer 953",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.953@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 954,
+      "faculty_id": "FAC-INST-00954",
+      "full_name": "Faculty Officer 954",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.954@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 955,
+      "faculty_id": "FAC-INST-00955",
+      "full_name": "Faculty Officer 955",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.955@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 956,
+      "faculty_id": "FAC-INST-00956",
+      "full_name": "Faculty Officer 956",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.956@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 957,
+      "faculty_id": "FAC-INST-00957",
+      "full_name": "Faculty Officer 957",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.957@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 958,
+      "faculty_id": "FAC-INST-00958",
+      "full_name": "Faculty Officer 958",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.958@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 959,
+      "faculty_id": "FAC-INST-00959",
+      "full_name": "Faculty Officer 959",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.959@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 960,
+      "faculty_id": "FAC-INST-00960",
+      "full_name": "Faculty Officer 960",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.960@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 961,
+      "faculty_id": "FAC-INST-00961",
+      "full_name": "Faculty Officer 961",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.961@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 962,
+      "faculty_id": "FAC-INST-00962",
+      "full_name": "Faculty Officer 962",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.962@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 963,
+      "faculty_id": "FAC-INST-00963",
+      "full_name": "Faculty Officer 963",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.963@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 964,
+      "faculty_id": "FAC-INST-00964",
+      "full_name": "Faculty Officer 964",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.964@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 965,
+      "faculty_id": "FAC-INST-00965",
+      "full_name": "Faculty Officer 965",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.965@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 966,
+      "faculty_id": "FAC-INST-00966",
+      "full_name": "Faculty Officer 966",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.966@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 967,
+      "faculty_id": "FAC-INST-00967",
+      "full_name": "Faculty Officer 967",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.967@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 968,
+      "faculty_id": "FAC-INST-00968",
+      "full_name": "Faculty Officer 968",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.968@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 969,
+      "faculty_id": "FAC-INST-00969",
+      "full_name": "Faculty Officer 969",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.969@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 970,
+      "faculty_id": "FAC-INST-00970",
+      "full_name": "Faculty Officer 970",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.970@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 971,
+      "faculty_id": "FAC-INST-00971",
+      "full_name": "Faculty Officer 971",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.971@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 972,
+      "faculty_id": "FAC-INST-00972",
+      "full_name": "Faculty Officer 972",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.972@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 973,
+      "faculty_id": "FAC-INST-00973",
+      "full_name": "Faculty Officer 973",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.973@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 974,
+      "faculty_id": "FAC-INST-00974",
+      "full_name": "Faculty Officer 974",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.974@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 975,
+      "faculty_id": "FAC-INST-00975",
+      "full_name": "Faculty Officer 975",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.975@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 976,
+      "faculty_id": "FAC-INST-00976",
+      "full_name": "Faculty Officer 976",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.976@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 977,
+      "faculty_id": "FAC-INST-00977",
+      "full_name": "Faculty Officer 977",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.977@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 978,
+      "faculty_id": "FAC-INST-00978",
+      "full_name": "Faculty Officer 978",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.978@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 979,
+      "faculty_id": "FAC-INST-00979",
+      "full_name": "Faculty Officer 979",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.979@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 980,
+      "faculty_id": "FAC-INST-00980",
+      "full_name": "Faculty Officer 980",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.980@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 981,
+      "faculty_id": "FAC-INST-00981",
+      "full_name": "Faculty Officer 981",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.981@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 982,
+      "faculty_id": "FAC-INST-00982",
+      "full_name": "Faculty Officer 982",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.982@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 983,
+      "faculty_id": "FAC-INST-00983",
+      "full_name": "Faculty Officer 983",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.983@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 984,
+      "faculty_id": "FAC-INST-00984",
+      "full_name": "Faculty Officer 984",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.984@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 985,
+      "faculty_id": "FAC-INST-00985",
+      "full_name": "Faculty Officer 985",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.985@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 986,
+      "faculty_id": "FAC-INST-00986",
+      "full_name": "Faculty Officer 986",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.986@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 987,
+      "faculty_id": "FAC-INST-00987",
+      "full_name": "Faculty Officer 987",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.987@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 988,
+      "faculty_id": "FAC-INST-00988",
+      "full_name": "Faculty Officer 988",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.988@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 989,
+      "faculty_id": "FAC-INST-00989",
+      "full_name": "Faculty Officer 989",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.989@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 990,
+      "faculty_id": "FAC-INST-00990",
+      "full_name": "Faculty Officer 990",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.990@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 991,
+      "faculty_id": "FAC-INST-00991",
+      "full_name": "Faculty Officer 991",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.991@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 992,
+      "faculty_id": "FAC-INST-00992",
+      "full_name": "Faculty Officer 992",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.992@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 993,
+      "faculty_id": "FAC-INST-00993",
+      "full_name": "Faculty Officer 993",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.993@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 994,
+      "faculty_id": "FAC-INST-00994",
+      "full_name": "Faculty Officer 994",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.994@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 995,
+      "faculty_id": "FAC-INST-00995",
+      "full_name": "Faculty Officer 995",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.995@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 996,
+      "faculty_id": "FAC-INST-00996",
+      "full_name": "Faculty Officer 996",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.996@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 997,
+      "faculty_id": "FAC-INST-00997",
+      "full_name": "Faculty Officer 997",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.997@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 998,
+      "faculty_id": "FAC-INST-00998",
+      "full_name": "Faculty Officer 998",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.998@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 999,
+      "faculty_id": "FAC-INST-00999",
+      "full_name": "Faculty Officer 999",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.999@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1000,
+      "faculty_id": "FAC-INST-01000",
+      "full_name": "Faculty Officer 1000",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1000@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1001,
+      "faculty_id": "FAC-INST-01001",
+      "full_name": "Faculty Officer 1001",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1001@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1002,
+      "faculty_id": "FAC-INST-01002",
+      "full_name": "Faculty Officer 1002",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1002@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1003,
+      "faculty_id": "FAC-INST-01003",
+      "full_name": "Faculty Officer 1003",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1003@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1004,
+      "faculty_id": "FAC-INST-01004",
+      "full_name": "Faculty Officer 1004",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1004@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1005,
+      "faculty_id": "FAC-INST-01005",
+      "full_name": "Faculty Officer 1005",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1005@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1006,
+      "faculty_id": "FAC-INST-01006",
+      "full_name": "Faculty Officer 1006",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1006@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1007,
+      "faculty_id": "FAC-INST-01007",
+      "full_name": "Faculty Officer 1007",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1007@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1008,
+      "faculty_id": "FAC-INST-01008",
+      "full_name": "Faculty Officer 1008",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1008@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1009,
+      "faculty_id": "FAC-INST-01009",
+      "full_name": "Faculty Officer 1009",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1009@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1010,
+      "faculty_id": "FAC-INST-01010",
+      "full_name": "Faculty Officer 1010",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1010@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1011,
+      "faculty_id": "FAC-INST-01011",
+      "full_name": "Faculty Officer 1011",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1011@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1012,
+      "faculty_id": "FAC-INST-01012",
+      "full_name": "Faculty Officer 1012",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1012@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1013,
+      "faculty_id": "FAC-INST-01013",
+      "full_name": "Faculty Officer 1013",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1013@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1014,
+      "faculty_id": "FAC-INST-01014",
+      "full_name": "Faculty Officer 1014",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1014@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1015,
+      "faculty_id": "FAC-INST-01015",
+      "full_name": "Faculty Officer 1015",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1015@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1016,
+      "faculty_id": "FAC-INST-01016",
+      "full_name": "Faculty Officer 1016",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1016@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1017,
+      "faculty_id": "FAC-INST-01017",
+      "full_name": "Faculty Officer 1017",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1017@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1018,
+      "faculty_id": "FAC-INST-01018",
+      "full_name": "Faculty Officer 1018",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1018@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1019,
+      "faculty_id": "FAC-INST-01019",
+      "full_name": "Faculty Officer 1019",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1019@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1020,
+      "faculty_id": "FAC-INST-01020",
+      "full_name": "Faculty Officer 1020",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1020@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1021,
+      "faculty_id": "FAC-INST-01021",
+      "full_name": "Faculty Officer 1021",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1021@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1022,
+      "faculty_id": "FAC-INST-01022",
+      "full_name": "Faculty Officer 1022",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1022@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1023,
+      "faculty_id": "FAC-INST-01023",
+      "full_name": "Faculty Officer 1023",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1023@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1024,
+      "faculty_id": "FAC-INST-01024",
+      "full_name": "Faculty Officer 1024",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1024@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1025,
+      "faculty_id": "FAC-INST-01025",
+      "full_name": "Faculty Officer 1025",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1025@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1026,
+      "faculty_id": "FAC-INST-01026",
+      "full_name": "Faculty Officer 1026",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1026@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1027,
+      "faculty_id": "FAC-INST-01027",
+      "full_name": "Faculty Officer 1027",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1027@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1028,
+      "faculty_id": "FAC-INST-01028",
+      "full_name": "Faculty Officer 1028",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1028@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1029,
+      "faculty_id": "FAC-INST-01029",
+      "full_name": "Faculty Officer 1029",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1029@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1030,
+      "faculty_id": "FAC-INST-01030",
+      "full_name": "Faculty Officer 1030",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1030@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1031,
+      "faculty_id": "FAC-INST-01031",
+      "full_name": "Faculty Officer 1031",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1031@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1032,
+      "faculty_id": "FAC-INST-01032",
+      "full_name": "Faculty Officer 1032",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1032@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1033,
+      "faculty_id": "FAC-INST-01033",
+      "full_name": "Faculty Officer 1033",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1033@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1034,
+      "faculty_id": "FAC-INST-01034",
+      "full_name": "Faculty Officer 1034",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1034@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1035,
+      "faculty_id": "FAC-INST-01035",
+      "full_name": "Faculty Officer 1035",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1035@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1036,
+      "faculty_id": "FAC-INST-01036",
+      "full_name": "Faculty Officer 1036",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1036@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1037,
+      "faculty_id": "FAC-INST-01037",
+      "full_name": "Faculty Officer 1037",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1037@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1038,
+      "faculty_id": "FAC-INST-01038",
+      "full_name": "Faculty Officer 1038",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1038@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1039,
+      "faculty_id": "FAC-INST-01039",
+      "full_name": "Faculty Officer 1039",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1039@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1040,
+      "faculty_id": "FAC-INST-01040",
+      "full_name": "Faculty Officer 1040",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1040@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1041,
+      "faculty_id": "FAC-INST-01041",
+      "full_name": "Faculty Officer 1041",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1041@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1042,
+      "faculty_id": "FAC-INST-01042",
+      "full_name": "Faculty Officer 1042",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1042@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1043,
+      "faculty_id": "FAC-INST-01043",
+      "full_name": "Faculty Officer 1043",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1043@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1044,
+      "faculty_id": "FAC-INST-01044",
+      "full_name": "Faculty Officer 1044",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1044@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1045,
+      "faculty_id": "FAC-INST-01045",
+      "full_name": "Faculty Officer 1045",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1045@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1046,
+      "faculty_id": "FAC-INST-01046",
+      "full_name": "Faculty Officer 1046",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1046@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1047,
+      "faculty_id": "FAC-INST-01047",
+      "full_name": "Faculty Officer 1047",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1047@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1048,
+      "faculty_id": "FAC-INST-01048",
+      "full_name": "Faculty Officer 1048",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1048@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1049,
+      "faculty_id": "FAC-INST-01049",
+      "full_name": "Faculty Officer 1049",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1049@examforge.edu",
+      "status": "ACTIVE"
+    },
+    {
+      "record_id": 1050,
+      "faculty_id": "FAC-INST-01050",
+      "full_name": "Faculty Officer 1050",
+      "department": "Engineering and Sciences",
+      "designation": "Professor",
+      "email": "faculty.1050@examforge.edu",
+      "status": "ACTIVE"
+    }
+  ]
+}
