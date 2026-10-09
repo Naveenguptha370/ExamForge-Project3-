@@ -1,0 +1,1688 @@
+/* ExamForge - Availability Scheduler Stylesheet */
+:root {
+  --ef-forest: #14532D;
+  --ef-emerald: #15803D;
+  --ef-sage: #DDEBDD;
+  --ef-error: #DC2626;
+}
+/* Scheduler Grid Layout Rule 1 */
+.ef-sched-rule-block-1 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 2 */
+.ef-sched-rule-block-2 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 3 */
+.ef-sched-rule-block-3 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 4 */
+.ef-sched-rule-block-4 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 5 */
+.ef-sched-rule-block-5 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 6 */
+.ef-sched-rule-block-6 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 7 */
+.ef-sched-rule-block-7 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 8 */
+.ef-sched-rule-block-8 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 9 */
+.ef-sched-rule-block-9 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 10 */
+.ef-sched-rule-block-10 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 11 */
+.ef-sched-rule-block-11 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 12 */
+.ef-sched-rule-block-12 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 13 */
+.ef-sched-rule-block-13 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 14 */
+.ef-sched-rule-block-14 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 15 */
+.ef-sched-rule-block-15 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 16 */
+.ef-sched-rule-block-16 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 17 */
+.ef-sched-rule-block-17 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 18 */
+.ef-sched-rule-block-18 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 19 */
+.ef-sched-rule-block-19 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 20 */
+.ef-sched-rule-block-20 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 21 */
+.ef-sched-rule-block-21 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 22 */
+.ef-sched-rule-block-22 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 23 */
+.ef-sched-rule-block-23 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 24 */
+.ef-sched-rule-block-24 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 25 */
+.ef-sched-rule-block-25 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 26 */
+.ef-sched-rule-block-26 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 27 */
+.ef-sched-rule-block-27 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 28 */
+.ef-sched-rule-block-28 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 29 */
+.ef-sched-rule-block-29 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 30 */
+.ef-sched-rule-block-30 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 31 */
+.ef-sched-rule-block-31 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 32 */
+.ef-sched-rule-block-32 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 33 */
+.ef-sched-rule-block-33 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 34 */
+.ef-sched-rule-block-34 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 35 */
+.ef-sched-rule-block-35 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 36 */
+.ef-sched-rule-block-36 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 37 */
+.ef-sched-rule-block-37 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 38 */
+.ef-sched-rule-block-38 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 39 */
+.ef-sched-rule-block-39 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 40 */
+.ef-sched-rule-block-40 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 41 */
+.ef-sched-rule-block-41 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 42 */
+.ef-sched-rule-block-42 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 43 */
+.ef-sched-rule-block-43 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 44 */
+.ef-sched-rule-block-44 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 45 */
+.ef-sched-rule-block-45 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 46 */
+.ef-sched-rule-block-46 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 47 */
+.ef-sched-rule-block-47 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 48 */
+.ef-sched-rule-block-48 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 49 */
+.ef-sched-rule-block-49 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 50 */
+.ef-sched-rule-block-50 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 51 */
+.ef-sched-rule-block-51 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 52 */
+.ef-sched-rule-block-52 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 53 */
+.ef-sched-rule-block-53 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 54 */
+.ef-sched-rule-block-54 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 55 */
+.ef-sched-rule-block-55 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 56 */
+.ef-sched-rule-block-56 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 57 */
+.ef-sched-rule-block-57 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 58 */
+.ef-sched-rule-block-58 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 59 */
+.ef-sched-rule-block-59 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 60 */
+.ef-sched-rule-block-60 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 61 */
+.ef-sched-rule-block-61 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 62 */
+.ef-sched-rule-block-62 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 63 */
+.ef-sched-rule-block-63 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 64 */
+.ef-sched-rule-block-64 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 65 */
+.ef-sched-rule-block-65 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 66 */
+.ef-sched-rule-block-66 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 67 */
+.ef-sched-rule-block-67 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 68 */
+.ef-sched-rule-block-68 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 69 */
+.ef-sched-rule-block-69 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 70 */
+.ef-sched-rule-block-70 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 71 */
+.ef-sched-rule-block-71 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 72 */
+.ef-sched-rule-block-72 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 73 */
+.ef-sched-rule-block-73 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 74 */
+.ef-sched-rule-block-74 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 75 */
+.ef-sched-rule-block-75 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 76 */
+.ef-sched-rule-block-76 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 77 */
+.ef-sched-rule-block-77 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 78 */
+.ef-sched-rule-block-78 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 79 */
+.ef-sched-rule-block-79 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 80 */
+.ef-sched-rule-block-80 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 81 */
+.ef-sched-rule-block-81 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 82 */
+.ef-sched-rule-block-82 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 83 */
+.ef-sched-rule-block-83 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 84 */
+.ef-sched-rule-block-84 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 85 */
+.ef-sched-rule-block-85 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 86 */
+.ef-sched-rule-block-86 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 87 */
+.ef-sched-rule-block-87 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 88 */
+.ef-sched-rule-block-88 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 89 */
+.ef-sched-rule-block-89 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 90 */
+.ef-sched-rule-block-90 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 91 */
+.ef-sched-rule-block-91 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 92 */
+.ef-sched-rule-block-92 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 93 */
+.ef-sched-rule-block-93 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 94 */
+.ef-sched-rule-block-94 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 95 */
+.ef-sched-rule-block-95 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 96 */
+.ef-sched-rule-block-96 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 97 */
+.ef-sched-rule-block-97 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 98 */
+.ef-sched-rule-block-98 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 99 */
+.ef-sched-rule-block-99 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 100 */
+.ef-sched-rule-block-100 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 101 */
+.ef-sched-rule-block-101 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 102 */
+.ef-sched-rule-block-102 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 103 */
+.ef-sched-rule-block-103 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 104 */
+.ef-sched-rule-block-104 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 105 */
+.ef-sched-rule-block-105 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 106 */
+.ef-sched-rule-block-106 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 107 */
+.ef-sched-rule-block-107 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 108 */
+.ef-sched-rule-block-108 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 109 */
+.ef-sched-rule-block-109 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 110 */
+.ef-sched-rule-block-110 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 111 */
+.ef-sched-rule-block-111 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 112 */
+.ef-sched-rule-block-112 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 113 */
+.ef-sched-rule-block-113 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 114 */
+.ef-sched-rule-block-114 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 115 */
+.ef-sched-rule-block-115 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 116 */
+.ef-sched-rule-block-116 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 117 */
+.ef-sched-rule-block-117 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 118 */
+.ef-sched-rule-block-118 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 119 */
+.ef-sched-rule-block-119 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 120 */
+.ef-sched-rule-block-120 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 121 */
+.ef-sched-rule-block-121 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 122 */
+.ef-sched-rule-block-122 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 123 */
+.ef-sched-rule-block-123 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 124 */
+.ef-sched-rule-block-124 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 125 */
+.ef-sched-rule-block-125 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 126 */
+.ef-sched-rule-block-126 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 127 */
+.ef-sched-rule-block-127 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 128 */
+.ef-sched-rule-block-128 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 129 */
+.ef-sched-rule-block-129 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 130 */
+.ef-sched-rule-block-130 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 131 */
+.ef-sched-rule-block-131 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 132 */
+.ef-sched-rule-block-132 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 133 */
+.ef-sched-rule-block-133 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 134 */
+.ef-sched-rule-block-134 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 135 */
+.ef-sched-rule-block-135 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 136 */
+.ef-sched-rule-block-136 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 137 */
+.ef-sched-rule-block-137 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 138 */
+.ef-sched-rule-block-138 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 139 */
+.ef-sched-rule-block-139 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 140 */
+.ef-sched-rule-block-140 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 141 */
+.ef-sched-rule-block-141 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 142 */
+.ef-sched-rule-block-142 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 143 */
+.ef-sched-rule-block-143 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 144 */
+.ef-sched-rule-block-144 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 145 */
+.ef-sched-rule-block-145 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 146 */
+.ef-sched-rule-block-146 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 147 */
+.ef-sched-rule-block-147 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 148 */
+.ef-sched-rule-block-148 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 149 */
+.ef-sched-rule-block-149 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 150 */
+.ef-sched-rule-block-150 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 151 */
+.ef-sched-rule-block-151 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 152 */
+.ef-sched-rule-block-152 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 153 */
+.ef-sched-rule-block-153 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 154 */
+.ef-sched-rule-block-154 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 155 */
+.ef-sched-rule-block-155 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 156 */
+.ef-sched-rule-block-156 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 157 */
+.ef-sched-rule-block-157 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 158 */
+.ef-sched-rule-block-158 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 159 */
+.ef-sched-rule-block-159 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 160 */
+.ef-sched-rule-block-160 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 161 */
+.ef-sched-rule-block-161 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 162 */
+.ef-sched-rule-block-162 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 163 */
+.ef-sched-rule-block-163 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 164 */
+.ef-sched-rule-block-164 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 165 */
+.ef-sched-rule-block-165 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 166 */
+.ef-sched-rule-block-166 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 167 */
+.ef-sched-rule-block-167 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 168 */
+.ef-sched-rule-block-168 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 169 */
+.ef-sched-rule-block-169 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 170 */
+.ef-sched-rule-block-170 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 171 */
+.ef-sched-rule-block-171 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 172 */
+.ef-sched-rule-block-172 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 173 */
+.ef-sched-rule-block-173 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 174 */
+.ef-sched-rule-block-174 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 175 */
+.ef-sched-rule-block-175 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 176 */
+.ef-sched-rule-block-176 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 177 */
+.ef-sched-rule-block-177 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 178 */
+.ef-sched-rule-block-178 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 179 */
+.ef-sched-rule-block-179 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 180 */
+.ef-sched-rule-block-180 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 181 */
+.ef-sched-rule-block-181 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 182 */
+.ef-sched-rule-block-182 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 183 */
+.ef-sched-rule-block-183 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 184 */
+.ef-sched-rule-block-184 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 185 */
+.ef-sched-rule-block-185 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 186 */
+.ef-sched-rule-block-186 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 187 */
+.ef-sched-rule-block-187 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 188 */
+.ef-sched-rule-block-188 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 189 */
+.ef-sched-rule-block-189 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 190 */
+.ef-sched-rule-block-190 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 191 */
+.ef-sched-rule-block-191 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 192 */
+.ef-sched-rule-block-192 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 193 */
+.ef-sched-rule-block-193 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 194 */
+.ef-sched-rule-block-194 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 195 */
+.ef-sched-rule-block-195 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 196 */
+.ef-sched-rule-block-196 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 197 */
+.ef-sched-rule-block-197 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 198 */
+.ef-sched-rule-block-198 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 199 */
+.ef-sched-rule-block-199 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 200 */
+.ef-sched-rule-block-200 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 201 */
+.ef-sched-rule-block-201 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 202 */
+.ef-sched-rule-block-202 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 203 */
+.ef-sched-rule-block-203 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 204 */
+.ef-sched-rule-block-204 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 205 */
+.ef-sched-rule-block-205 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 206 */
+.ef-sched-rule-block-206 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 207 */
+.ef-sched-rule-block-207 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 208 */
+.ef-sched-rule-block-208 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 209 */
+.ef-sched-rule-block-209 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 210 */
+.ef-sched-rule-block-210 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 211 */
+.ef-sched-rule-block-211 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 212 */
+.ef-sched-rule-block-212 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 213 */
+.ef-sched-rule-block-213 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 214 */
+.ef-sched-rule-block-214 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 215 */
+.ef-sched-rule-block-215 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 216 */
+.ef-sched-rule-block-216 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 217 */
+.ef-sched-rule-block-217 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 218 */
+.ef-sched-rule-block-218 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 219 */
+.ef-sched-rule-block-219 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 220 */
+.ef-sched-rule-block-220 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 221 */
+.ef-sched-rule-block-221 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 222 */
+.ef-sched-rule-block-222 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 223 */
+.ef-sched-rule-block-223 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 224 */
+.ef-sched-rule-block-224 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 225 */
+.ef-sched-rule-block-225 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 226 */
+.ef-sched-rule-block-226 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 227 */
+.ef-sched-rule-block-227 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 228 */
+.ef-sched-rule-block-228 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 229 */
+.ef-sched-rule-block-229 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 230 */
+.ef-sched-rule-block-230 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 231 */
+.ef-sched-rule-block-231 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 232 */
+.ef-sched-rule-block-232 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 233 */
+.ef-sched-rule-block-233 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 234 */
+.ef-sched-rule-block-234 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 235 */
+.ef-sched-rule-block-235 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 236 */
+.ef-sched-rule-block-236 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 237 */
+.ef-sched-rule-block-237 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 238 */
+.ef-sched-rule-block-238 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 239 */
+.ef-sched-rule-block-239 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 240 */
+.ef-sched-rule-block-240 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 241 */
+.ef-sched-rule-block-241 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 242 */
+.ef-sched-rule-block-242 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 243 */
+.ef-sched-rule-block-243 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 244 */
+.ef-sched-rule-block-244 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 245 */
+.ef-sched-rule-block-245 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 246 */
+.ef-sched-rule-block-246 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 247 */
+.ef-sched-rule-block-247 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 248 */
+.ef-sched-rule-block-248 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 249 */
+.ef-sched-rule-block-249 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 250 */
+.ef-sched-rule-block-250 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 251 */
+.ef-sched-rule-block-251 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 252 */
+.ef-sched-rule-block-252 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 253 */
+.ef-sched-rule-block-253 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 254 */
+.ef-sched-rule-block-254 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 255 */
+.ef-sched-rule-block-255 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 256 */
+.ef-sched-rule-block-256 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 257 */
+.ef-sched-rule-block-257 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 258 */
+.ef-sched-rule-block-258 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 259 */
+.ef-sched-rule-block-259 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 260 */
+.ef-sched-rule-block-260 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 261 */
+.ef-sched-rule-block-261 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 262 */
+.ef-sched-rule-block-262 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 263 */
+.ef-sched-rule-block-263 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 264 */
+.ef-sched-rule-block-264 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 265 */
+.ef-sched-rule-block-265 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 266 */
+.ef-sched-rule-block-266 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 267 */
+.ef-sched-rule-block-267 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 268 */
+.ef-sched-rule-block-268 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 269 */
+.ef-sched-rule-block-269 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+/* Scheduler Grid Layout Rule 270 */
+.ef-sched-rule-block-270 {
+  display: block;
+  margin: 4px;
+  border-radius: 4px;
+}
+
+.ef-scheduler-wrap {
+  padding: 24px;
+  background: #FFFFFF;
+  border: 1px solid #E7E5E4;
+  border-radius: 12px;
+}
+.ef-sched-title {
+  color: var(--ef-forest);
+  margin: 0 0 6px 0;
+  font-size: 18px;
+}
+.ef-sched-desc {
+  color: #6B7280;
+  margin: 0 0 20px 0;
+  font-size: 13px;
+}
+.ef-sched-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.ef-sched-table th {
+  background: #FAF9F6;
+  padding: 12px;
+  text-align: center;
+  font-size: 12px;
+  color: #6B7280;
+  border: 1px solid #E7E5E4;
+}
+.ef-day-cell {
+  padding: 12px;
+  font-weight: 600;
+  color: #242923;
+  border: 1px solid #E7E5E4;
+}
+.ef-slot-cell {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #E7E5E4;
+}
+.ef-slot-btn {
+  width: 100%;
+  max-width: 140px;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border: none;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+.ef-slot-btn.available {
+  background: var(--ef-sage);
+  color: var(--ef-forest);
+  border: 1px solid var(--ef-emerald);
+}
+.ef-slot-btn.unavailable {
+  background: #FEE2E2;
+  color: var(--ef-error);
+  border: 1px solid #FCA5A5;
+}
