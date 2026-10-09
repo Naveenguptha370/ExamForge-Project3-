@@ -187,6 +187,16 @@ In accordance with team development protocols, work across the 5 members was org
 
 ---
 
-## 9. License & Institutional Copyright
+## 9. Contributors & Core Engineering Team
+
+ExamForge is developed and maintained by:
+
+- **Pernamitta Sumanth Reddy** ([@pernamittasumanthreddy](https://github.com/pernamittasumanthreddy)) — Lead Engineer: Infrastructure, Seating Arrangement Engine, Room Synchronization & Invigilator Rostering (Member 4)
+- **Pavan Kalyan Vallabhaneni** ([@pavankalyanvallabhaneni8](https://github.com/pavankalyanvallabhaneni8)) — Attendance Management, Answer Booklet Logging & Examination Operations
+- **Naveen Guptha** ([@Naveenguptha370](https://github.com/Naveenguptha370)) — Project Lead, Architecture & Core Coordination
+
+---
+
+## 10. License & Institutional Copyright
 
 © 2026 ExamForge Academic Consortium. Built for higher education administration excellence.
