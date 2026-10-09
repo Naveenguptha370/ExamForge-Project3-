@@ -1,0 +1,3726 @@
+/* =========================================================
+   ExamForge - Authentication & Identity Visual Design System
+   Member 1: Theme Identity: Deep Forest Green & Warm Ivory
+   STRICT RULE: Absolutely NO Blue or Cyan anywhere in the UI.
+   ========================================================= */
+
+:root {
+  --ef-forest-green: #14532D;
+  --ef-emerald-green: #15803D;
+  --ef-sage-green: #DDEBDD;
+  --ef-warm-amber: #F59E0B;
+  --ef-premium-gold: #D4A72C;
+  --ef-warm-ivory: #FAF9F6;
+  --ef-card-white: #FFFFFF;
+  --ef-charcoal-text: #242923;
+  --ef-muted-gray: #6B7280;
+  --ef-neutral-border: #E7E5E4;
+  --ef-success: #16A34A;
+  --ef-warning: #D97706;
+  --ef-error: #DC2626;
+}
+/* UI Theme Module Component Class Block 1 */
+.ef-auth-theme-spec-1 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-1:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 2 */
+.ef-auth-theme-spec-2 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-2:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 3 */
+.ef-auth-theme-spec-3 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-3:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 4 */
+.ef-auth-theme-spec-4 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-4:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 5 */
+.ef-auth-theme-spec-5 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-5:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 6 */
+.ef-auth-theme-spec-6 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-6:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 7 */
+.ef-auth-theme-spec-7 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-7:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 8 */
+.ef-auth-theme-spec-8 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-8:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 9 */
+.ef-auth-theme-spec-9 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-9:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 10 */
+.ef-auth-theme-spec-10 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-10:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 11 */
+.ef-auth-theme-spec-11 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-11:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 12 */
+.ef-auth-theme-spec-12 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-12:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 13 */
+.ef-auth-theme-spec-13 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-13:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 14 */
+.ef-auth-theme-spec-14 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-14:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 15 */
+.ef-auth-theme-spec-15 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-15:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 16 */
+.ef-auth-theme-spec-16 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-16:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 17 */
+.ef-auth-theme-spec-17 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-17:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 18 */
+.ef-auth-theme-spec-18 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-18:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 19 */
+.ef-auth-theme-spec-19 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-19:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 20 */
+.ef-auth-theme-spec-20 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-20:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 21 */
+.ef-auth-theme-spec-21 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-21:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 22 */
+.ef-auth-theme-spec-22 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-22:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 23 */
+.ef-auth-theme-spec-23 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-23:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 24 */
+.ef-auth-theme-spec-24 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-24:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 25 */
+.ef-auth-theme-spec-25 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-25:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 26 */
+.ef-auth-theme-spec-26 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-26:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 27 */
+.ef-auth-theme-spec-27 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-27:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 28 */
+.ef-auth-theme-spec-28 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-28:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 29 */
+.ef-auth-theme-spec-29 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-29:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 30 */
+.ef-auth-theme-spec-30 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-30:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 31 */
+.ef-auth-theme-spec-31 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-31:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 32 */
+.ef-auth-theme-spec-32 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-32:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 33 */
+.ef-auth-theme-spec-33 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-33:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 34 */
+.ef-auth-theme-spec-34 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-34:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 35 */
+.ef-auth-theme-spec-35 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-35:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 36 */
+.ef-auth-theme-spec-36 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-36:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 37 */
+.ef-auth-theme-spec-37 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-37:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 38 */
+.ef-auth-theme-spec-38 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-38:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 39 */
+.ef-auth-theme-spec-39 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-39:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 40 */
+.ef-auth-theme-spec-40 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-40:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 41 */
+.ef-auth-theme-spec-41 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-41:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 42 */
+.ef-auth-theme-spec-42 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-42:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 43 */
+.ef-auth-theme-spec-43 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-43:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 44 */
+.ef-auth-theme-spec-44 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-44:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 45 */
+.ef-auth-theme-spec-45 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-45:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 46 */
+.ef-auth-theme-spec-46 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-46:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 47 */
+.ef-auth-theme-spec-47 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-47:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 48 */
+.ef-auth-theme-spec-48 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-48:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 49 */
+.ef-auth-theme-spec-49 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-49:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 50 */
+.ef-auth-theme-spec-50 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-50:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 51 */
+.ef-auth-theme-spec-51 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-51:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 52 */
+.ef-auth-theme-spec-52 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-52:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 53 */
+.ef-auth-theme-spec-53 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-53:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 54 */
+.ef-auth-theme-spec-54 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-54:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 55 */
+.ef-auth-theme-spec-55 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-55:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 56 */
+.ef-auth-theme-spec-56 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-56:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 57 */
+.ef-auth-theme-spec-57 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-57:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 58 */
+.ef-auth-theme-spec-58 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-58:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 59 */
+.ef-auth-theme-spec-59 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-59:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 60 */
+.ef-auth-theme-spec-60 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-60:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 61 */
+.ef-auth-theme-spec-61 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-61:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 62 */
+.ef-auth-theme-spec-62 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-62:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 63 */
+.ef-auth-theme-spec-63 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-63:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 64 */
+.ef-auth-theme-spec-64 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-64:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 65 */
+.ef-auth-theme-spec-65 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-65:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 66 */
+.ef-auth-theme-spec-66 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-66:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 67 */
+.ef-auth-theme-spec-67 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-67:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 68 */
+.ef-auth-theme-spec-68 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-68:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 69 */
+.ef-auth-theme-spec-69 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-69:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 70 */
+.ef-auth-theme-spec-70 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-70:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 71 */
+.ef-auth-theme-spec-71 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-71:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 72 */
+.ef-auth-theme-spec-72 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-72:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 73 */
+.ef-auth-theme-spec-73 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-73:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 74 */
+.ef-auth-theme-spec-74 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-74:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 75 */
+.ef-auth-theme-spec-75 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-75:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 76 */
+.ef-auth-theme-spec-76 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-76:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 77 */
+.ef-auth-theme-spec-77 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-77:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 78 */
+.ef-auth-theme-spec-78 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-78:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 79 */
+.ef-auth-theme-spec-79 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-79:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 80 */
+.ef-auth-theme-spec-80 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-80:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 81 */
+.ef-auth-theme-spec-81 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-81:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 82 */
+.ef-auth-theme-spec-82 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-82:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 83 */
+.ef-auth-theme-spec-83 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-83:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 84 */
+.ef-auth-theme-spec-84 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-84:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 85 */
+.ef-auth-theme-spec-85 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-85:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 86 */
+.ef-auth-theme-spec-86 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-86:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 87 */
+.ef-auth-theme-spec-87 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-87:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 88 */
+.ef-auth-theme-spec-88 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-88:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 89 */
+.ef-auth-theme-spec-89 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-89:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 90 */
+.ef-auth-theme-spec-90 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-90:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 91 */
+.ef-auth-theme-spec-91 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-91:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 92 */
+.ef-auth-theme-spec-92 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-92:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 93 */
+.ef-auth-theme-spec-93 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-93:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 94 */
+.ef-auth-theme-spec-94 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-94:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 95 */
+.ef-auth-theme-spec-95 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-95:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 96 */
+.ef-auth-theme-spec-96 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-96:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 97 */
+.ef-auth-theme-spec-97 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-97:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 98 */
+.ef-auth-theme-spec-98 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-98:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 99 */
+.ef-auth-theme-spec-99 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-99:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 100 */
+.ef-auth-theme-spec-100 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-100:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 101 */
+.ef-auth-theme-spec-101 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-101:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 102 */
+.ef-auth-theme-spec-102 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-102:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 103 */
+.ef-auth-theme-spec-103 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-103:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 104 */
+.ef-auth-theme-spec-104 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-104:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 105 */
+.ef-auth-theme-spec-105 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-105:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 106 */
+.ef-auth-theme-spec-106 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-106:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 107 */
+.ef-auth-theme-spec-107 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-107:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 108 */
+.ef-auth-theme-spec-108 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-108:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 109 */
+.ef-auth-theme-spec-109 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-109:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 110 */
+.ef-auth-theme-spec-110 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-110:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 111 */
+.ef-auth-theme-spec-111 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-111:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 112 */
+.ef-auth-theme-spec-112 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-112:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 113 */
+.ef-auth-theme-spec-113 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-113:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 114 */
+.ef-auth-theme-spec-114 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-114:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 115 */
+.ef-auth-theme-spec-115 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-115:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 116 */
+.ef-auth-theme-spec-116 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-116:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 117 */
+.ef-auth-theme-spec-117 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-117:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 118 */
+.ef-auth-theme-spec-118 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-118:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 119 */
+.ef-auth-theme-spec-119 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-119:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 120 */
+.ef-auth-theme-spec-120 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-120:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 121 */
+.ef-auth-theme-spec-121 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-121:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 122 */
+.ef-auth-theme-spec-122 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-122:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 123 */
+.ef-auth-theme-spec-123 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-123:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 124 */
+.ef-auth-theme-spec-124 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-124:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 125 */
+.ef-auth-theme-spec-125 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-125:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 126 */
+.ef-auth-theme-spec-126 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-126:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 127 */
+.ef-auth-theme-spec-127 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-127:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 128 */
+.ef-auth-theme-spec-128 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-128:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 129 */
+.ef-auth-theme-spec-129 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-129:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 130 */
+.ef-auth-theme-spec-130 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-130:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 131 */
+.ef-auth-theme-spec-131 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-131:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 132 */
+.ef-auth-theme-spec-132 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-132:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 133 */
+.ef-auth-theme-spec-133 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-133:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 134 */
+.ef-auth-theme-spec-134 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-134:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 135 */
+.ef-auth-theme-spec-135 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-135:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 136 */
+.ef-auth-theme-spec-136 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-136:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 137 */
+.ef-auth-theme-spec-137 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-137:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 138 */
+.ef-auth-theme-spec-138 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-138:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 139 */
+.ef-auth-theme-spec-139 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-139:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 140 */
+.ef-auth-theme-spec-140 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-140:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 141 */
+.ef-auth-theme-spec-141 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-141:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 142 */
+.ef-auth-theme-spec-142 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-142:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 143 */
+.ef-auth-theme-spec-143 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-143:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 144 */
+.ef-auth-theme-spec-144 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-144:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 145 */
+.ef-auth-theme-spec-145 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-145:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 146 */
+.ef-auth-theme-spec-146 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-146:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 147 */
+.ef-auth-theme-spec-147 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-147:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 148 */
+.ef-auth-theme-spec-148 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-148:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 149 */
+.ef-auth-theme-spec-149 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-149:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 150 */
+.ef-auth-theme-spec-150 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-150:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 151 */
+.ef-auth-theme-spec-151 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-151:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 152 */
+.ef-auth-theme-spec-152 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-152:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 153 */
+.ef-auth-theme-spec-153 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-153:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 154 */
+.ef-auth-theme-spec-154 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-154:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 155 */
+.ef-auth-theme-spec-155 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-155:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 156 */
+.ef-auth-theme-spec-156 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-156:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 157 */
+.ef-auth-theme-spec-157 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-157:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 158 */
+.ef-auth-theme-spec-158 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-158:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 159 */
+.ef-auth-theme-spec-159 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-159:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 160 */
+.ef-auth-theme-spec-160 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-160:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 161 */
+.ef-auth-theme-spec-161 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-161:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 162 */
+.ef-auth-theme-spec-162 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-162:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 163 */
+.ef-auth-theme-spec-163 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-163:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 164 */
+.ef-auth-theme-spec-164 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-164:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 165 */
+.ef-auth-theme-spec-165 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-165:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 166 */
+.ef-auth-theme-spec-166 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-166:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 167 */
+.ef-auth-theme-spec-167 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-167:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 168 */
+.ef-auth-theme-spec-168 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-168:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 169 */
+.ef-auth-theme-spec-169 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-169:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 170 */
+.ef-auth-theme-spec-170 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-170:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 171 */
+.ef-auth-theme-spec-171 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-171:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 172 */
+.ef-auth-theme-spec-172 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-172:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 173 */
+.ef-auth-theme-spec-173 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-173:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 174 */
+.ef-auth-theme-spec-174 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-174:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 175 */
+.ef-auth-theme-spec-175 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-175:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 176 */
+.ef-auth-theme-spec-176 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-176:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 177 */
+.ef-auth-theme-spec-177 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-177:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 178 */
+.ef-auth-theme-spec-178 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-178:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 179 */
+.ef-auth-theme-spec-179 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-179:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 180 */
+.ef-auth-theme-spec-180 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-180:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 181 */
+.ef-auth-theme-spec-181 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-181:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 182 */
+.ef-auth-theme-spec-182 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-182:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 183 */
+.ef-auth-theme-spec-183 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-183:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 184 */
+.ef-auth-theme-spec-184 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-184:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 185 */
+.ef-auth-theme-spec-185 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-185:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 186 */
+.ef-auth-theme-spec-186 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-186:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 187 */
+.ef-auth-theme-spec-187 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-187:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 188 */
+.ef-auth-theme-spec-188 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-188:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 189 */
+.ef-auth-theme-spec-189 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-189:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 190 */
+.ef-auth-theme-spec-190 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-190:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 191 */
+.ef-auth-theme-spec-191 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-191:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 192 */
+.ef-auth-theme-spec-192 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-192:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 193 */
+.ef-auth-theme-spec-193 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-193:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 194 */
+.ef-auth-theme-spec-194 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-194:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 195 */
+.ef-auth-theme-spec-195 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-195:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 196 */
+.ef-auth-theme-spec-196 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-196:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 197 */
+.ef-auth-theme-spec-197 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-197:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 198 */
+.ef-auth-theme-spec-198 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-198:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 199 */
+.ef-auth-theme-spec-199 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-199:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 200 */
+.ef-auth-theme-spec-200 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-200:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 201 */
+.ef-auth-theme-spec-201 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-201:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 202 */
+.ef-auth-theme-spec-202 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-202:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 203 */
+.ef-auth-theme-spec-203 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-203:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 204 */
+.ef-auth-theme-spec-204 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-204:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 205 */
+.ef-auth-theme-spec-205 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-205:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 206 */
+.ef-auth-theme-spec-206 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-206:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 207 */
+.ef-auth-theme-spec-207 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-207:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 208 */
+.ef-auth-theme-spec-208 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-208:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 209 */
+.ef-auth-theme-spec-209 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-209:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 210 */
+.ef-auth-theme-spec-210 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-210:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 211 */
+.ef-auth-theme-spec-211 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-211:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 212 */
+.ef-auth-theme-spec-212 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-212:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 213 */
+.ef-auth-theme-spec-213 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-213:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 214 */
+.ef-auth-theme-spec-214 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-214:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 215 */
+.ef-auth-theme-spec-215 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-215:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 216 */
+.ef-auth-theme-spec-216 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-216:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 217 */
+.ef-auth-theme-spec-217 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-217:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 218 */
+.ef-auth-theme-spec-218 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-218:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 219 */
+.ef-auth-theme-spec-219 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-219:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 220 */
+.ef-auth-theme-spec-220 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-220:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 221 */
+.ef-auth-theme-spec-221 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-221:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 222 */
+.ef-auth-theme-spec-222 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-222:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 223 */
+.ef-auth-theme-spec-223 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-223:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 224 */
+.ef-auth-theme-spec-224 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-224:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 225 */
+.ef-auth-theme-spec-225 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-225:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 226 */
+.ef-auth-theme-spec-226 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-226:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 227 */
+.ef-auth-theme-spec-227 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-227:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 228 */
+.ef-auth-theme-spec-228 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-228:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 229 */
+.ef-auth-theme-spec-229 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-229:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 230 */
+.ef-auth-theme-spec-230 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-230:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 231 */
+.ef-auth-theme-spec-231 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-231:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 232 */
+.ef-auth-theme-spec-232 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-232:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 233 */
+.ef-auth-theme-spec-233 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-233:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 234 */
+.ef-auth-theme-spec-234 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-234:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 235 */
+.ef-auth-theme-spec-235 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-235:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 236 */
+.ef-auth-theme-spec-236 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-236:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 237 */
+.ef-auth-theme-spec-237 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-237:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 238 */
+.ef-auth-theme-spec-238 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-238:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 239 */
+.ef-auth-theme-spec-239 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-239:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 240 */
+.ef-auth-theme-spec-240 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-240:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 241 */
+.ef-auth-theme-spec-241 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-241:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 242 */
+.ef-auth-theme-spec-242 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-242:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 243 */
+.ef-auth-theme-spec-243 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-243:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 244 */
+.ef-auth-theme-spec-244 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-244:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 245 */
+.ef-auth-theme-spec-245 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-245:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 246 */
+.ef-auth-theme-spec-246 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-246:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 247 */
+.ef-auth-theme-spec-247 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-247:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 248 */
+.ef-auth-theme-spec-248 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-248:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 249 */
+.ef-auth-theme-spec-249 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-249:hover {
+  border-color: var(--ef-emerald-green);
+}
+/* UI Theme Module Component Class Block 250 */
+.ef-auth-theme-spec-250 {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  padding: 16px;
+  color: var(--ef-charcoal-text);
+  box-shadow: 0 4px 6px -1px rgba(20, 83, 45, 0.05);
+}
+.ef-auth-theme-spec-250:hover {
+  border-color: var(--ef-emerald-green);
+}
+
+.ef-auth-card {
+  max-width: 440px;
+  margin: 40px auto;
+  background: var(--ef-card-white);
+  border: 1px solid var(--ef-neutral-border);
+  border-radius: 12px;
+  padding: 32px;
+  box-shadow: 0 10px 25px -5px rgba(20, 83, 45, 0.08);
+}
+
+.ef-auth-header {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.ef-auth-badge {
+  display: inline-block;
+  background: var(--ef-sage-green);
+  color: var(--ef-forest-green);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  padding: 4px 10px;
+  border-radius: 9999px;
+  margin-bottom: 12px;
+}
+
+.ef-auth-title {
+  color: var(--ef-forest-green);
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0 0 6px 0;
+}
+
+.ef-auth-subtitle {
+  color: var(--ef-muted-gray);
+  font-size: 13px;
+  margin: 0;
+}
+
+.ef-auth-alert {
+  padding: 12px 16px;
+  border-radius: 8px;
+  font-size: 13px;
+  margin-bottom: 18px;
+}
+
+.ef-auth-alert.error {
+  background: #FEE2E2;
+  color: var(--ef-error);
+  border: 1px solid #FCA5A5;
+}
+
+.ef-auth-alert.success {
+  background: var(--ef-sage-green);
+  color: var(--ef-forest-green);
+  border: 1px solid var(--ef-emerald-green);
+}
+
+.ef-auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.ef-form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.ef-form-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--ef-charcoal-text);
+}
+
+.ef-form-input {
+  width: 100%;
+  padding: 10px 14px;
+  border: 1.5px solid var(--ef-neutral-border);
+  border-radius: 8px;
+  background: var(--ef-warm-ivory);
+  color: var(--ef-charcoal-text);
+  font-size: 14px;
+  transition: all 0.2s ease;
+  box-sizing: border-box;
+}
+
+.ef-form-input:focus {
+  outline: none;
+  border-color: var(--ef-emerald-green);
+  background: #FFFFFF;
+  box-shadow: 0 0 0 3px rgba(21, 128, 61, 0.15);
+}
+
+.ef-otp-input {
+  text-align: center;
+  letter-spacing: 0.3em;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.ef-btn-primary {
+  background: var(--ef-forest-green);
+  color: #FFFFFF;
+  font-weight: 600;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.ef-btn-primary:hover {
+  background: var(--ef-emerald-green);
+}
+
+.ef-btn-secondary {
+  background: var(--ef-warm-ivory);
+  color: var(--ef-charcoal-text);
+  border: 1px solid var(--ef-neutral-border);
+  padding: 10px 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.ef-btn-row {
+  display: flex;
+  justify-content: flex-end;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+.ef-modal-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(36, 41, 35, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.ef-modal-card {
+  background: #FFFFFF;
+  border-radius: 12px;
+  padding: 28px;
+  width: 100%;
+  max-width: 480px;
+  box-shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1);
+}
+
+.ef-modal-title {
+  margin: 0 0 8px 0;
+  color: var(--ef-forest-green);
+  font-size: 18px;
+}
+
+.ef-auth-status-bar {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 6px 14px;
+  background: var(--ef-sage-green);
+  border-radius: 9999px;
+}
+
+.ef-user-avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: var(--ef-forest-green);
+  color: #FFFFFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+}
+
+.ef-user-name {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ef-charcoal-text);
+}
+
+.ef-user-role-badge {
+  font-size: 10px;
+  padding: 2px 6px;
+  border-radius: 4px;
+  background: var(--ef-emerald-green);
+  color: #FFFFFF;
+  margin-left: 6px;
+}
+
+.ef-btn-logout {
+  background: transparent;
+  border: 1px solid var(--ef-forest-green);
+  color: var(--ef-forest-green);
+  padding: 4px 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 12px;
+}
