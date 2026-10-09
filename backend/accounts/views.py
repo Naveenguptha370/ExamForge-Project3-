@@ -1,5 +1,6 @@
 from django.contrib.auth import login, logout
 from django.contrib.auth.password_validation import validate_password
+from django.core.exceptions import ValidationError
 from django.db.models import Count, Q
 from django.utils import timezone
 from rest_framework import generics, status, viewsets
@@ -7,12 +8,23 @@ from rest_framework.decorators import action
 from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework.response import Response
 from .models import AuditLog, User
-from .permissions import IsAdminOrSelf
+from .permissions import IsAdminOrSelf, IsAdminUser
 from .serializers import AuditLogSerializer, LoginSerializer, PasswordResetSerializer, UserCreateSerializer, UserSerializer
 
 class UserViewSet(viewsets.ModelViewSet):
     queryset = User.objects.all().order_by('username')
     permission_classes = [IsAuthenticated, IsAdminOrSelf]
+
+    def get_queryset(self):
+        queryset = super().get_queryset()
+        if self.request.user.is_admin:
+            return queryset
+        return queryset.filter(pk=self.request.user.pk)
+
+    def get_permissions(self):
+        if self.action in {'dashboard', 'deactivate', 'reset_password'}:
+            return [IsAuthenticated(), IsAdminUser()]
+        return super().get_permissions()
 
     def get_serializer_class(self):
         if self.action == 'create':
@@ -72,7 +84,15 @@ class UserViewSet(viewsets.ModelViewSet):
         user_id = request.data.get('user_id')
         if not user_id:
             return Response({'detail': 'user_id is required.'}, status=400)
-        user = User.objects.get(pk=user_id)
+        try:
+            user = User.objects.get(pk=user_id)
+        except User.DoesNotExist:
+            return Response({'detail': 'User not found.'}, status=status.HTTP_404_NOT_FOUND)
+        if user.pk == request.user.pk:
+            return Response(
+                {'detail': 'Administrators cannot deactivate their own account.'},
+                status=status.HTTP_400_BAD_REQUEST,
+            )
         user.is_active = False
         user.status = User.Status.INACTIVE
         user.save(update_fields=['is_active', 'status'])
@@ -95,8 +115,8 @@ class UserViewSet(viewsets.ModelViewSet):
             return Response({'detail': 'User not found.'}, status=404)
         try:
             validate_password(serializer.validated_data['new_password'], user=user)
-        except Exception as exc:
-            return Response({'detail': str(exc)}, status=400)
+        except ValidationError as exc:
+            return Response({'new_password': list(exc.messages)}, status=status.HTTP_400_BAD_REQUEST)
         user.set_password(serializer.validated_data['new_password'])
         user.save(update_fields=['password'])
         AuditLog.objects.create(
@@ -170,4 +190,4 @@ class LogoutAPIView(generics.GenericAPIView):
 class AuditLogViewSet(viewsets.ReadOnlyModelViewSet):
     queryset = AuditLog.objects.all().order_by('-created_at')
     serializer_class = AuditLogSerializer
-    permission_classes = [IsAuthenticated]
+    permission_classes = [IsAuthenticated, IsAdminUser]

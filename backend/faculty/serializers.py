@@ -12,6 +12,13 @@ class FacultyLeaveSerializer(serializers.ModelSerializer):
         model = FacultyLeave
         fields = '__all__'
 
+    def validate_faculty(self, faculty):
+        request = self.context.get('request')
+        if request and not request.user.is_admin:
+            if faculty.user_id != request.user.pk:
+                raise serializers.ValidationError('You can only request leave for your own faculty profile.')
+        return faculty
+
 class FacultyProfileSerializer(serializers.ModelSerializer):
     user_name = serializers.SerializerMethodField()
     availabilities = FacultyAvailabilitySerializer(many=True, read_only=True)
@@ -24,6 +31,11 @@ class FacultyProfileSerializer(serializers.ModelSerializer):
 
     def get_user_name(self, obj):
         return obj.user.get_full_name() or obj.user.username
+
+    def validate_user(self, user):
+        if user.role != User.Role.FACULTY:
+            raise serializers.ValidationError('A faculty profile can only be linked to a faculty account.')
+        return user
 
     def validate_email(self, value):
         if FacultyProfile.objects.filter(email__iexact=value).exclude(pk=self.instance.pk if self.instance else None).exists():

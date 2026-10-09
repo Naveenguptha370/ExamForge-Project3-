@@ -4,6 +4,7 @@ from rest_framework.decorators import action
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.response import Response
 from accounts.models import AuditLog, User
+from accounts.permissions import IsAdminUser
 from .models import FacultyAvailability, FacultyLeave, FacultyProfile
 from .serializers import FacultyAvailabilitySerializer, FacultyLeaveSerializer, FacultyProfileSerializer
 
@@ -12,8 +13,15 @@ class FacultyProfileViewSet(viewsets.ModelViewSet):
     serializer_class = FacultyProfileSerializer
     permission_classes = [IsAuthenticated]
 
+    def get_permissions(self):
+        if self.action == 'dashboard' or self.request.method not in ('GET', 'HEAD', 'OPTIONS'):
+            return [IsAuthenticated(), IsAdminUser()]
+        return [IsAuthenticated()]
+
     def get_queryset(self):
         queryset = super().get_queryset()
+        if not self.request.user.is_admin:
+            queryset = queryset.filter(user=self.request.user)
         search = self.request.query_params.get('search', '').strip()
         department = self.request.query_params.get('department', '').strip()
         status = self.request.query_params.get('status', '').strip()
@@ -85,10 +93,34 @@ class FacultyAvailabilityViewSet(viewsets.ModelViewSet):
     serializer_class = FacultyAvailabilitySerializer
     permission_classes = [IsAuthenticated]
 
+    def get_permissions(self):
+        if self.request.method in ('GET', 'HEAD', 'OPTIONS'):
+            return [IsAuthenticated()]
+        return [IsAuthenticated(), IsAdminUser()]
+
+    def get_queryset(self):
+        queryset = super().get_queryset()
+        if not self.request.user.is_admin:
+            queryset = queryset.filter(faculty__user=self.request.user)
+        return queryset
+
 class FacultyLeaveViewSet(viewsets.ModelViewSet):
     queryset = FacultyLeave.objects.select_related('faculty').all()
     serializer_class = FacultyLeaveSerializer
     permission_classes = [IsAuthenticated]
+
+    def get_permissions(self):
+        if getattr(self.request.user, 'is_admin', False):
+            return [IsAuthenticated(), IsAdminUser()]
+        if getattr(self.request.user, 'is_faculty', False) and self.action in {'list', 'retrieve', 'create'}:
+            return [IsAuthenticated()]
+        return [IsAuthenticated(), IsAdminUser()]
+
+    def get_queryset(self):
+        queryset = super().get_queryset()
+        if not self.request.user.is_admin:
+            queryset = queryset.filter(faculty__user=self.request.user)
+        return queryset
 
     def create(self, request, *args, **kwargs):
         serializer = self.get_serializer(data=request.data)
