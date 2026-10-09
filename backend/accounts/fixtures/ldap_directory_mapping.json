@@ -1,0 +1,1605 @@
+{
+  "system": "ExamForge Enterprise Directory Mapping",
+  "directory_mappings": [
+    {
+      "mapping_id": "LDAP-MAP-2026-0000",
+      "sAMAccountName": "fac_univ_100",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0001",
+      "sAMAccountName": "fac_univ_101",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0002",
+      "sAMAccountName": "fac_univ_102",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0003",
+      "sAMAccountName": "fac_univ_103",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0004",
+      "sAMAccountName": "fac_univ_104",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0005",
+      "sAMAccountName": "fac_univ_105",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0006",
+      "sAMAccountName": "fac_univ_106",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0007",
+      "sAMAccountName": "fac_univ_107",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0008",
+      "sAMAccountName": "fac_univ_108",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0009",
+      "sAMAccountName": "fac_univ_109",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0010",
+      "sAMAccountName": "fac_univ_110",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0011",
+      "sAMAccountName": "fac_univ_111",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0012",
+      "sAMAccountName": "fac_univ_112",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0013",
+      "sAMAccountName": "fac_univ_113",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0014",
+      "sAMAccountName": "fac_univ_114",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0015",
+      "sAMAccountName": "fac_univ_115",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0016",
+      "sAMAccountName": "fac_univ_116",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0017",
+      "sAMAccountName": "fac_univ_117",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0018",
+      "sAMAccountName": "fac_univ_118",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0019",
+      "sAMAccountName": "fac_univ_119",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0020",
+      "sAMAccountName": "fac_univ_120",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0021",
+      "sAMAccountName": "fac_univ_121",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0022",
+      "sAMAccountName": "fac_univ_122",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0023",
+      "sAMAccountName": "fac_univ_123",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0024",
+      "sAMAccountName": "fac_univ_124",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0025",
+      "sAMAccountName": "fac_univ_125",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0026",
+      "sAMAccountName": "fac_univ_126",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0027",
+      "sAMAccountName": "fac_univ_127",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0028",
+      "sAMAccountName": "fac_univ_128",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0029",
+      "sAMAccountName": "fac_univ_129",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0030",
+      "sAMAccountName": "fac_univ_130",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0031",
+      "sAMAccountName": "fac_univ_131",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0032",
+      "sAMAccountName": "fac_univ_132",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0033",
+      "sAMAccountName": "fac_univ_133",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0034",
+      "sAMAccountName": "fac_univ_134",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0035",
+      "sAMAccountName": "fac_univ_135",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0036",
+      "sAMAccountName": "fac_univ_136",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0037",
+      "sAMAccountName": "fac_univ_137",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0038",
+      "sAMAccountName": "fac_univ_138",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0039",
+      "sAMAccountName": "fac_univ_139",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0040",
+      "sAMAccountName": "fac_univ_140",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0041",
+      "sAMAccountName": "fac_univ_141",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0042",
+      "sAMAccountName": "fac_univ_142",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0043",
+      "sAMAccountName": "fac_univ_143",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0044",
+      "sAMAccountName": "fac_univ_144",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0045",
+      "sAMAccountName": "fac_univ_145",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0046",
+      "sAMAccountName": "fac_univ_146",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0047",
+      "sAMAccountName": "fac_univ_147",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0048",
+      "sAMAccountName": "fac_univ_148",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0049",
+      "sAMAccountName": "fac_univ_149",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0050",
+      "sAMAccountName": "fac_univ_150",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0051",
+      "sAMAccountName": "fac_univ_151",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0052",
+      "sAMAccountName": "fac_univ_152",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0053",
+      "sAMAccountName": "fac_univ_153",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0054",
+      "sAMAccountName": "fac_univ_154",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0055",
+      "sAMAccountName": "fac_univ_155",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0056",
+      "sAMAccountName": "fac_univ_156",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0057",
+      "sAMAccountName": "fac_univ_157",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0058",
+      "sAMAccountName": "fac_univ_158",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0059",
+      "sAMAccountName": "fac_univ_159",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0060",
+      "sAMAccountName": "fac_univ_160",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0061",
+      "sAMAccountName": "fac_univ_161",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0062",
+      "sAMAccountName": "fac_univ_162",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0063",
+      "sAMAccountName": "fac_univ_163",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0064",
+      "sAMAccountName": "fac_univ_164",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0065",
+      "sAMAccountName": "fac_univ_165",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0066",
+      "sAMAccountName": "fac_univ_166",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0067",
+      "sAMAccountName": "fac_univ_167",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0068",
+      "sAMAccountName": "fac_univ_168",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0069",
+      "sAMAccountName": "fac_univ_169",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0070",
+      "sAMAccountName": "fac_univ_170",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0071",
+      "sAMAccountName": "fac_univ_171",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0072",
+      "sAMAccountName": "fac_univ_172",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0073",
+      "sAMAccountName": "fac_univ_173",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0074",
+      "sAMAccountName": "fac_univ_174",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0075",
+      "sAMAccountName": "fac_univ_175",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0076",
+      "sAMAccountName": "fac_univ_176",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0077",
+      "sAMAccountName": "fac_univ_177",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0078",
+      "sAMAccountName": "fac_univ_178",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0079",
+      "sAMAccountName": "fac_univ_179",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0080",
+      "sAMAccountName": "fac_univ_180",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0081",
+      "sAMAccountName": "fac_univ_181",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0082",
+      "sAMAccountName": "fac_univ_182",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0083",
+      "sAMAccountName": "fac_univ_183",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0084",
+      "sAMAccountName": "fac_univ_184",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0085",
+      "sAMAccountName": "fac_univ_185",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0086",
+      "sAMAccountName": "fac_univ_186",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0087",
+      "sAMAccountName": "fac_univ_187",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0088",
+      "sAMAccountName": "fac_univ_188",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0089",
+      "sAMAccountName": "fac_univ_189",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0090",
+      "sAMAccountName": "fac_univ_190",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0091",
+      "sAMAccountName": "fac_univ_191",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0092",
+      "sAMAccountName": "fac_univ_192",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0093",
+      "sAMAccountName": "fac_univ_193",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0094",
+      "sAMAccountName": "fac_univ_194",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0095",
+      "sAMAccountName": "fac_univ_195",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0096",
+      "sAMAccountName": "fac_univ_196",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0097",
+      "sAMAccountName": "fac_univ_197",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0098",
+      "sAMAccountName": "fac_univ_198",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0099",
+      "sAMAccountName": "fac_univ_199",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0100",
+      "sAMAccountName": "fac_univ_200",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0101",
+      "sAMAccountName": "fac_univ_201",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0102",
+      "sAMAccountName": "fac_univ_202",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0103",
+      "sAMAccountName": "fac_univ_203",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0104",
+      "sAMAccountName": "fac_univ_204",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0105",
+      "sAMAccountName": "fac_univ_205",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0106",
+      "sAMAccountName": "fac_univ_206",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0107",
+      "sAMAccountName": "fac_univ_207",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0108",
+      "sAMAccountName": "fac_univ_208",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0109",
+      "sAMAccountName": "fac_univ_209",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0110",
+      "sAMAccountName": "fac_univ_210",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0111",
+      "sAMAccountName": "fac_univ_211",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0112",
+      "sAMAccountName": "fac_univ_212",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0113",
+      "sAMAccountName": "fac_univ_213",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0114",
+      "sAMAccountName": "fac_univ_214",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0115",
+      "sAMAccountName": "fac_univ_215",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0116",
+      "sAMAccountName": "fac_univ_216",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0117",
+      "sAMAccountName": "fac_univ_217",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0118",
+      "sAMAccountName": "fac_univ_218",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0119",
+      "sAMAccountName": "fac_univ_219",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0120",
+      "sAMAccountName": "fac_univ_220",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0121",
+      "sAMAccountName": "fac_univ_221",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0122",
+      "sAMAccountName": "fac_univ_222",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0123",
+      "sAMAccountName": "fac_univ_223",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0124",
+      "sAMAccountName": "fac_univ_224",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0125",
+      "sAMAccountName": "fac_univ_225",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0126",
+      "sAMAccountName": "fac_univ_226",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0127",
+      "sAMAccountName": "fac_univ_227",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0128",
+      "sAMAccountName": "fac_univ_228",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0129",
+      "sAMAccountName": "fac_univ_229",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0130",
+      "sAMAccountName": "fac_univ_230",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0131",
+      "sAMAccountName": "fac_univ_231",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0132",
+      "sAMAccountName": "fac_univ_232",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0133",
+      "sAMAccountName": "fac_univ_233",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0134",
+      "sAMAccountName": "fac_univ_234",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0135",
+      "sAMAccountName": "fac_univ_235",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0136",
+      "sAMAccountName": "fac_univ_236",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0137",
+      "sAMAccountName": "fac_univ_237",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0138",
+      "sAMAccountName": "fac_univ_238",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0139",
+      "sAMAccountName": "fac_univ_239",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0140",
+      "sAMAccountName": "fac_univ_240",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0141",
+      "sAMAccountName": "fac_univ_241",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0142",
+      "sAMAccountName": "fac_univ_242",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0143",
+      "sAMAccountName": "fac_univ_243",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0144",
+      "sAMAccountName": "fac_univ_244",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0145",
+      "sAMAccountName": "fac_univ_245",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0146",
+      "sAMAccountName": "fac_univ_246",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0147",
+      "sAMAccountName": "fac_univ_247",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0148",
+      "sAMAccountName": "fac_univ_248",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0149",
+      "sAMAccountName": "fac_univ_249",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0150",
+      "sAMAccountName": "fac_univ_250",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0151",
+      "sAMAccountName": "fac_univ_251",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0152",
+      "sAMAccountName": "fac_univ_252",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0153",
+      "sAMAccountName": "fac_univ_253",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0154",
+      "sAMAccountName": "fac_univ_254",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0155",
+      "sAMAccountName": "fac_univ_255",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0156",
+      "sAMAccountName": "fac_univ_256",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0157",
+      "sAMAccountName": "fac_univ_257",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0158",
+      "sAMAccountName": "fac_univ_258",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0159",
+      "sAMAccountName": "fac_univ_259",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0160",
+      "sAMAccountName": "fac_univ_260",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0161",
+      "sAMAccountName": "fac_univ_261",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0162",
+      "sAMAccountName": "fac_univ_262",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0163",
+      "sAMAccountName": "fac_univ_263",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0164",
+      "sAMAccountName": "fac_univ_264",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0165",
+      "sAMAccountName": "fac_univ_265",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0166",
+      "sAMAccountName": "fac_univ_266",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0167",
+      "sAMAccountName": "fac_univ_267",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0168",
+      "sAMAccountName": "fac_univ_268",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0169",
+      "sAMAccountName": "fac_univ_269",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0170",
+      "sAMAccountName": "fac_univ_270",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0171",
+      "sAMAccountName": "fac_univ_271",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0172",
+      "sAMAccountName": "fac_univ_272",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0173",
+      "sAMAccountName": "fac_univ_273",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0174",
+      "sAMAccountName": "fac_univ_274",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0175",
+      "sAMAccountName": "fac_univ_275",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0176",
+      "sAMAccountName": "fac_univ_276",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0177",
+      "sAMAccountName": "fac_univ_277",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0178",
+      "sAMAccountName": "fac_univ_278",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0179",
+      "sAMAccountName": "fac_univ_279",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0180",
+      "sAMAccountName": "fac_univ_280",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0181",
+      "sAMAccountName": "fac_univ_281",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0182",
+      "sAMAccountName": "fac_univ_282",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0183",
+      "sAMAccountName": "fac_univ_283",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0184",
+      "sAMAccountName": "fac_univ_284",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0185",
+      "sAMAccountName": "fac_univ_285",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0186",
+      "sAMAccountName": "fac_univ_286",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0187",
+      "sAMAccountName": "fac_univ_287",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0188",
+      "sAMAccountName": "fac_univ_288",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0189",
+      "sAMAccountName": "fac_univ_289",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0190",
+      "sAMAccountName": "fac_univ_290",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0191",
+      "sAMAccountName": "fac_univ_291",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0192",
+      "sAMAccountName": "fac_univ_292",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0193",
+      "sAMAccountName": "fac_univ_293",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0194",
+      "sAMAccountName": "fac_univ_294",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0195",
+      "sAMAccountName": "fac_univ_295",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0196",
+      "sAMAccountName": "fac_univ_296",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0197",
+      "sAMAccountName": "fac_univ_297",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0198",
+      "sAMAccountName": "fac_univ_298",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0199",
+      "sAMAccountName": "fac_univ_299",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0200",
+      "sAMAccountName": "fac_univ_300",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0201",
+      "sAMAccountName": "fac_univ_301",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0202",
+      "sAMAccountName": "fac_univ_302",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0203",
+      "sAMAccountName": "fac_univ_303",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0204",
+      "sAMAccountName": "fac_univ_304",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0205",
+      "sAMAccountName": "fac_univ_305",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0206",
+      "sAMAccountName": "fac_univ_306",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0207",
+      "sAMAccountName": "fac_univ_307",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0208",
+      "sAMAccountName": "fac_univ_308",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0209",
+      "sAMAccountName": "fac_univ_309",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0210",
+      "sAMAccountName": "fac_univ_310",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0211",
+      "sAMAccountName": "fac_univ_311",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0212",
+      "sAMAccountName": "fac_univ_312",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0213",
+      "sAMAccountName": "fac_univ_313",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0214",
+      "sAMAccountName": "fac_univ_314",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0215",
+      "sAMAccountName": "fac_univ_315",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0216",
+      "sAMAccountName": "fac_univ_316",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0217",
+      "sAMAccountName": "fac_univ_317",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0218",
+      "sAMAccountName": "fac_univ_318",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0219",
+      "sAMAccountName": "fac_univ_319",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0220",
+      "sAMAccountName": "fac_univ_320",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0221",
+      "sAMAccountName": "fac_univ_321",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0222",
+      "sAMAccountName": "fac_univ_322",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0223",
+      "sAMAccountName": "fac_univ_323",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0224",
+      "sAMAccountName": "fac_univ_324",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0225",
+      "sAMAccountName": "fac_univ_325",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0226",
+      "sAMAccountName": "fac_univ_326",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0227",
+      "sAMAccountName": "fac_univ_327",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0228",
+      "sAMAccountName": "fac_univ_328",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0229",
+      "sAMAccountName": "fac_univ_329",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0230",
+      "sAMAccountName": "fac_univ_330",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0231",
+      "sAMAccountName": "fac_univ_331",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0232",
+      "sAMAccountName": "fac_univ_332",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0233",
+      "sAMAccountName": "fac_univ_333",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0234",
+      "sAMAccountName": "fac_univ_334",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0235",
+      "sAMAccountName": "fac_univ_335",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0236",
+      "sAMAccountName": "fac_univ_336",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0237",
+      "sAMAccountName": "fac_univ_337",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0238",
+      "sAMAccountName": "fac_univ_338",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0239",
+      "sAMAccountName": "fac_univ_339",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0240",
+      "sAMAccountName": "fac_univ_340",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0241",
+      "sAMAccountName": "fac_univ_341",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0242",
+      "sAMAccountName": "fac_univ_342",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0243",
+      "sAMAccountName": "fac_univ_343",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0244",
+      "sAMAccountName": "fac_univ_344",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0245",
+      "sAMAccountName": "fac_univ_345",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0246",
+      "sAMAccountName": "fac_univ_346",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0247",
+      "sAMAccountName": "fac_univ_347",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0248",
+      "sAMAccountName": "fac_univ_348",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0249",
+      "sAMAccountName": "fac_univ_349",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0250",
+      "sAMAccountName": "fac_univ_350",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0251",
+      "sAMAccountName": "fac_univ_351",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0252",
+      "sAMAccountName": "fac_univ_352",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0253",
+      "sAMAccountName": "fac_univ_353",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0254",
+      "sAMAccountName": "fac_univ_354",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0255",
+      "sAMAccountName": "fac_univ_355",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0256",
+      "sAMAccountName": "fac_univ_356",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0257",
+      "sAMAccountName": "fac_univ_357",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0258",
+      "sAMAccountName": "fac_univ_358",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0259",
+      "sAMAccountName": "fac_univ_359",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0260",
+      "sAMAccountName": "fac_univ_360",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0261",
+      "sAMAccountName": "fac_univ_361",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0262",
+      "sAMAccountName": "fac_univ_362",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0263",
+      "sAMAccountName": "fac_univ_363",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0264",
+      "sAMAccountName": "fac_univ_364",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0265",
+      "sAMAccountName": "fac_univ_365",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0266",
+      "sAMAccountName": "fac_univ_366",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0267",
+      "sAMAccountName": "fac_univ_367",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0268",
+      "sAMAccountName": "fac_univ_368",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0269",
+      "sAMAccountName": "fac_univ_369",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0270",
+      "sAMAccountName": "fac_univ_370",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0271",
+      "sAMAccountName": "fac_univ_371",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0272",
+      "sAMAccountName": "fac_univ_372",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0273",
+      "sAMAccountName": "fac_univ_373",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0274",
+      "sAMAccountName": "fac_univ_374",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0275",
+      "sAMAccountName": "fac_univ_375",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0276",
+      "sAMAccountName": "fac_univ_376",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0277",
+      "sAMAccountName": "fac_univ_377",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0278",
+      "sAMAccountName": "fac_univ_378",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0279",
+      "sAMAccountName": "fac_univ_379",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0280",
+      "sAMAccountName": "fac_univ_380",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0281",
+      "sAMAccountName": "fac_univ_381",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0282",
+      "sAMAccountName": "fac_univ_382",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0283",
+      "sAMAccountName": "fac_univ_383",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0284",
+      "sAMAccountName": "fac_univ_384",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0285",
+      "sAMAccountName": "fac_univ_385",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0286",
+      "sAMAccountName": "fac_univ_386",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0287",
+      "sAMAccountName": "fac_univ_387",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0288",
+      "sAMAccountName": "fac_univ_388",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0289",
+      "sAMAccountName": "fac_univ_389",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0290",
+      "sAMAccountName": "fac_univ_390",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0291",
+      "sAMAccountName": "fac_univ_391",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0292",
+      "sAMAccountName": "fac_univ_392",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0293",
+      "sAMAccountName": "fac_univ_393",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0294",
+      "sAMAccountName": "fac_univ_394",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0295",
+      "sAMAccountName": "fac_univ_395",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0296",
+      "sAMAccountName": "fac_univ_396",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0297",
+      "sAMAccountName": "fac_univ_397",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0298",
+      "sAMAccountName": "fac_univ_398",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0299",
+      "sAMAccountName": "fac_univ_399",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0300",
+      "sAMAccountName": "fac_univ_400",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0301",
+      "sAMAccountName": "fac_univ_401",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0302",
+      "sAMAccountName": "fac_univ_402",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0303",
+      "sAMAccountName": "fac_univ_403",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0304",
+      "sAMAccountName": "fac_univ_404",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0305",
+      "sAMAccountName": "fac_univ_405",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0306",
+      "sAMAccountName": "fac_univ_406",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0307",
+      "sAMAccountName": "fac_univ_407",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0308",
+      "sAMAccountName": "fac_univ_408",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0309",
+      "sAMAccountName": "fac_univ_409",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0310",
+      "sAMAccountName": "fac_univ_410",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0311",
+      "sAMAccountName": "fac_univ_411",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0312",
+      "sAMAccountName": "fac_univ_412",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0313",
+      "sAMAccountName": "fac_univ_413",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0314",
+      "sAMAccountName": "fac_univ_414",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0315",
+      "sAMAccountName": "fac_univ_415",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0316",
+      "sAMAccountName": "fac_univ_416",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0317",
+      "sAMAccountName": "fac_univ_417",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0318",
+      "sAMAccountName": "fac_univ_418",
+      "sync_status": "SYNCHRONIZED"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0319",
+      "sAMAccountName": "fac_univ_419",
+      "sync_status": "SYNCHRONIZED"
+    }
+  ]
+}
