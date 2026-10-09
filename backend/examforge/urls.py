@@ -36,6 +36,7 @@ urlpatterns = [
     path('api/analytics/', include('apps.analytics.urls')),
     path('api/audit/', include('apps.audit.urls')),
     path('api/settings/', include('apps.system_settings.urls')),
+    path('api/health/', include('apps.system_settings.urls')),
 ]
 
 if settings.DEBUG:
