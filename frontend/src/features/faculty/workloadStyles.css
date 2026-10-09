@@ -1,0 +1,1788 @@
+/* ExamForge - Workload Dashboard Stylesheet */
+:root {
+  --ef-forest: #14532D;
+  --ef-emerald: #15803D;
+  --ef-sage: #DDEBDD;
+  --ef-amber: #F59E0B;
+}
+/* Workload Analytics Grid Block 1 */
+.ef-workload-item-row-1 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 2 */
+.ef-workload-item-row-2 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 3 */
+.ef-workload-item-row-3 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 4 */
+.ef-workload-item-row-4 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 5 */
+.ef-workload-item-row-5 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 6 */
+.ef-workload-item-row-6 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 7 */
+.ef-workload-item-row-7 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 8 */
+.ef-workload-item-row-8 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 9 */
+.ef-workload-item-row-9 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 10 */
+.ef-workload-item-row-10 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 11 */
+.ef-workload-item-row-11 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 12 */
+.ef-workload-item-row-12 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 13 */
+.ef-workload-item-row-13 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 14 */
+.ef-workload-item-row-14 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 15 */
+.ef-workload-item-row-15 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 16 */
+.ef-workload-item-row-16 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 17 */
+.ef-workload-item-row-17 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 18 */
+.ef-workload-item-row-18 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 19 */
+.ef-workload-item-row-19 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 20 */
+.ef-workload-item-row-20 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 21 */
+.ef-workload-item-row-21 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 22 */
+.ef-workload-item-row-22 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 23 */
+.ef-workload-item-row-23 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 24 */
+.ef-workload-item-row-24 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 25 */
+.ef-workload-item-row-25 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 26 */
+.ef-workload-item-row-26 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 27 */
+.ef-workload-item-row-27 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 28 */
+.ef-workload-item-row-28 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 29 */
+.ef-workload-item-row-29 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 30 */
+.ef-workload-item-row-30 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 31 */
+.ef-workload-item-row-31 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 32 */
+.ef-workload-item-row-32 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 33 */
+.ef-workload-item-row-33 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 34 */
+.ef-workload-item-row-34 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 35 */
+.ef-workload-item-row-35 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 36 */
+.ef-workload-item-row-36 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 37 */
+.ef-workload-item-row-37 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 38 */
+.ef-workload-item-row-38 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 39 */
+.ef-workload-item-row-39 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 40 */
+.ef-workload-item-row-40 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 41 */
+.ef-workload-item-row-41 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 42 */
+.ef-workload-item-row-42 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 43 */
+.ef-workload-item-row-43 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 44 */
+.ef-workload-item-row-44 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 45 */
+.ef-workload-item-row-45 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 46 */
+.ef-workload-item-row-46 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 47 */
+.ef-workload-item-row-47 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 48 */
+.ef-workload-item-row-48 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 49 */
+.ef-workload-item-row-49 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 50 */
+.ef-workload-item-row-50 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 51 */
+.ef-workload-item-row-51 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 52 */
+.ef-workload-item-row-52 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 53 */
+.ef-workload-item-row-53 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 54 */
+.ef-workload-item-row-54 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 55 */
+.ef-workload-item-row-55 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 56 */
+.ef-workload-item-row-56 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 57 */
+.ef-workload-item-row-57 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 58 */
+.ef-workload-item-row-58 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 59 */
+.ef-workload-item-row-59 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 60 */
+.ef-workload-item-row-60 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 61 */
+.ef-workload-item-row-61 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 62 */
+.ef-workload-item-row-62 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 63 */
+.ef-workload-item-row-63 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 64 */
+.ef-workload-item-row-64 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 65 */
+.ef-workload-item-row-65 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 66 */
+.ef-workload-item-row-66 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 67 */
+.ef-workload-item-row-67 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 68 */
+.ef-workload-item-row-68 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 69 */
+.ef-workload-item-row-69 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 70 */
+.ef-workload-item-row-70 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 71 */
+.ef-workload-item-row-71 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 72 */
+.ef-workload-item-row-72 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 73 */
+.ef-workload-item-row-73 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 74 */
+.ef-workload-item-row-74 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 75 */
+.ef-workload-item-row-75 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 76 */
+.ef-workload-item-row-76 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 77 */
+.ef-workload-item-row-77 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 78 */
+.ef-workload-item-row-78 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 79 */
+.ef-workload-item-row-79 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 80 */
+.ef-workload-item-row-80 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 81 */
+.ef-workload-item-row-81 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 82 */
+.ef-workload-item-row-82 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 83 */
+.ef-workload-item-row-83 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 84 */
+.ef-workload-item-row-84 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 85 */
+.ef-workload-item-row-85 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 86 */
+.ef-workload-item-row-86 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 87 */
+.ef-workload-item-row-87 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 88 */
+.ef-workload-item-row-88 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 89 */
+.ef-workload-item-row-89 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 90 */
+.ef-workload-item-row-90 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 91 */
+.ef-workload-item-row-91 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 92 */
+.ef-workload-item-row-92 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 93 */
+.ef-workload-item-row-93 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 94 */
+.ef-workload-item-row-94 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 95 */
+.ef-workload-item-row-95 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 96 */
+.ef-workload-item-row-96 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 97 */
+.ef-workload-item-row-97 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 98 */
+.ef-workload-item-row-98 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 99 */
+.ef-workload-item-row-99 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 100 */
+.ef-workload-item-row-100 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 101 */
+.ef-workload-item-row-101 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 102 */
+.ef-workload-item-row-102 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 103 */
+.ef-workload-item-row-103 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 104 */
+.ef-workload-item-row-104 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 105 */
+.ef-workload-item-row-105 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 106 */
+.ef-workload-item-row-106 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 107 */
+.ef-workload-item-row-107 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 108 */
+.ef-workload-item-row-108 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 109 */
+.ef-workload-item-row-109 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 110 */
+.ef-workload-item-row-110 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 111 */
+.ef-workload-item-row-111 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 112 */
+.ef-workload-item-row-112 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 113 */
+.ef-workload-item-row-113 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 114 */
+.ef-workload-item-row-114 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 115 */
+.ef-workload-item-row-115 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 116 */
+.ef-workload-item-row-116 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 117 */
+.ef-workload-item-row-117 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 118 */
+.ef-workload-item-row-118 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 119 */
+.ef-workload-item-row-119 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 120 */
+.ef-workload-item-row-120 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 121 */
+.ef-workload-item-row-121 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 122 */
+.ef-workload-item-row-122 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 123 */
+.ef-workload-item-row-123 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 124 */
+.ef-workload-item-row-124 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 125 */
+.ef-workload-item-row-125 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 126 */
+.ef-workload-item-row-126 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 127 */
+.ef-workload-item-row-127 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 128 */
+.ef-workload-item-row-128 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 129 */
+.ef-workload-item-row-129 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 130 */
+.ef-workload-item-row-130 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 131 */
+.ef-workload-item-row-131 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 132 */
+.ef-workload-item-row-132 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 133 */
+.ef-workload-item-row-133 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 134 */
+.ef-workload-item-row-134 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 135 */
+.ef-workload-item-row-135 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 136 */
+.ef-workload-item-row-136 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 137 */
+.ef-workload-item-row-137 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 138 */
+.ef-workload-item-row-138 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 139 */
+.ef-workload-item-row-139 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 140 */
+.ef-workload-item-row-140 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 141 */
+.ef-workload-item-row-141 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 142 */
+.ef-workload-item-row-142 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 143 */
+.ef-workload-item-row-143 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 144 */
+.ef-workload-item-row-144 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 145 */
+.ef-workload-item-row-145 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 146 */
+.ef-workload-item-row-146 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 147 */
+.ef-workload-item-row-147 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 148 */
+.ef-workload-item-row-148 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 149 */
+.ef-workload-item-row-149 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 150 */
+.ef-workload-item-row-150 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 151 */
+.ef-workload-item-row-151 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 152 */
+.ef-workload-item-row-152 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 153 */
+.ef-workload-item-row-153 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 154 */
+.ef-workload-item-row-154 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 155 */
+.ef-workload-item-row-155 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 156 */
+.ef-workload-item-row-156 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 157 */
+.ef-workload-item-row-157 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 158 */
+.ef-workload-item-row-158 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 159 */
+.ef-workload-item-row-159 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 160 */
+.ef-workload-item-row-160 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 161 */
+.ef-workload-item-row-161 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 162 */
+.ef-workload-item-row-162 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 163 */
+.ef-workload-item-row-163 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 164 */
+.ef-workload-item-row-164 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 165 */
+.ef-workload-item-row-165 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 166 */
+.ef-workload-item-row-166 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 167 */
+.ef-workload-item-row-167 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 168 */
+.ef-workload-item-row-168 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 169 */
+.ef-workload-item-row-169 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 170 */
+.ef-workload-item-row-170 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 171 */
+.ef-workload-item-row-171 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 172 */
+.ef-workload-item-row-172 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 173 */
+.ef-workload-item-row-173 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 174 */
+.ef-workload-item-row-174 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 175 */
+.ef-workload-item-row-175 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 176 */
+.ef-workload-item-row-176 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 177 */
+.ef-workload-item-row-177 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 178 */
+.ef-workload-item-row-178 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 179 */
+.ef-workload-item-row-179 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 180 */
+.ef-workload-item-row-180 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 181 */
+.ef-workload-item-row-181 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 182 */
+.ef-workload-item-row-182 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 183 */
+.ef-workload-item-row-183 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 184 */
+.ef-workload-item-row-184 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 185 */
+.ef-workload-item-row-185 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 186 */
+.ef-workload-item-row-186 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 187 */
+.ef-workload-item-row-187 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 188 */
+.ef-workload-item-row-188 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 189 */
+.ef-workload-item-row-189 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 190 */
+.ef-workload-item-row-190 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 191 */
+.ef-workload-item-row-191 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 192 */
+.ef-workload-item-row-192 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 193 */
+.ef-workload-item-row-193 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 194 */
+.ef-workload-item-row-194 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 195 */
+.ef-workload-item-row-195 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 196 */
+.ef-workload-item-row-196 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 197 */
+.ef-workload-item-row-197 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 198 */
+.ef-workload-item-row-198 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 199 */
+.ef-workload-item-row-199 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 200 */
+.ef-workload-item-row-200 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 201 */
+.ef-workload-item-row-201 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 202 */
+.ef-workload-item-row-202 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 203 */
+.ef-workload-item-row-203 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 204 */
+.ef-workload-item-row-204 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 205 */
+.ef-workload-item-row-205 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 206 */
+.ef-workload-item-row-206 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 207 */
+.ef-workload-item-row-207 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 208 */
+.ef-workload-item-row-208 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 209 */
+.ef-workload-item-row-209 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 210 */
+.ef-workload-item-row-210 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 211 */
+.ef-workload-item-row-211 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 212 */
+.ef-workload-item-row-212 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 213 */
+.ef-workload-item-row-213 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 214 */
+.ef-workload-item-row-214 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 215 */
+.ef-workload-item-row-215 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 216 */
+.ef-workload-item-row-216 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 217 */
+.ef-workload-item-row-217 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 218 */
+.ef-workload-item-row-218 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 219 */
+.ef-workload-item-row-219 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 220 */
+.ef-workload-item-row-220 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 221 */
+.ef-workload-item-row-221 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 222 */
+.ef-workload-item-row-222 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 223 */
+.ef-workload-item-row-223 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 224 */
+.ef-workload-item-row-224 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 225 */
+.ef-workload-item-row-225 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 226 */
+.ef-workload-item-row-226 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 227 */
+.ef-workload-item-row-227 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 228 */
+.ef-workload-item-row-228 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 229 */
+.ef-workload-item-row-229 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 230 */
+.ef-workload-item-row-230 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 231 */
+.ef-workload-item-row-231 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 232 */
+.ef-workload-item-row-232 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 233 */
+.ef-workload-item-row-233 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 234 */
+.ef-workload-item-row-234 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 235 */
+.ef-workload-item-row-235 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 236 */
+.ef-workload-item-row-236 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 237 */
+.ef-workload-item-row-237 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 238 */
+.ef-workload-item-row-238 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 239 */
+.ef-workload-item-row-239 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 240 */
+.ef-workload-item-row-240 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 241 */
+.ef-workload-item-row-241 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 242 */
+.ef-workload-item-row-242 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 243 */
+.ef-workload-item-row-243 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 244 */
+.ef-workload-item-row-244 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 245 */
+.ef-workload-item-row-245 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 246 */
+.ef-workload-item-row-246 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 247 */
+.ef-workload-item-row-247 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 248 */
+.ef-workload-item-row-248 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 249 */
+.ef-workload-item-row-249 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 250 */
+.ef-workload-item-row-250 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 251 */
+.ef-workload-item-row-251 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 252 */
+.ef-workload-item-row-252 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 253 */
+.ef-workload-item-row-253 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 254 */
+.ef-workload-item-row-254 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 255 */
+.ef-workload-item-row-255 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 256 */
+.ef-workload-item-row-256 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 257 */
+.ef-workload-item-row-257 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 258 */
+.ef-workload-item-row-258 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 259 */
+.ef-workload-item-row-259 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 260 */
+.ef-workload-item-row-260 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 261 */
+.ef-workload-item-row-261 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 262 */
+.ef-workload-item-row-262 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 263 */
+.ef-workload-item-row-263 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 264 */
+.ef-workload-item-row-264 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 265 */
+.ef-workload-item-row-265 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 266 */
+.ef-workload-item-row-266 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 267 */
+.ef-workload-item-row-267 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 268 */
+.ef-workload-item-row-268 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 269 */
+.ef-workload-item-row-269 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 270 */
+.ef-workload-item-row-270 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 271 */
+.ef-workload-item-row-271 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 272 */
+.ef-workload-item-row-272 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 273 */
+.ef-workload-item-row-273 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 274 */
+.ef-workload-item-row-274 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 275 */
+.ef-workload-item-row-275 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 276 */
+.ef-workload-item-row-276 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 277 */
+.ef-workload-item-row-277 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 278 */
+.ef-workload-item-row-278 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 279 */
+.ef-workload-item-row-279 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 280 */
+.ef-workload-item-row-280 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 281 */
+.ef-workload-item-row-281 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 282 */
+.ef-workload-item-row-282 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 283 */
+.ef-workload-item-row-283 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 284 */
+.ef-workload-item-row-284 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 285 */
+.ef-workload-item-row-285 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 286 */
+.ef-workload-item-row-286 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 287 */
+.ef-workload-item-row-287 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 288 */
+.ef-workload-item-row-288 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 289 */
+.ef-workload-item-row-289 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+/* Workload Analytics Grid Block 290 */
+.ef-workload-item-row-290 {
+  display: flex;
+  margin-bottom: 8px;
+  border-radius: 6px;
+}
+
+.ef-workload-container {
+  padding: 24px;
+}
+.ef-workload-title {
+  color: var(--ef-forest);
+  margin: 0 0 4px 0;
+  font-size: 22px;
+}
+.ef-workload-desc {
+  color: #6B7280;
+  margin: 0 0 20px 0;
+  font-size: 14px;
+}
+.ef-metrics-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin-bottom: 24px;
+}
+.ef-metric-card {
+  background: #FFFFFF;
+  border: 1px solid #E7E5E4;
+  border-radius: 10px;
+  padding: 20px;
+}
+.ef-metric-label {
+  font-size: 12px;
+  color: #6B7280;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+.ef-metric-val {
+  font-size: 28px;
+  font-weight: 700;
+  color: var(--ef-forest);
+  margin-top: 6px;
+}
+.ef-metric-val.success {
+  color: var(--ef-emerald);
+}
