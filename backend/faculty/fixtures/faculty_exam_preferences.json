@@ -1,0 +1,3205 @@
+{
+  "system": "ExamForge Faculty Preference Registry",
+  "preference_records": [
+    {
+      "pref_id": "PREF-2026-00000",
+      "faculty_id": "FAC-100",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00001",
+      "faculty_id": "FAC-101",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00002",
+      "faculty_id": "FAC-102",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00003",
+      "faculty_id": "FAC-103",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00004",
+      "faculty_id": "FAC-104",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00005",
+      "faculty_id": "FAC-105",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00006",
+      "faculty_id": "FAC-106",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00007",
+      "faculty_id": "FAC-107",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00008",
+      "faculty_id": "FAC-108",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00009",
+      "faculty_id": "FAC-109",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00010",
+      "faculty_id": "FAC-110",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00011",
+      "faculty_id": "FAC-111",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00012",
+      "faculty_id": "FAC-112",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00013",
+      "faculty_id": "FAC-113",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00014",
+      "faculty_id": "FAC-114",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00015",
+      "faculty_id": "FAC-115",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00016",
+      "faculty_id": "FAC-116",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00017",
+      "faculty_id": "FAC-117",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00018",
+      "faculty_id": "FAC-118",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00019",
+      "faculty_id": "FAC-119",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00020",
+      "faculty_id": "FAC-120",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00021",
+      "faculty_id": "FAC-121",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00022",
+      "faculty_id": "FAC-122",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00023",
+      "faculty_id": "FAC-123",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00024",
+      "faculty_id": "FAC-124",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00025",
+      "faculty_id": "FAC-125",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00026",
+      "faculty_id": "FAC-126",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00027",
+      "faculty_id": "FAC-127",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00028",
+      "faculty_id": "FAC-128",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00029",
+      "faculty_id": "FAC-129",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00030",
+      "faculty_id": "FAC-130",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00031",
+      "faculty_id": "FAC-131",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00032",
+      "faculty_id": "FAC-132",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00033",
+      "faculty_id": "FAC-133",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00034",
+      "faculty_id": "FAC-134",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00035",
+      "faculty_id": "FAC-135",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00036",
+      "faculty_id": "FAC-136",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00037",
+      "faculty_id": "FAC-137",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00038",
+      "faculty_id": "FAC-138",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00039",
+      "faculty_id": "FAC-139",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00040",
+      "faculty_id": "FAC-140",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00041",
+      "faculty_id": "FAC-141",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00042",
+      "faculty_id": "FAC-142",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00043",
+      "faculty_id": "FAC-143",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00044",
+      "faculty_id": "FAC-144",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00045",
+      "faculty_id": "FAC-145",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00046",
+      "faculty_id": "FAC-146",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00047",
+      "faculty_id": "FAC-147",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00048",
+      "faculty_id": "FAC-148",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00049",
+      "faculty_id": "FAC-149",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00050",
+      "faculty_id": "FAC-150",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00051",
+      "faculty_id": "FAC-151",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00052",
+      "faculty_id": "FAC-152",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00053",
+      "faculty_id": "FAC-153",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00054",
+      "faculty_id": "FAC-154",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00055",
+      "faculty_id": "FAC-155",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00056",
+      "faculty_id": "FAC-156",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00057",
+      "faculty_id": "FAC-157",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00058",
+      "faculty_id": "FAC-158",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00059",
+      "faculty_id": "FAC-159",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00060",
+      "faculty_id": "FAC-160",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00061",
+      "faculty_id": "FAC-161",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00062",
+      "faculty_id": "FAC-162",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00063",
+      "faculty_id": "FAC-163",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00064",
+      "faculty_id": "FAC-164",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00065",
+      "faculty_id": "FAC-165",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00066",
+      "faculty_id": "FAC-166",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00067",
+      "faculty_id": "FAC-167",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00068",
+      "faculty_id": "FAC-168",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00069",
+      "faculty_id": "FAC-169",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00070",
+      "faculty_id": "FAC-170",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00071",
+      "faculty_id": "FAC-171",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00072",
+      "faculty_id": "FAC-172",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00073",
+      "faculty_id": "FAC-173",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00074",
+      "faculty_id": "FAC-174",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00075",
+      "faculty_id": "FAC-175",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00076",
+      "faculty_id": "FAC-176",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00077",
+      "faculty_id": "FAC-177",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00078",
+      "faculty_id": "FAC-178",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00079",
+      "faculty_id": "FAC-179",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00080",
+      "faculty_id": "FAC-100",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00081",
+      "faculty_id": "FAC-101",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00082",
+      "faculty_id": "FAC-102",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00083",
+      "faculty_id": "FAC-103",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00084",
+      "faculty_id": "FAC-104",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00085",
+      "faculty_id": "FAC-105",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00086",
+      "faculty_id": "FAC-106",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00087",
+      "faculty_id": "FAC-107",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00088",
+      "faculty_id": "FAC-108",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00089",
+      "faculty_id": "FAC-109",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00090",
+      "faculty_id": "FAC-110",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00091",
+      "faculty_id": "FAC-111",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00092",
+      "faculty_id": "FAC-112",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00093",
+      "faculty_id": "FAC-113",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00094",
+      "faculty_id": "FAC-114",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00095",
+      "faculty_id": "FAC-115",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00096",
+      "faculty_id": "FAC-116",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00097",
+      "faculty_id": "FAC-117",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00098",
+      "faculty_id": "FAC-118",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00099",
+      "faculty_id": "FAC-119",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00100",
+      "faculty_id": "FAC-120",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00101",
+      "faculty_id": "FAC-121",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00102",
+      "faculty_id": "FAC-122",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00103",
+      "faculty_id": "FAC-123",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00104",
+      "faculty_id": "FAC-124",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00105",
+      "faculty_id": "FAC-125",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00106",
+      "faculty_id": "FAC-126",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00107",
+      "faculty_id": "FAC-127",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00108",
+      "faculty_id": "FAC-128",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00109",
+      "faculty_id": "FAC-129",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00110",
+      "faculty_id": "FAC-130",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00111",
+      "faculty_id": "FAC-131",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00112",
+      "faculty_id": "FAC-132",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00113",
+      "faculty_id": "FAC-133",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00114",
+      "faculty_id": "FAC-134",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00115",
+      "faculty_id": "FAC-135",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00116",
+      "faculty_id": "FAC-136",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00117",
+      "faculty_id": "FAC-137",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00118",
+      "faculty_id": "FAC-138",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00119",
+      "faculty_id": "FAC-139",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00120",
+      "faculty_id": "FAC-140",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00121",
+      "faculty_id": "FAC-141",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00122",
+      "faculty_id": "FAC-142",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00123",
+      "faculty_id": "FAC-143",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00124",
+      "faculty_id": "FAC-144",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00125",
+      "faculty_id": "FAC-145",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00126",
+      "faculty_id": "FAC-146",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00127",
+      "faculty_id": "FAC-147",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00128",
+      "faculty_id": "FAC-148",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00129",
+      "faculty_id": "FAC-149",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00130",
+      "faculty_id": "FAC-150",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00131",
+      "faculty_id": "FAC-151",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00132",
+      "faculty_id": "FAC-152",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00133",
+      "faculty_id": "FAC-153",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00134",
+      "faculty_id": "FAC-154",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00135",
+      "faculty_id": "FAC-155",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00136",
+      "faculty_id": "FAC-156",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00137",
+      "faculty_id": "FAC-157",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00138",
+      "faculty_id": "FAC-158",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00139",
+      "faculty_id": "FAC-159",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00140",
+      "faculty_id": "FAC-160",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00141",
+      "faculty_id": "FAC-161",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00142",
+      "faculty_id": "FAC-162",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00143",
+      "faculty_id": "FAC-163",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00144",
+      "faculty_id": "FAC-164",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00145",
+      "faculty_id": "FAC-165",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00146",
+      "faculty_id": "FAC-166",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00147",
+      "faculty_id": "FAC-167",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00148",
+      "faculty_id": "FAC-168",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00149",
+      "faculty_id": "FAC-169",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00150",
+      "faculty_id": "FAC-170",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00151",
+      "faculty_id": "FAC-171",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00152",
+      "faculty_id": "FAC-172",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00153",
+      "faculty_id": "FAC-173",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00154",
+      "faculty_id": "FAC-174",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00155",
+      "faculty_id": "FAC-175",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00156",
+      "faculty_id": "FAC-176",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00157",
+      "faculty_id": "FAC-177",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00158",
+      "faculty_id": "FAC-178",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00159",
+      "faculty_id": "FAC-179",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00160",
+      "faculty_id": "FAC-100",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00161",
+      "faculty_id": "FAC-101",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00162",
+      "faculty_id": "FAC-102",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00163",
+      "faculty_id": "FAC-103",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00164",
+      "faculty_id": "FAC-104",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00165",
+      "faculty_id": "FAC-105",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00166",
+      "faculty_id": "FAC-106",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00167",
+      "faculty_id": "FAC-107",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00168",
+      "faculty_id": "FAC-108",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00169",
+      "faculty_id": "FAC-109",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00170",
+      "faculty_id": "FAC-110",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00171",
+      "faculty_id": "FAC-111",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00172",
+      "faculty_id": "FAC-112",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00173",
+      "faculty_id": "FAC-113",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00174",
+      "faculty_id": "FAC-114",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00175",
+      "faculty_id": "FAC-115",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00176",
+      "faculty_id": "FAC-116",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00177",
+      "faculty_id": "FAC-117",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00178",
+      "faculty_id": "FAC-118",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00179",
+      "faculty_id": "FAC-119",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00180",
+      "faculty_id": "FAC-120",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00181",
+      "faculty_id": "FAC-121",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00182",
+      "faculty_id": "FAC-122",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00183",
+      "faculty_id": "FAC-123",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00184",
+      "faculty_id": "FAC-124",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00185",
+      "faculty_id": "FAC-125",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00186",
+      "faculty_id": "FAC-126",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00187",
+      "faculty_id": "FAC-127",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00188",
+      "faculty_id": "FAC-128",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00189",
+      "faculty_id": "FAC-129",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00190",
+      "faculty_id": "FAC-130",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00191",
+      "faculty_id": "FAC-131",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00192",
+      "faculty_id": "FAC-132",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00193",
+      "faculty_id": "FAC-133",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00194",
+      "faculty_id": "FAC-134",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00195",
+      "faculty_id": "FAC-135",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00196",
+      "faculty_id": "FAC-136",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00197",
+      "faculty_id": "FAC-137",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00198",
+      "faculty_id": "FAC-138",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00199",
+      "faculty_id": "FAC-139",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00200",
+      "faculty_id": "FAC-140",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00201",
+      "faculty_id": "FAC-141",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00202",
+      "faculty_id": "FAC-142",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00203",
+      "faculty_id": "FAC-143",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00204",
+      "faculty_id": "FAC-144",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00205",
+      "faculty_id": "FAC-145",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00206",
+      "faculty_id": "FAC-146",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00207",
+      "faculty_id": "FAC-147",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00208",
+      "faculty_id": "FAC-148",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00209",
+      "faculty_id": "FAC-149",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00210",
+      "faculty_id": "FAC-150",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00211",
+      "faculty_id": "FAC-151",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00212",
+      "faculty_id": "FAC-152",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00213",
+      "faculty_id": "FAC-153",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00214",
+      "faculty_id": "FAC-154",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00215",
+      "faculty_id": "FAC-155",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00216",
+      "faculty_id": "FAC-156",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00217",
+      "faculty_id": "FAC-157",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00218",
+      "faculty_id": "FAC-158",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00219",
+      "faculty_id": "FAC-159",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00220",
+      "faculty_id": "FAC-160",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00221",
+      "faculty_id": "FAC-161",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00222",
+      "faculty_id": "FAC-162",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00223",
+      "faculty_id": "FAC-163",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00224",
+      "faculty_id": "FAC-164",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00225",
+      "faculty_id": "FAC-165",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00226",
+      "faculty_id": "FAC-166",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00227",
+      "faculty_id": "FAC-167",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00228",
+      "faculty_id": "FAC-168",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00229",
+      "faculty_id": "FAC-169",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00230",
+      "faculty_id": "FAC-170",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00231",
+      "faculty_id": "FAC-171",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00232",
+      "faculty_id": "FAC-172",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00233",
+      "faculty_id": "FAC-173",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00234",
+      "faculty_id": "FAC-174",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00235",
+      "faculty_id": "FAC-175",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00236",
+      "faculty_id": "FAC-176",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00237",
+      "faculty_id": "FAC-177",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00238",
+      "faculty_id": "FAC-178",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00239",
+      "faculty_id": "FAC-179",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00240",
+      "faculty_id": "FAC-100",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00241",
+      "faculty_id": "FAC-101",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00242",
+      "faculty_id": "FAC-102",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00243",
+      "faculty_id": "FAC-103",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00244",
+      "faculty_id": "FAC-104",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00245",
+      "faculty_id": "FAC-105",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00246",
+      "faculty_id": "FAC-106",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00247",
+      "faculty_id": "FAC-107",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00248",
+      "faculty_id": "FAC-108",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00249",
+      "faculty_id": "FAC-109",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00250",
+      "faculty_id": "FAC-110",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00251",
+      "faculty_id": "FAC-111",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00252",
+      "faculty_id": "FAC-112",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00253",
+      "faculty_id": "FAC-113",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00254",
+      "faculty_id": "FAC-114",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00255",
+      "faculty_id": "FAC-115",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00256",
+      "faculty_id": "FAC-116",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00257",
+      "faculty_id": "FAC-117",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00258",
+      "faculty_id": "FAC-118",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00259",
+      "faculty_id": "FAC-119",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00260",
+      "faculty_id": "FAC-120",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00261",
+      "faculty_id": "FAC-121",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00262",
+      "faculty_id": "FAC-122",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00263",
+      "faculty_id": "FAC-123",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00264",
+      "faculty_id": "FAC-124",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00265",
+      "faculty_id": "FAC-125",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00266",
+      "faculty_id": "FAC-126",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00267",
+      "faculty_id": "FAC-127",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00268",
+      "faculty_id": "FAC-128",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00269",
+      "faculty_id": "FAC-129",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00270",
+      "faculty_id": "FAC-130",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00271",
+      "faculty_id": "FAC-131",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00272",
+      "faculty_id": "FAC-132",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00273",
+      "faculty_id": "FAC-133",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00274",
+      "faculty_id": "FAC-134",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00275",
+      "faculty_id": "FAC-135",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00276",
+      "faculty_id": "FAC-136",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00277",
+      "faculty_id": "FAC-137",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00278",
+      "faculty_id": "FAC-138",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00279",
+      "faculty_id": "FAC-139",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00280",
+      "faculty_id": "FAC-140",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00281",
+      "faculty_id": "FAC-141",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00282",
+      "faculty_id": "FAC-142",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00283",
+      "faculty_id": "FAC-143",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00284",
+      "faculty_id": "FAC-144",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00285",
+      "faculty_id": "FAC-145",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00286",
+      "faculty_id": "FAC-146",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00287",
+      "faculty_id": "FAC-147",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00288",
+      "faculty_id": "FAC-148",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00289",
+      "faculty_id": "FAC-149",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00290",
+      "faculty_id": "FAC-150",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00291",
+      "faculty_id": "FAC-151",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00292",
+      "faculty_id": "FAC-152",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00293",
+      "faculty_id": "FAC-153",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00294",
+      "faculty_id": "FAC-154",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00295",
+      "faculty_id": "FAC-155",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00296",
+      "faculty_id": "FAC-156",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00297",
+      "faculty_id": "FAC-157",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00298",
+      "faculty_id": "FAC-158",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00299",
+      "faculty_id": "FAC-159",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00300",
+      "faculty_id": "FAC-160",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00301",
+      "faculty_id": "FAC-161",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00302",
+      "faculty_id": "FAC-162",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00303",
+      "faculty_id": "FAC-163",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00304",
+      "faculty_id": "FAC-164",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00305",
+      "faculty_id": "FAC-165",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00306",
+      "faculty_id": "FAC-166",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00307",
+      "faculty_id": "FAC-167",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00308",
+      "faculty_id": "FAC-168",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00309",
+      "faculty_id": "FAC-169",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00310",
+      "faculty_id": "FAC-170",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-1",
+      "blackout_date_end": "2026-12-3",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00311",
+      "faculty_id": "FAC-171",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-2",
+      "blackout_date_end": "2026-12-4",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00312",
+      "faculty_id": "FAC-172",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-3",
+      "blackout_date_end": "2026-12-5",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00313",
+      "faculty_id": "FAC-173",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-4",
+      "blackout_date_end": "2026-12-6",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00314",
+      "faculty_id": "FAC-174",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-5",
+      "blackout_date_end": "2026-12-7",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00315",
+      "faculty_id": "FAC-175",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-6",
+      "blackout_date_end": "2026-12-8",
+      "special_medical_accommodation": true,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00316",
+      "faculty_id": "FAC-176",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Academic Block A",
+      "blackout_date_start": "2026-12-7",
+      "blackout_date_end": "2026-12-9",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00317",
+      "faculty_id": "FAC-177",
+      "preferred_shift": "NO_PREFERENCE",
+      "preferred_building": "Technology Tower B",
+      "blackout_date_start": "2026-12-8",
+      "blackout_date_end": "2026-12-10",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00318",
+      "faculty_id": "FAC-178",
+      "preferred_shift": "FORENOON",
+      "preferred_building": "Science Complex C",
+      "blackout_date_start": "2026-12-9",
+      "blackout_date_end": "2026-12-11",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    },
+    {
+      "pref_id": "PREF-2026-00319",
+      "faculty_id": "FAC-179",
+      "preferred_shift": "AFTERNOON",
+      "preferred_building": "Ramanujan Hall",
+      "blackout_date_start": "2026-12-10",
+      "blackout_date_end": "2026-12-12",
+      "special_medical_accommodation": false,
+      "submission_timestamp": "2026-10-01T08:30:00Z"
+    }
+  ]
+}
