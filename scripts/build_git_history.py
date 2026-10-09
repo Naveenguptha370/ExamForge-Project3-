@@ -91,9 +91,9 @@ def main():
     ]
     for b in branches:
         run_git(['branch', b])
-        print(f"✓ Created branch: {b}")
+        print(f"[OK] Created branch: {b}")
 
-    print("\n✓ Successfully created Git branches and 28+ commit milestones!")
+    print("\n[OK] Successfully created Git branches and 28+ commit milestones!")
 
 if __name__ == '__main__':
     main()
