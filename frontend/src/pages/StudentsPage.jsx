@@ -182,7 +182,7 @@ export default function StudentsPage() {
       <Modal isOpen={isUploadModalOpen} onClose={() => setIsUploadModalOpen(false)} title="Bulk Student CSV Upload Engine" maxWidth="700px">
         <div>
           <p style={{ fontSize: '0.8125rem', color: 'var(--color-muted)', marginBottom: '1rem' }}>
-            Upload institutional CSV with columns: <code>registration_no, roll_no, first_name, last_name, email, department_code, course_code, semester_number, phone</code>.
+            Required columns: <code>registration_no, roll_no, first_name, last_name, email, department_code, course_code, semester_number</code>. Optional: <code>branch_code, phone, admission_year, academic_year, term</code>. Provide both academic year and term when semester numbers are ambiguous. Imports are all-or-nothing: correct every invalid row before committing.
           </p>
 
           <div style={{
@@ -230,11 +230,11 @@ export default function StudentsPage() {
                 <button type="button" onClick={() => setIsUploadModalOpen(false)} className="btn btn-outline">Cancel</button>
                 <button
                   type="button"
-                  disabled={previewResult.valid_count === 0}
+                  disabled={previewResult.valid_count === 0 || previewResult.invalid_count > 0}
                   onClick={handleExecuteImport}
                   className="btn btn-primary"
                 >
-                  Commit Valid Students ({previewResult.valid_count})
+                  Import All Students ({previewResult.valid_count})
                 </button>
               </div>
             </div>

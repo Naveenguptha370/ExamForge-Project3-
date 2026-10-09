@@ -1,13 +1,254 @@
 import csv
+from collections import Counter
 import io
 from rest_framework import viewsets, permissions, status
 from rest_framework.decorators import action
 from rest_framework.response import Response
 from django.http import HttpResponse
-from django.db import models, transaction
+from django.core.validators import validate_email
+from django.core.exceptions import ValidationError
+from django.db import IntegrityError, models, transaction
+from django.db.models.functions import Lower
 from .models import StudentProfile
 from .serializers import StudentProfileSerializer
 from apps.academics.models import Department, Course, Branch, Semester
+
+MAX_CSV_SIZE = 5 * 1024 * 1024
+MAX_CSV_ROWS = 5000
+REQUIRED_CSV_HEADERS = {
+    'registration_no',
+    'roll_no',
+    'first_name',
+    'last_name',
+    'email',
+    'department_code',
+    'course_code',
+    'semester_number',
+}
+
+
+def _read_student_csv(upload):
+    if not upload.name.lower().endswith('.csv'):
+        return None, 'Only CSV files are allowed.'
+    if upload.size > MAX_CSV_SIZE:
+        return None, 'CSV file exceeds the 5 MB upload limit.'
+
+    try:
+        content = upload.read().decode('utf-8-sig')
+        reader = csv.reader(io.StringIO(content, newline=''), strict=True)
+        headers = next(reader, None)
+    except (UnicodeDecodeError, csv.Error, StopIteration):
+        return None, 'Could not parse the CSV. Please provide a valid UTF-8 CSV file.'
+
+    if not headers or not any(header.strip() for header in headers):
+        return None, 'CSV file must contain a header row.'
+
+    normalized_headers = [header.strip().lower() for header in headers]
+    if len(normalized_headers) != len(set(normalized_headers)):
+        return None, 'CSV file contains duplicate column headers.'
+
+    missing_headers = sorted(REQUIRED_CSV_HEADERS - set(normalized_headers))
+    if missing_headers:
+        return None, f"Missing required columns: {', '.join(missing_headers)}."
+
+    rows = []
+    try:
+        for row_number, values in enumerate(reader, start=2):
+            if not values or not any(value.strip() for value in values):
+                continue
+            if len(values) != len(normalized_headers):
+                return None, f'Row {row_number}: column count does not match the header.'
+            rows.append({
+                header: value.strip()
+                for header, value in zip(normalized_headers, values)
+            })
+            if len(rows) > MAX_CSV_ROWS:
+                return None, f'CSV file exceeds the {MAX_CSV_ROWS}-row limit.'
+    except csv.Error:
+        return None, 'Could not parse the CSV. Please check its quoting and delimiters.'
+
+    if not rows:
+        return None, 'CSV file contains headers but no student rows.'
+    return rows, None
+
+
+def _validate_student_csv_rows(rows):
+    candidate_values = {
+        field: {
+            row.get(field, '').strip().lower()
+            for row in rows
+            if row.get(field, '').strip()
+        }
+        for field in ('registration_no', 'roll_no', 'email')
+    }
+    existing = {}
+    for field, candidates in candidate_values.items():
+        existing[field] = set(
+            StudentProfile.objects.annotate(normalized_value=Lower(field))
+            .filter(normalized_value__in=candidates)
+            .values_list('normalized_value', flat=True)
+        )
+    duplicate_counts = {
+        field: Counter(row.get(field, '').strip().lower() for row in rows if row.get(field, '').strip())
+        for field in existing
+    }
+    departments = {item.code.casefold(): item for item in Department.objects.all()}
+    courses = {item.code.casefold(): item for item in Course.objects.select_related('department')}
+    branches = {item.code.casefold(): item for item in Branch.objects.select_related('course')}
+    semesters = list(Semester.objects.all())
+    validated_rows = []
+
+    for row_number, row in enumerate(rows, start=2):
+        registration_no = row.get('registration_no', '').strip().upper()
+        roll_no = row.get('roll_no', '').strip().upper()
+        email = row.get('email', '').strip().lower()
+        department_code = row.get('department_code', '').strip()
+        course_code = row.get('course_code', '').strip()
+        branch_code = row.get('branch_code', '').strip()
+        first_name = row.get('first_name', '').strip()
+        last_name = row.get('last_name', '').strip()
+        row_errors = []
+
+        values = {
+            'registration_no': registration_no,
+            'roll_no': roll_no,
+            'email': email,
+            'first_name': first_name,
+            'last_name': last_name,
+            'department_code': department_code,
+            'course_code': course_code,
+            'semester_number': row.get('semester_number', '').strip(),
+        }
+        for field, label in (
+            ('registration_no', 'Registration number'),
+            ('roll_no', 'Roll number'),
+            ('first_name', 'First name'),
+            ('last_name', 'Last name'),
+            ('email', 'Email'),
+            ('department_code', 'Department code'),
+            ('course_code', 'Course code'),
+            ('semester_number', 'Semester number'),
+        ):
+            if not values[field]:
+                row_errors.append(f'{label} is required.')
+
+        for field, label, max_length in (
+            ('registration_no', 'Registration number', 30),
+            ('roll_no', 'Roll number', 30),
+            ('first_name', 'First name', 100),
+            ('last_name', 'Last name', 100),
+            ('email', 'Email', 254),
+        ):
+            if values[field] and len(values[field]) > max_length:
+                row_errors.append(f'{label} must be at most {max_length} characters.')
+
+        for field, label in (
+            ('registration_no', 'Registration number'),
+            ('roll_no', 'Roll number'),
+            ('email', 'Email'),
+        ):
+            key = values[field].lower()
+            if key and key in existing[field]:
+                row_errors.append(f'{label} already exists: {values[field]}.')
+            elif key and duplicate_counts[field][key] > 1:
+                row_errors.append(f'{label} is duplicated in this CSV: {values[field]}.')
+
+        if email:
+            try:
+                validate_email(email)
+            except ValidationError:
+                row_errors.append('Email address is invalid.')
+
+        department = departments.get(department_code.casefold())
+        if department_code and not department:
+            row_errors.append(f"Department code '{department_code}' was not found.")
+
+        course = courses.get(course_code.casefold())
+        if course_code and not course:
+            row_errors.append(f"Course code '{course_code}' was not found.")
+        elif department and course and course.department_id != department.id:
+            row_errors.append('Course does not belong to the selected department.')
+
+        branch = branches.get(branch_code.casefold()) if branch_code else None
+        if branch_code and not branch:
+            row_errors.append(f"Branch code '{branch_code}' was not found.")
+        elif course and branch and branch.course_id != course.id:
+            row_errors.append('Branch does not belong to the selected course.')
+
+        semester_number = values['semester_number']
+        semester = None
+        if semester_number:
+            if not semester_number.isdigit() or not 1 <= int(semester_number) <= 8:
+                row_errors.append('Semester number must be an integer from 1 to 8.')
+            else:
+                matches = [
+                    item for item in semesters
+                    if item.number == int(semester_number)
+                ]
+                academic_year = row.get('academic_year', '').strip()
+                term = row.get('term', '').strip().upper()
+                if bool(academic_year) != bool(term):
+                    row_errors.append('Provide both academic_year and term to select a semester.')
+                elif academic_year and term:
+                    matches = [
+                        item for item in matches
+                        if item.academic_year.casefold() == academic_year.casefold()
+                        and item.term == term
+                    ]
+                if len(matches) == 1:
+                    semester = matches[0]
+                elif not matches:
+                    row_errors.append('The specified semester was not found.')
+                else:
+                    row_errors.append(
+                        'Semester number is ambiguous; include academic_year and term.'
+                    )
+
+        phone = row.get('phone', '').strip()
+        if len(phone) > 20:
+            row_errors.append('Phone must be at most 20 characters.')
+
+        admission_year_text = row.get('admission_year', '').strip()
+        if admission_year_text and (
+            not admission_year_text.isdigit()
+            or len(admission_year_text) != 4
+        ):
+            row_errors.append('Admission year must be a four-digit year.')
+        admission_year = (
+            int(admission_year_text)
+            if admission_year_text.isdigit() and len(admission_year_text) == 4
+            else (int(semester.academic_year[:4]) if semester else 2024)
+        )
+
+        validated_rows.append({
+            'row': row_number,
+            'registration_no': registration_no,
+            'roll_no': roll_no,
+            'first_name': first_name,
+            'last_name': last_name,
+            'email': email,
+            'department_code': department_code,
+            'course_code': course_code,
+            'semester_number': semester_number,
+            'is_valid': not row_errors,
+            'errors': row_errors,
+            'student_data': {
+                'registration_no': registration_no,
+                'roll_no': roll_no,
+                'first_name': first_name,
+                'last_name': last_name,
+                'email': email,
+                'department': department,
+                'course': course,
+                'branch': branch,
+                'semester': semester,
+                'admission_year': admission_year,
+                'contact_phone': phone,
+            },
+        })
+
+    return validated_rows
+
 
 class StudentProfileViewSet(viewsets.ModelViewSet):
     queryset = StudentProfile.objects.select_related('department', 'course', 'branch', 'semester').all()
@@ -61,84 +302,27 @@ class StudentProfileViewSet(viewsets.ModelViewSet):
         if not file:
             return Response({'error': 'No file uploaded'}, status=status.HTTP_400_BAD_REQUEST)
 
-        try:
-            decoded = file.read().decode('utf-8-sig')
-            reader = csv.DictReader(io.StringIO(decoded))
-            rows = []
-            errors = []
-            row_idx = 1
+        rows, error = _read_student_csv(file)
+        if error:
+            return Response({'error': error}, status=status.HTTP_400_BAD_REQUEST)
 
-            existing_regs = set(StudentProfile.objects.values_list('registration_no', flat=True))
-            existing_rolls = set(StudentProfile.objects.values_list('roll_no', flat=True))
-            existing_emails = set(StudentProfile.objects.values_list('email', flat=True))
-
-            seen_in_file_regs = set()
-
-            for r in reader:
-                row_idx += 1
-                reg_no = r.get('registration_no', '').strip()
-                roll_no = r.get('roll_no', '').strip()
-                email = r.get('email', '').strip()
-                dept_code = r.get('department_code', '').strip()
-                course_code = r.get('course_code', '').strip()
-                sem_no = r.get('semester_number', '').strip()
-
-                row_errors = []
-                if not reg_no:
-                    row_errors.append('Registration number is required')
-                elif reg_no in existing_regs or reg_no in seen_in_file_regs:
-                    row_errors.append(f'Duplicate registration number: {reg_no}')
-                else:
-                    seen_in_file_regs.add(reg_no)
-
-                if not roll_no:
-                    row_errors.append('Roll number is required')
-                elif roll_no in existing_rolls:
-                    row_errors.append(f'Duplicate roll number: {roll_no}')
-
-                if not email:
-                    row_errors.append('Email is required')
-                elif email in existing_emails:
-                    row_errors.append(f'Duplicate email: {email}')
-
-                dept = Department.objects.filter(code__iexact=dept_code).first()
-                if not dept:
-                    row_errors.append(f"Department code '{dept_code}' not found")
-
-                course = Course.objects.filter(code__iexact=course_code).first()
-                if not course:
-                    row_errors.append(f"Course code '{course_code}' not found")
-
-                sem = Semester.objects.filter(number=sem_no).first() if sem_no.isdigit() else None
-                if not sem:
-                    row_errors.append(f"Semester '{sem_no}' not found")
-
-                row_info = {
-                    'row': row_idx,
-                    'registration_no': reg_no,
-                    'roll_no': roll_no,
-                    'first_name': r.get('first_name', '').strip(),
-                    'last_name': r.get('last_name', '').strip(),
-                    'email': email,
-                    'department_code': dept_code,
-                    'course_code': course_code,
-                    'semester_number': sem_no,
-                    'is_valid': len(row_errors) == 0,
-                    'errors': row_errors
-                }
-                rows.append(row_info)
-                if row_errors:
-                    errors.extend([f"Row {row_idx}: {err}" for err in row_errors])
-
-            return Response({
-                'total_rows': len(rows),
-                'valid_count': sum(1 for r in rows if r['is_valid']),
-                'invalid_count': sum(1 for r in rows if not r['is_valid']),
-                'preview_rows': rows[:20],
-                'errors': errors[:50]
-            })
-        except Exception as e:
-            return Response({'error': f'Failed to parse CSV: {str(e)}'}, status=status.HTTP_400_BAD_REQUEST)
+        validated_rows = _validate_student_csv_rows(rows)
+        errors = [
+            f"Row {row['row']}: {message}"
+            for row in validated_rows
+            for message in row['errors']
+        ]
+        invalid_count = sum(not row['is_valid'] for row in validated_rows)
+        return Response({
+            'total_rows': len(validated_rows),
+            'valid_count': len(validated_rows) - invalid_count,
+            'invalid_count': invalid_count,
+            'preview_rows': [
+                {key: value for key, value in row.items() if key != 'student_data'}
+                for row in validated_rows[:20]
+            ],
+            'errors': errors[:50],
+        })
 
     @action(detail=False, methods=['post'])
     def csv_import(self, request):
@@ -146,58 +330,44 @@ class StudentProfileViewSet(viewsets.ModelViewSet):
         if not file:
             return Response({'error': 'No file uploaded'}, status=status.HTTP_400_BAD_REQUEST)
 
-        try:
-            decoded = file.read().decode('utf-8-sig')
-            reader = csv.DictReader(io.StringIO(decoded))
-            created_count = 0
-            skipped_count = 0
-            errors = []
+        rows, error = _read_student_csv(file)
+        if error:
+            return Response({'error': error}, status=status.HTTP_400_BAD_REQUEST)
 
-            with transaction.atomic():
-                for idx, r in enumerate(reader, start=2):
-                    reg_no = r.get('registration_no', '').strip()
-                    roll_no = r.get('roll_no', '').strip()
-                    email = r.get('email', '').strip()
-
-                    if StudentProfile.objects.filter(registration_no=reg_no).exists():
-                        skipped_count += 1
-                        continue
-
-                    dept = Department.objects.filter(code__iexact=r.get('department_code', '').strip()).first()
-                    course = Course.objects.filter(code__iexact=r.get('course_code', '').strip()).first()
-                    sem_num = r.get('semester_number', '1').strip()
-                    sem = Semester.objects.filter(number=int(sem_num) if sem_num.isdigit() else 1).first()
-
-                    if not dept or not course or not sem:
-                        errors.append(f"Row {idx}: missing department, course, or semester")
-                        continue
-
-                    branch_code = r.get('branch_code', '').strip()
-                    branch = Branch.objects.filter(code__iexact=branch_code).first() if branch_code else None
-
-                    StudentProfile.objects.create(
-                        registration_no=reg_no,
-                        roll_no=roll_no,
-                        first_name=r.get('first_name', '').strip(),
-                        last_name=r.get('last_name', '').strip(),
-                        email=email,
-                        department=dept,
-                        course=course,
-                        branch=branch,
-                        semester=sem,
-                        admission_year=int(r.get('admission_year', 2024)),
-                        contact_phone=r.get('phone', '').strip()
-                    )
-                    created_count += 1
-
+        validated_rows = _validate_student_csv_rows(rows)
+        errors = [
+            f"Row {row['row']}: {message}"
+            for row in validated_rows
+            for message in row['errors']
+        ]
+        invalid_count = sum(not row['is_valid'] for row in validated_rows)
+        if invalid_count:
             return Response({
-                'message': f'Successfully imported {created_count} students.',
-                'created_count': created_count,
-                'skipped_count': skipped_count,
-                'errors': errors
-            })
-        except Exception as e:
-            return Response({'error': f'Import failed: {str(e)}'}, status=status.HTTP_400_BAD_REQUEST)
+                'error': 'Import cancelled because the CSV contains invalid rows. No students were created.',
+                'created_count': 0,
+                'invalid_count': invalid_count,
+                'errors': errors[:50],
+            }, status=status.HTTP_400_BAD_REQUEST)
+
+        try:
+            with transaction.atomic():
+                StudentProfile.objects.bulk_create([
+                    StudentProfile(**row['student_data'])
+                    for row in validated_rows
+                ])
+        except IntegrityError:
+            return Response({
+                'error': 'Import cancelled because a student identifier was added concurrently. No students were created; re-upload and preview the CSV.',
+                'created_count': 0,
+            }, status=status.HTTP_409_CONFLICT)
+
+        created_count = len(validated_rows)
+        return Response({
+            'message': f'Successfully imported {created_count} students.',
+            'created_count': created_count,
+            'skipped_count': 0,
+            'errors': [],
+        }, status=status.HTTP_201_CREATED)
 
     @action(detail=False, methods=['get'])
     def export_csv(self, request):
