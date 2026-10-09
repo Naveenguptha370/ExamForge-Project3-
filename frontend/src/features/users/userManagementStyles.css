@@ -1,0 +1,1532 @@
+/* ExamForge - User Management Stylesheet */
+:root {
+  --ef-forest: #14532D;
+  --ef-emerald: #15803D;
+  --ef-sage: #DDEBDD;
+  --ef-ivory: #FAF9F6;
+  --ef-charcoal: #242923;
+}
+/* User Management Rule Block 1 */
+.ef-user-table-row-1 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 2 */
+.ef-user-table-row-2 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 3 */
+.ef-user-table-row-3 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 4 */
+.ef-user-table-row-4 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 5 */
+.ef-user-table-row-5 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 6 */
+.ef-user-table-row-6 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 7 */
+.ef-user-table-row-7 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 8 */
+.ef-user-table-row-8 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 9 */
+.ef-user-table-row-9 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 10 */
+.ef-user-table-row-10 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 11 */
+.ef-user-table-row-11 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 12 */
+.ef-user-table-row-12 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 13 */
+.ef-user-table-row-13 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 14 */
+.ef-user-table-row-14 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 15 */
+.ef-user-table-row-15 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 16 */
+.ef-user-table-row-16 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 17 */
+.ef-user-table-row-17 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 18 */
+.ef-user-table-row-18 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 19 */
+.ef-user-table-row-19 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 20 */
+.ef-user-table-row-20 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 21 */
+.ef-user-table-row-21 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 22 */
+.ef-user-table-row-22 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 23 */
+.ef-user-table-row-23 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 24 */
+.ef-user-table-row-24 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 25 */
+.ef-user-table-row-25 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 26 */
+.ef-user-table-row-26 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 27 */
+.ef-user-table-row-27 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 28 */
+.ef-user-table-row-28 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 29 */
+.ef-user-table-row-29 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 30 */
+.ef-user-table-row-30 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 31 */
+.ef-user-table-row-31 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 32 */
+.ef-user-table-row-32 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 33 */
+.ef-user-table-row-33 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 34 */
+.ef-user-table-row-34 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 35 */
+.ef-user-table-row-35 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 36 */
+.ef-user-table-row-36 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 37 */
+.ef-user-table-row-37 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 38 */
+.ef-user-table-row-38 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 39 */
+.ef-user-table-row-39 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 40 */
+.ef-user-table-row-40 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 41 */
+.ef-user-table-row-41 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 42 */
+.ef-user-table-row-42 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 43 */
+.ef-user-table-row-43 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 44 */
+.ef-user-table-row-44 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 45 */
+.ef-user-table-row-45 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 46 */
+.ef-user-table-row-46 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 47 */
+.ef-user-table-row-47 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 48 */
+.ef-user-table-row-48 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 49 */
+.ef-user-table-row-49 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 50 */
+.ef-user-table-row-50 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 51 */
+.ef-user-table-row-51 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 52 */
+.ef-user-table-row-52 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 53 */
+.ef-user-table-row-53 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 54 */
+.ef-user-table-row-54 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 55 */
+.ef-user-table-row-55 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 56 */
+.ef-user-table-row-56 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 57 */
+.ef-user-table-row-57 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 58 */
+.ef-user-table-row-58 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 59 */
+.ef-user-table-row-59 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 60 */
+.ef-user-table-row-60 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 61 */
+.ef-user-table-row-61 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 62 */
+.ef-user-table-row-62 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 63 */
+.ef-user-table-row-63 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 64 */
+.ef-user-table-row-64 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 65 */
+.ef-user-table-row-65 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 66 */
+.ef-user-table-row-66 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 67 */
+.ef-user-table-row-67 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 68 */
+.ef-user-table-row-68 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 69 */
+.ef-user-table-row-69 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 70 */
+.ef-user-table-row-70 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 71 */
+.ef-user-table-row-71 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 72 */
+.ef-user-table-row-72 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 73 */
+.ef-user-table-row-73 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 74 */
+.ef-user-table-row-74 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 75 */
+.ef-user-table-row-75 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 76 */
+.ef-user-table-row-76 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 77 */
+.ef-user-table-row-77 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 78 */
+.ef-user-table-row-78 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 79 */
+.ef-user-table-row-79 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 80 */
+.ef-user-table-row-80 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 81 */
+.ef-user-table-row-81 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 82 */
+.ef-user-table-row-82 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 83 */
+.ef-user-table-row-83 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 84 */
+.ef-user-table-row-84 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 85 */
+.ef-user-table-row-85 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 86 */
+.ef-user-table-row-86 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 87 */
+.ef-user-table-row-87 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 88 */
+.ef-user-table-row-88 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 89 */
+.ef-user-table-row-89 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 90 */
+.ef-user-table-row-90 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 91 */
+.ef-user-table-row-91 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 92 */
+.ef-user-table-row-92 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 93 */
+.ef-user-table-row-93 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 94 */
+.ef-user-table-row-94 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 95 */
+.ef-user-table-row-95 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 96 */
+.ef-user-table-row-96 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 97 */
+.ef-user-table-row-97 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 98 */
+.ef-user-table-row-98 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 99 */
+.ef-user-table-row-99 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 100 */
+.ef-user-table-row-100 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 101 */
+.ef-user-table-row-101 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 102 */
+.ef-user-table-row-102 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 103 */
+.ef-user-table-row-103 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 104 */
+.ef-user-table-row-104 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 105 */
+.ef-user-table-row-105 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 106 */
+.ef-user-table-row-106 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 107 */
+.ef-user-table-row-107 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 108 */
+.ef-user-table-row-108 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 109 */
+.ef-user-table-row-109 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 110 */
+.ef-user-table-row-110 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 111 */
+.ef-user-table-row-111 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 112 */
+.ef-user-table-row-112 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 113 */
+.ef-user-table-row-113 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 114 */
+.ef-user-table-row-114 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 115 */
+.ef-user-table-row-115 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 116 */
+.ef-user-table-row-116 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 117 */
+.ef-user-table-row-117 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 118 */
+.ef-user-table-row-118 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 119 */
+.ef-user-table-row-119 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 120 */
+.ef-user-table-row-120 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 121 */
+.ef-user-table-row-121 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 122 */
+.ef-user-table-row-122 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 123 */
+.ef-user-table-row-123 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 124 */
+.ef-user-table-row-124 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 125 */
+.ef-user-table-row-125 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 126 */
+.ef-user-table-row-126 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 127 */
+.ef-user-table-row-127 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 128 */
+.ef-user-table-row-128 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 129 */
+.ef-user-table-row-129 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 130 */
+.ef-user-table-row-130 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 131 */
+.ef-user-table-row-131 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 132 */
+.ef-user-table-row-132 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 133 */
+.ef-user-table-row-133 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 134 */
+.ef-user-table-row-134 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 135 */
+.ef-user-table-row-135 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 136 */
+.ef-user-table-row-136 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 137 */
+.ef-user-table-row-137 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 138 */
+.ef-user-table-row-138 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 139 */
+.ef-user-table-row-139 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 140 */
+.ef-user-table-row-140 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 141 */
+.ef-user-table-row-141 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 142 */
+.ef-user-table-row-142 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 143 */
+.ef-user-table-row-143 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 144 */
+.ef-user-table-row-144 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 145 */
+.ef-user-table-row-145 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 146 */
+.ef-user-table-row-146 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 147 */
+.ef-user-table-row-147 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 148 */
+.ef-user-table-row-148 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 149 */
+.ef-user-table-row-149 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 150 */
+.ef-user-table-row-150 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 151 */
+.ef-user-table-row-151 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 152 */
+.ef-user-table-row-152 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 153 */
+.ef-user-table-row-153 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 154 */
+.ef-user-table-row-154 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 155 */
+.ef-user-table-row-155 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 156 */
+.ef-user-table-row-156 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 157 */
+.ef-user-table-row-157 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 158 */
+.ef-user-table-row-158 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 159 */
+.ef-user-table-row-159 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 160 */
+.ef-user-table-row-160 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 161 */
+.ef-user-table-row-161 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 162 */
+.ef-user-table-row-162 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 163 */
+.ef-user-table-row-163 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 164 */
+.ef-user-table-row-164 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 165 */
+.ef-user-table-row-165 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 166 */
+.ef-user-table-row-166 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 167 */
+.ef-user-table-row-167 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 168 */
+.ef-user-table-row-168 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 169 */
+.ef-user-table-row-169 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 170 */
+.ef-user-table-row-170 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 171 */
+.ef-user-table-row-171 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 172 */
+.ef-user-table-row-172 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 173 */
+.ef-user-table-row-173 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 174 */
+.ef-user-table-row-174 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 175 */
+.ef-user-table-row-175 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 176 */
+.ef-user-table-row-176 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 177 */
+.ef-user-table-row-177 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 178 */
+.ef-user-table-row-178 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 179 */
+.ef-user-table-row-179 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 180 */
+.ef-user-table-row-180 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 181 */
+.ef-user-table-row-181 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 182 */
+.ef-user-table-row-182 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 183 */
+.ef-user-table-row-183 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 184 */
+.ef-user-table-row-184 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 185 */
+.ef-user-table-row-185 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 186 */
+.ef-user-table-row-186 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 187 */
+.ef-user-table-row-187 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 188 */
+.ef-user-table-row-188 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 189 */
+.ef-user-table-row-189 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 190 */
+.ef-user-table-row-190 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 191 */
+.ef-user-table-row-191 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 192 */
+.ef-user-table-row-192 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 193 */
+.ef-user-table-row-193 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 194 */
+.ef-user-table-row-194 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 195 */
+.ef-user-table-row-195 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 196 */
+.ef-user-table-row-196 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 197 */
+.ef-user-table-row-197 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 198 */
+.ef-user-table-row-198 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 199 */
+.ef-user-table-row-199 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 200 */
+.ef-user-table-row-200 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 201 */
+.ef-user-table-row-201 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 202 */
+.ef-user-table-row-202 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 203 */
+.ef-user-table-row-203 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 204 */
+.ef-user-table-row-204 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 205 */
+.ef-user-table-row-205 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 206 */
+.ef-user-table-row-206 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 207 */
+.ef-user-table-row-207 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 208 */
+.ef-user-table-row-208 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 209 */
+.ef-user-table-row-209 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 210 */
+.ef-user-table-row-210 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 211 */
+.ef-user-table-row-211 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 212 */
+.ef-user-table-row-212 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 213 */
+.ef-user-table-row-213 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 214 */
+.ef-user-table-row-214 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 215 */
+.ef-user-table-row-215 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 216 */
+.ef-user-table-row-216 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 217 */
+.ef-user-table-row-217 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 218 */
+.ef-user-table-row-218 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 219 */
+.ef-user-table-row-219 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 220 */
+.ef-user-table-row-220 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 221 */
+.ef-user-table-row-221 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 222 */
+.ef-user-table-row-222 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 223 */
+.ef-user-table-row-223 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 224 */
+.ef-user-table-row-224 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 225 */
+.ef-user-table-row-225 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 226 */
+.ef-user-table-row-226 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 227 */
+.ef-user-table-row-227 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 228 */
+.ef-user-table-row-228 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 229 */
+.ef-user-table-row-229 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 230 */
+.ef-user-table-row-230 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 231 */
+.ef-user-table-row-231 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 232 */
+.ef-user-table-row-232 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 233 */
+.ef-user-table-row-233 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 234 */
+.ef-user-table-row-234 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 235 */
+.ef-user-table-row-235 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 236 */
+.ef-user-table-row-236 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 237 */
+.ef-user-table-row-237 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 238 */
+.ef-user-table-row-238 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 239 */
+.ef-user-table-row-239 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+/* User Management Rule Block 240 */
+.ef-user-table-row-240 {
+  padding: 12px;
+  border-bottom: 1px solid #E7E5E4;
+  color: var(--ef-charcoal);
+}
+
+.ef-user-mgmt-container {
+  padding: 24px;
+}
+.ef-user-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+.ef-section-title {
+  color: var(--ef-forest);
+  margin: 0 0 6px 0;
+  font-size: 22px;
+}
+.ef-section-desc {
+  color: #6B7280;
+  margin: 0;
+  font-size: 14px;
+}
+.ef-search-bar {
+  padding: 8px 14px;
+  border: 1px solid #E7E5E4;
+  border-radius: 6px;
+  width: 260px;
+}
+.ef-select-filter {
+  padding: 8px 14px;
+  border: 1px solid #E7E5E4;
+  border-radius: 6px;
+  margin-left: 10px;
+}
+.ef-table-card {
+  background: #FFFFFF;
+  border: 1px solid #E7E5E4;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.ef-data-table {
+  width: 100%;
+  border-collapse: collapse;
+  text-align: left;
+}
+.ef-data-table th {
+  background: var(--ef-ivory);
+  padding: 12px 16px;
+  font-size: 12px;
+  color: #6B7280;
+  text-transform: uppercase;
+}
+.ef-data-table td {
+  padding: 14px 16px;
+  border-top: 1px solid #E7E5E4;
+  font-size: 14px;
+}
+.ef-role-pill {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  background: var(--ef-sage);
+  color: var(--ef-forest);
+}
+.ef-status-pill {
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 600;
+  background: #DCFCE7;
+  color: #16A34A;
+}
+.ef-action-btn {
+  padding: 4px 10px;
+  border-radius: 4px;
+  border: 1px solid #E7E5E4;
+  background: #FAF9F6;
+  margin-right: 6px;
+  cursor: pointer;
+  font-size: 12px;
+}
+.ef-action-btn.danger {
+  color: #DC2626;
+  border-color: #FCA5A5;
+}
