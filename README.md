@@ -162,35 +162,17 @@ python manage.py test tests
 
 ---
 
-## 8. 25 Pull Requests Git Collaboration History
+## 8. Verified GitHub Pull Requests
 
-In accordance with team development protocols, work across the 5 members was organized into distinct feature branches and integrated via 25 pull requests:
+As of October 9, 2026, the repository has **3 pull requests**, and all three
+were merged into `main`:
 
-- `PR #1`: Initial Repository Scaffolding, Shared Database Architecture & Base Django Configuration
-- `PR #2`: Member 1 — Custom User Model, RBAC Roles & UserActivityLog
-- `PR #3`: Member 1 — Token Authentication, Permissions & Session Security
-- `PR #4`: Member 1 — Faculty Profile Management & Department Associations
-- `PR #5`: Member 1 — Faculty Availability Schedules, Leave Tracking & Approval Workflow
-- `PR #6`: Member 2 — Academic Curriculum Hierarchy (Depts, Courses, Branches, Semesters)
-- `PR #7`: Member 2 — Subject Paper Catalog & Credit Allocation
-- `PR #8`: Member 2 — Student Profile Models & Roll Number Management
-- `PR #9`: Member 2 — Bulk Student CSV Import Engine, Validation & Preview Modal
-- `PR #10`: Member 2 — Subject Registration & Attendance Shortage Eligibility Gate (<75%)
-- `PR #11`: Member 3 — Examination Session Management & Official Time Slots
-- `PR #12`: Member 3 — Exam Subjects & Scheduling Constraints
-- `PR #13`: Member 3 — Python Constraint-Solving Engine with Backtracking Heuristics
-- `PR #14`: Member 3 — Student Conflict Graph & Clash Detection Engine
-- `PR #15`: Member 3 — Timetable Approval Workflow, Revision History & Publication
-- `PR #16`: Member 4 — Infrastructure Models, Academic Blocks & Examination Halls
-- `PR #17`: Member 4 — Usable Exam Capacity Calculator & CCTV Surveillance
-- `PR #18`: Member 4 — Visual Row/Col Seating Grid & Alternate Spacing Algorithm
-- `PR #19`: Member 4 — Student-to-Seat Allocation & Capacity Shortage Detection
-- `PR #20`: Member 4 — Invigilator Duty Allocation Engine & Fair Workload Distribution
-- `PR #21`: Member 5 — Local PDF Generation Engine with ReportLab & Hall Ticket Subsystem
-- `PR #22`: Member 5 — Examination Attendance Sheets, Booklet Logging & Status Tracking
-- `PR #23`: Member 5 — Attendance Correction Audit Trail & Multi-Channel Announcements
-- `PR #24`: Member 5 — Executive Analytics Engine, Room Utilization & System Settings
-- `PR #25`: Member 5 — React Frontend Integration, Zero-Blue UI, Animated SaaS Landing Page & E2E Validation
+- [PR #1 — Harden account and faculty access controls](https://github.com/Naveenguptha370/ExamForge-Project3-/pull/1)
+- [PR #2 — Attendence management](https://github.com/Naveenguptha370/ExamForge-Project3-/pull/2)
+- [PR #3 — Member 4 room infrastructure, seating, and invigilation integration](https://github.com/Naveenguptha370/ExamForge-Project3-/pull/3)
+
+This list reflects verified GitHub pull requests; it does not count feature
+branches or commits as pull requests.
 
 ---
 
