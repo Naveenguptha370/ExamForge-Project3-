@@ -1,0 +1,2565 @@
+{
+  "system": "ExamForge Threat Prevention Matrix",
+  "incident_detection_rules": [
+    {
+      "rule_id": "RULE-SEC-2026-0000",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0001",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0002",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0003",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0004",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0005",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0006",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0007",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0008",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0009",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0010",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0011",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0012",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0013",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0014",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0015",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0016",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0017",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0018",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0019",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0020",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0021",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0022",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0023",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0024",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0025",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0026",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0027",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0028",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0029",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0030",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0031",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0032",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0033",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0034",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0035",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0036",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0037",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0038",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0039",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0040",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0041",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0042",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0043",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0044",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0045",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0046",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0047",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0048",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0049",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0050",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0051",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0052",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0053",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0054",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0055",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0056",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0057",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0058",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0059",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0060",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0061",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0062",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0063",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0064",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0065",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0066",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0067",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0068",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0069",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0070",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0071",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0072",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0073",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0074",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0075",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0076",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0077",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0078",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0079",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0080",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0081",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0082",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0083",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0084",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0085",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0086",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0087",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0088",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0089",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0090",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0091",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0092",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0093",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0094",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0095",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0096",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0097",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0098",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0099",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0100",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0101",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0102",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0103",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0104",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0105",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0106",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0107",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0108",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0109",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0110",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0111",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0112",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0113",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0114",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0115",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0116",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0117",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0118",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0119",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0120",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0121",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0122",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0123",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0124",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0125",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0126",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0127",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0128",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0129",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0130",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0131",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0132",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0133",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0134",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0135",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0136",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0137",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0138",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0139",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0140",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0141",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0142",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0143",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0144",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0145",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0146",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0147",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0148",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0149",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0150",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0151",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0152",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0153",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0154",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0155",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0156",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0157",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0158",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0159",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0160",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0161",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0162",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0163",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0164",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0165",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0166",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0167",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0168",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0169",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0170",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0171",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0172",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0173",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0174",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0175",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0176",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0177",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0178",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0179",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0180",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0181",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0182",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0183",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0184",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0185",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0186",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0187",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0188",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0189",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0190",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0191",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0192",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0193",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0194",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0195",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0196",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0197",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0198",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0199",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0200",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0201",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0202",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0203",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0204",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0205",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0206",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0207",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0208",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0209",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0210",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0211",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0212",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0213",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0214",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0215",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0216",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0217",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0218",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0219",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0220",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0221",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0222",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0223",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0224",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0225",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0226",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0227",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0228",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0229",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0230",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0231",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0232",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0233",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0234",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0235",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0236",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0237",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0238",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0239",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0240",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0241",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0242",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0243",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0244",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0245",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0246",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0247",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0248",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0249",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0250",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0251",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0252",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0253",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0254",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0255",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0256",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0257",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0258",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0259",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0260",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0261",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0262",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0263",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0264",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0265",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0266",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0267",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0268",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0269",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0270",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0271",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0272",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0273",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0274",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0275",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0276",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0277",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0278",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0279",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0280",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0281",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0282",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0283",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0284",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0285",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0286",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0287",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0288",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0289",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0290",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0291",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0292",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0293",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0294",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0295",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0296",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 9,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0297",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 10,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0298",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 11,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0299",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 12,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0300",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 13,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0301",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 14,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0302",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 15,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0303",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 16,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0304",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 17,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0305",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 18,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0306",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 19,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0307",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 20,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0308",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 21,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0309",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 22,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0310",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 5,
+      "auto_quarantine_hours": 23,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0311",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 6,
+      "auto_quarantine_hours": 24,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0312",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 7,
+      "auto_quarantine_hours": 1,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0313",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 8,
+      "auto_quarantine_hours": 2,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0314",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 9,
+      "auto_quarantine_hours": 3,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0315",
+      "threat_category": "RAPID_FIRE_CREDENTIAL_STUFFING",
+      "threshold_events_per_sec": 10,
+      "auto_quarantine_hours": 4,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0316",
+      "threat_category": "DISTRIBUTED_BRUTE_FORCE_SWARM",
+      "threshold_events_per_sec": 11,
+      "auto_quarantine_hours": 5,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0317",
+      "threat_category": "SESSION_FIXATION_ATTEMPT",
+      "threshold_events_per_sec": 12,
+      "auto_quarantine_hours": 6,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0318",
+      "threat_category": "PRIVILEGE_PROBING_ANOMALY",
+      "threshold_events_per_sec": 13,
+      "auto_quarantine_hours": 7,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    },
+    {
+      "rule_id": "RULE-SEC-2026-0319",
+      "threat_category": "EXPIRED_TOKEN_REPLAY_FLOOD",
+      "threshold_events_per_sec": 14,
+      "auto_quarantine_hours": 8,
+      "notification_tier": "HIGH_PRIORITY_ADMIN",
+      "active_enforcement": true
+    }
+  ]
+}
