@@ -1,0 +1,3205 @@
+{
+  "system": "ExamForge Enterprise Directory Mapping",
+  "directory_mappings": [
+    {
+      "mapping_id": "LDAP-MAP-2026-0000",
+      "sAMAccountName": "fac_univ_100",
+      "mail": "fac.100@examforge.edu",
+      "distinguishedName": "CN=Faculty_100,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0001",
+      "sAMAccountName": "fac_univ_101",
+      "mail": "fac.101@examforge.edu",
+      "distinguishedName": "CN=Faculty_101,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0002",
+      "sAMAccountName": "fac_univ_102",
+      "mail": "fac.102@examforge.edu",
+      "distinguishedName": "CN=Faculty_102,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0003",
+      "sAMAccountName": "fac_univ_103",
+      "mail": "fac.103@examforge.edu",
+      "distinguishedName": "CN=Faculty_103,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0004",
+      "sAMAccountName": "fac_univ_104",
+      "mail": "fac.104@examforge.edu",
+      "distinguishedName": "CN=Faculty_104,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0005",
+      "sAMAccountName": "fac_univ_105",
+      "mail": "fac.105@examforge.edu",
+      "distinguishedName": "CN=Faculty_105,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0006",
+      "sAMAccountName": "fac_univ_106",
+      "mail": "fac.106@examforge.edu",
+      "distinguishedName": "CN=Faculty_106,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0007",
+      "sAMAccountName": "fac_univ_107",
+      "mail": "fac.107@examforge.edu",
+      "distinguishedName": "CN=Faculty_107,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0008",
+      "sAMAccountName": "fac_univ_108",
+      "mail": "fac.108@examforge.edu",
+      "distinguishedName": "CN=Faculty_108,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0009",
+      "sAMAccountName": "fac_univ_109",
+      "mail": "fac.109@examforge.edu",
+      "distinguishedName": "CN=Faculty_109,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0010",
+      "sAMAccountName": "fac_univ_110",
+      "mail": "fac.110@examforge.edu",
+      "distinguishedName": "CN=Faculty_110,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0011",
+      "sAMAccountName": "fac_univ_111",
+      "mail": "fac.111@examforge.edu",
+      "distinguishedName": "CN=Faculty_111,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0012",
+      "sAMAccountName": "fac_univ_112",
+      "mail": "fac.112@examforge.edu",
+      "distinguishedName": "CN=Faculty_112,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0013",
+      "sAMAccountName": "fac_univ_113",
+      "mail": "fac.113@examforge.edu",
+      "distinguishedName": "CN=Faculty_113,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0014",
+      "sAMAccountName": "fac_univ_114",
+      "mail": "fac.114@examforge.edu",
+      "distinguishedName": "CN=Faculty_114,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0015",
+      "sAMAccountName": "fac_univ_115",
+      "mail": "fac.115@examforge.edu",
+      "distinguishedName": "CN=Faculty_115,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0016",
+      "sAMAccountName": "fac_univ_116",
+      "mail": "fac.116@examforge.edu",
+      "distinguishedName": "CN=Faculty_116,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0017",
+      "sAMAccountName": "fac_univ_117",
+      "mail": "fac.117@examforge.edu",
+      "distinguishedName": "CN=Faculty_117,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0018",
+      "sAMAccountName": "fac_univ_118",
+      "mail": "fac.118@examforge.edu",
+      "distinguishedName": "CN=Faculty_118,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0019",
+      "sAMAccountName": "fac_univ_119",
+      "mail": "fac.119@examforge.edu",
+      "distinguishedName": "CN=Faculty_119,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0020",
+      "sAMAccountName": "fac_univ_120",
+      "mail": "fac.120@examforge.edu",
+      "distinguishedName": "CN=Faculty_120,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0021",
+      "sAMAccountName": "fac_univ_121",
+      "mail": "fac.121@examforge.edu",
+      "distinguishedName": "CN=Faculty_121,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0022",
+      "sAMAccountName": "fac_univ_122",
+      "mail": "fac.122@examforge.edu",
+      "distinguishedName": "CN=Faculty_122,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0023",
+      "sAMAccountName": "fac_univ_123",
+      "mail": "fac.123@examforge.edu",
+      "distinguishedName": "CN=Faculty_123,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0024",
+      "sAMAccountName": "fac_univ_124",
+      "mail": "fac.124@examforge.edu",
+      "distinguishedName": "CN=Faculty_124,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0025",
+      "sAMAccountName": "fac_univ_125",
+      "mail": "fac.125@examforge.edu",
+      "distinguishedName": "CN=Faculty_125,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0026",
+      "sAMAccountName": "fac_univ_126",
+      "mail": "fac.126@examforge.edu",
+      "distinguishedName": "CN=Faculty_126,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0027",
+      "sAMAccountName": "fac_univ_127",
+      "mail": "fac.127@examforge.edu",
+      "distinguishedName": "CN=Faculty_127,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0028",
+      "sAMAccountName": "fac_univ_128",
+      "mail": "fac.128@examforge.edu",
+      "distinguishedName": "CN=Faculty_128,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0029",
+      "sAMAccountName": "fac_univ_129",
+      "mail": "fac.129@examforge.edu",
+      "distinguishedName": "CN=Faculty_129,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0030",
+      "sAMAccountName": "fac_univ_130",
+      "mail": "fac.130@examforge.edu",
+      "distinguishedName": "CN=Faculty_130,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0031",
+      "sAMAccountName": "fac_univ_131",
+      "mail": "fac.131@examforge.edu",
+      "distinguishedName": "CN=Faculty_131,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0032",
+      "sAMAccountName": "fac_univ_132",
+      "mail": "fac.132@examforge.edu",
+      "distinguishedName": "CN=Faculty_132,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0033",
+      "sAMAccountName": "fac_univ_133",
+      "mail": "fac.133@examforge.edu",
+      "distinguishedName": "CN=Faculty_133,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0034",
+      "sAMAccountName": "fac_univ_134",
+      "mail": "fac.134@examforge.edu",
+      "distinguishedName": "CN=Faculty_134,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0035",
+      "sAMAccountName": "fac_univ_135",
+      "mail": "fac.135@examforge.edu",
+      "distinguishedName": "CN=Faculty_135,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0036",
+      "sAMAccountName": "fac_univ_136",
+      "mail": "fac.136@examforge.edu",
+      "distinguishedName": "CN=Faculty_136,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0037",
+      "sAMAccountName": "fac_univ_137",
+      "mail": "fac.137@examforge.edu",
+      "distinguishedName": "CN=Faculty_137,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0038",
+      "sAMAccountName": "fac_univ_138",
+      "mail": "fac.138@examforge.edu",
+      "distinguishedName": "CN=Faculty_138,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0039",
+      "sAMAccountName": "fac_univ_139",
+      "mail": "fac.139@examforge.edu",
+      "distinguishedName": "CN=Faculty_139,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0040",
+      "sAMAccountName": "fac_univ_140",
+      "mail": "fac.140@examforge.edu",
+      "distinguishedName": "CN=Faculty_140,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0041",
+      "sAMAccountName": "fac_univ_141",
+      "mail": "fac.141@examforge.edu",
+      "distinguishedName": "CN=Faculty_141,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0042",
+      "sAMAccountName": "fac_univ_142",
+      "mail": "fac.142@examforge.edu",
+      "distinguishedName": "CN=Faculty_142,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0043",
+      "sAMAccountName": "fac_univ_143",
+      "mail": "fac.143@examforge.edu",
+      "distinguishedName": "CN=Faculty_143,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0044",
+      "sAMAccountName": "fac_univ_144",
+      "mail": "fac.144@examforge.edu",
+      "distinguishedName": "CN=Faculty_144,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0045",
+      "sAMAccountName": "fac_univ_145",
+      "mail": "fac.145@examforge.edu",
+      "distinguishedName": "CN=Faculty_145,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0046",
+      "sAMAccountName": "fac_univ_146",
+      "mail": "fac.146@examforge.edu",
+      "distinguishedName": "CN=Faculty_146,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0047",
+      "sAMAccountName": "fac_univ_147",
+      "mail": "fac.147@examforge.edu",
+      "distinguishedName": "CN=Faculty_147,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0048",
+      "sAMAccountName": "fac_univ_148",
+      "mail": "fac.148@examforge.edu",
+      "distinguishedName": "CN=Faculty_148,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0049",
+      "sAMAccountName": "fac_univ_149",
+      "mail": "fac.149@examforge.edu",
+      "distinguishedName": "CN=Faculty_149,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0050",
+      "sAMAccountName": "fac_univ_150",
+      "mail": "fac.150@examforge.edu",
+      "distinguishedName": "CN=Faculty_150,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0051",
+      "sAMAccountName": "fac_univ_151",
+      "mail": "fac.151@examforge.edu",
+      "distinguishedName": "CN=Faculty_151,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0052",
+      "sAMAccountName": "fac_univ_152",
+      "mail": "fac.152@examforge.edu",
+      "distinguishedName": "CN=Faculty_152,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0053",
+      "sAMAccountName": "fac_univ_153",
+      "mail": "fac.153@examforge.edu",
+      "distinguishedName": "CN=Faculty_153,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0054",
+      "sAMAccountName": "fac_univ_154",
+      "mail": "fac.154@examforge.edu",
+      "distinguishedName": "CN=Faculty_154,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0055",
+      "sAMAccountName": "fac_univ_155",
+      "mail": "fac.155@examforge.edu",
+      "distinguishedName": "CN=Faculty_155,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0056",
+      "sAMAccountName": "fac_univ_156",
+      "mail": "fac.156@examforge.edu",
+      "distinguishedName": "CN=Faculty_156,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0057",
+      "sAMAccountName": "fac_univ_157",
+      "mail": "fac.157@examforge.edu",
+      "distinguishedName": "CN=Faculty_157,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0058",
+      "sAMAccountName": "fac_univ_158",
+      "mail": "fac.158@examforge.edu",
+      "distinguishedName": "CN=Faculty_158,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0059",
+      "sAMAccountName": "fac_univ_159",
+      "mail": "fac.159@examforge.edu",
+      "distinguishedName": "CN=Faculty_159,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0060",
+      "sAMAccountName": "fac_univ_160",
+      "mail": "fac.160@examforge.edu",
+      "distinguishedName": "CN=Faculty_160,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0061",
+      "sAMAccountName": "fac_univ_161",
+      "mail": "fac.161@examforge.edu",
+      "distinguishedName": "CN=Faculty_161,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0062",
+      "sAMAccountName": "fac_univ_162",
+      "mail": "fac.162@examforge.edu",
+      "distinguishedName": "CN=Faculty_162,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0063",
+      "sAMAccountName": "fac_univ_163",
+      "mail": "fac.163@examforge.edu",
+      "distinguishedName": "CN=Faculty_163,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0064",
+      "sAMAccountName": "fac_univ_164",
+      "mail": "fac.164@examforge.edu",
+      "distinguishedName": "CN=Faculty_164,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0065",
+      "sAMAccountName": "fac_univ_165",
+      "mail": "fac.165@examforge.edu",
+      "distinguishedName": "CN=Faculty_165,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0066",
+      "sAMAccountName": "fac_univ_166",
+      "mail": "fac.166@examforge.edu",
+      "distinguishedName": "CN=Faculty_166,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0067",
+      "sAMAccountName": "fac_univ_167",
+      "mail": "fac.167@examforge.edu",
+      "distinguishedName": "CN=Faculty_167,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0068",
+      "sAMAccountName": "fac_univ_168",
+      "mail": "fac.168@examforge.edu",
+      "distinguishedName": "CN=Faculty_168,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0069",
+      "sAMAccountName": "fac_univ_169",
+      "mail": "fac.169@examforge.edu",
+      "distinguishedName": "CN=Faculty_169,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0070",
+      "sAMAccountName": "fac_univ_170",
+      "mail": "fac.170@examforge.edu",
+      "distinguishedName": "CN=Faculty_170,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0071",
+      "sAMAccountName": "fac_univ_171",
+      "mail": "fac.171@examforge.edu",
+      "distinguishedName": "CN=Faculty_171,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0072",
+      "sAMAccountName": "fac_univ_172",
+      "mail": "fac.172@examforge.edu",
+      "distinguishedName": "CN=Faculty_172,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0073",
+      "sAMAccountName": "fac_univ_173",
+      "mail": "fac.173@examforge.edu",
+      "distinguishedName": "CN=Faculty_173,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0074",
+      "sAMAccountName": "fac_univ_174",
+      "mail": "fac.174@examforge.edu",
+      "distinguishedName": "CN=Faculty_174,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0075",
+      "sAMAccountName": "fac_univ_175",
+      "mail": "fac.175@examforge.edu",
+      "distinguishedName": "CN=Faculty_175,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0076",
+      "sAMAccountName": "fac_univ_176",
+      "mail": "fac.176@examforge.edu",
+      "distinguishedName": "CN=Faculty_176,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0077",
+      "sAMAccountName": "fac_univ_177",
+      "mail": "fac.177@examforge.edu",
+      "distinguishedName": "CN=Faculty_177,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0078",
+      "sAMAccountName": "fac_univ_178",
+      "mail": "fac.178@examforge.edu",
+      "distinguishedName": "CN=Faculty_178,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0079",
+      "sAMAccountName": "fac_univ_179",
+      "mail": "fac.179@examforge.edu",
+      "distinguishedName": "CN=Faculty_179,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0080",
+      "sAMAccountName": "fac_univ_180",
+      "mail": "fac.180@examforge.edu",
+      "distinguishedName": "CN=Faculty_180,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0081",
+      "sAMAccountName": "fac_univ_181",
+      "mail": "fac.181@examforge.edu",
+      "distinguishedName": "CN=Faculty_181,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0082",
+      "sAMAccountName": "fac_univ_182",
+      "mail": "fac.182@examforge.edu",
+      "distinguishedName": "CN=Faculty_182,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0083",
+      "sAMAccountName": "fac_univ_183",
+      "mail": "fac.183@examforge.edu",
+      "distinguishedName": "CN=Faculty_183,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0084",
+      "sAMAccountName": "fac_univ_184",
+      "mail": "fac.184@examforge.edu",
+      "distinguishedName": "CN=Faculty_184,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0085",
+      "sAMAccountName": "fac_univ_185",
+      "mail": "fac.185@examforge.edu",
+      "distinguishedName": "CN=Faculty_185,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0086",
+      "sAMAccountName": "fac_univ_186",
+      "mail": "fac.186@examforge.edu",
+      "distinguishedName": "CN=Faculty_186,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0087",
+      "sAMAccountName": "fac_univ_187",
+      "mail": "fac.187@examforge.edu",
+      "distinguishedName": "CN=Faculty_187,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0088",
+      "sAMAccountName": "fac_univ_188",
+      "mail": "fac.188@examforge.edu",
+      "distinguishedName": "CN=Faculty_188,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0089",
+      "sAMAccountName": "fac_univ_189",
+      "mail": "fac.189@examforge.edu",
+      "distinguishedName": "CN=Faculty_189,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0090",
+      "sAMAccountName": "fac_univ_190",
+      "mail": "fac.190@examforge.edu",
+      "distinguishedName": "CN=Faculty_190,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0091",
+      "sAMAccountName": "fac_univ_191",
+      "mail": "fac.191@examforge.edu",
+      "distinguishedName": "CN=Faculty_191,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0092",
+      "sAMAccountName": "fac_univ_192",
+      "mail": "fac.192@examforge.edu",
+      "distinguishedName": "CN=Faculty_192,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0093",
+      "sAMAccountName": "fac_univ_193",
+      "mail": "fac.193@examforge.edu",
+      "distinguishedName": "CN=Faculty_193,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0094",
+      "sAMAccountName": "fac_univ_194",
+      "mail": "fac.194@examforge.edu",
+      "distinguishedName": "CN=Faculty_194,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0095",
+      "sAMAccountName": "fac_univ_195",
+      "mail": "fac.195@examforge.edu",
+      "distinguishedName": "CN=Faculty_195,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0096",
+      "sAMAccountName": "fac_univ_196",
+      "mail": "fac.196@examforge.edu",
+      "distinguishedName": "CN=Faculty_196,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0097",
+      "sAMAccountName": "fac_univ_197",
+      "mail": "fac.197@examforge.edu",
+      "distinguishedName": "CN=Faculty_197,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0098",
+      "sAMAccountName": "fac_univ_198",
+      "mail": "fac.198@examforge.edu",
+      "distinguishedName": "CN=Faculty_198,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0099",
+      "sAMAccountName": "fac_univ_199",
+      "mail": "fac.199@examforge.edu",
+      "distinguishedName": "CN=Faculty_199,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0100",
+      "sAMAccountName": "fac_univ_200",
+      "mail": "fac.200@examforge.edu",
+      "distinguishedName": "CN=Faculty_200,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0101",
+      "sAMAccountName": "fac_univ_201",
+      "mail": "fac.201@examforge.edu",
+      "distinguishedName": "CN=Faculty_201,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0102",
+      "sAMAccountName": "fac_univ_202",
+      "mail": "fac.202@examforge.edu",
+      "distinguishedName": "CN=Faculty_202,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0103",
+      "sAMAccountName": "fac_univ_203",
+      "mail": "fac.203@examforge.edu",
+      "distinguishedName": "CN=Faculty_203,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0104",
+      "sAMAccountName": "fac_univ_204",
+      "mail": "fac.204@examforge.edu",
+      "distinguishedName": "CN=Faculty_204,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0105",
+      "sAMAccountName": "fac_univ_205",
+      "mail": "fac.205@examforge.edu",
+      "distinguishedName": "CN=Faculty_205,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0106",
+      "sAMAccountName": "fac_univ_206",
+      "mail": "fac.206@examforge.edu",
+      "distinguishedName": "CN=Faculty_206,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0107",
+      "sAMAccountName": "fac_univ_207",
+      "mail": "fac.207@examforge.edu",
+      "distinguishedName": "CN=Faculty_207,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0108",
+      "sAMAccountName": "fac_univ_208",
+      "mail": "fac.208@examforge.edu",
+      "distinguishedName": "CN=Faculty_208,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0109",
+      "sAMAccountName": "fac_univ_209",
+      "mail": "fac.209@examforge.edu",
+      "distinguishedName": "CN=Faculty_209,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0110",
+      "sAMAccountName": "fac_univ_210",
+      "mail": "fac.210@examforge.edu",
+      "distinguishedName": "CN=Faculty_210,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0111",
+      "sAMAccountName": "fac_univ_211",
+      "mail": "fac.211@examforge.edu",
+      "distinguishedName": "CN=Faculty_211,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0112",
+      "sAMAccountName": "fac_univ_212",
+      "mail": "fac.212@examforge.edu",
+      "distinguishedName": "CN=Faculty_212,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0113",
+      "sAMAccountName": "fac_univ_213",
+      "mail": "fac.213@examforge.edu",
+      "distinguishedName": "CN=Faculty_213,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0114",
+      "sAMAccountName": "fac_univ_214",
+      "mail": "fac.214@examforge.edu",
+      "distinguishedName": "CN=Faculty_214,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0115",
+      "sAMAccountName": "fac_univ_215",
+      "mail": "fac.215@examforge.edu",
+      "distinguishedName": "CN=Faculty_215,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0116",
+      "sAMAccountName": "fac_univ_216",
+      "mail": "fac.216@examforge.edu",
+      "distinguishedName": "CN=Faculty_216,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0117",
+      "sAMAccountName": "fac_univ_217",
+      "mail": "fac.217@examforge.edu",
+      "distinguishedName": "CN=Faculty_217,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0118",
+      "sAMAccountName": "fac_univ_218",
+      "mail": "fac.218@examforge.edu",
+      "distinguishedName": "CN=Faculty_218,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0119",
+      "sAMAccountName": "fac_univ_219",
+      "mail": "fac.219@examforge.edu",
+      "distinguishedName": "CN=Faculty_219,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0120",
+      "sAMAccountName": "fac_univ_220",
+      "mail": "fac.220@examforge.edu",
+      "distinguishedName": "CN=Faculty_220,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0121",
+      "sAMAccountName": "fac_univ_221",
+      "mail": "fac.221@examforge.edu",
+      "distinguishedName": "CN=Faculty_221,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0122",
+      "sAMAccountName": "fac_univ_222",
+      "mail": "fac.222@examforge.edu",
+      "distinguishedName": "CN=Faculty_222,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0123",
+      "sAMAccountName": "fac_univ_223",
+      "mail": "fac.223@examforge.edu",
+      "distinguishedName": "CN=Faculty_223,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0124",
+      "sAMAccountName": "fac_univ_224",
+      "mail": "fac.224@examforge.edu",
+      "distinguishedName": "CN=Faculty_224,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0125",
+      "sAMAccountName": "fac_univ_225",
+      "mail": "fac.225@examforge.edu",
+      "distinguishedName": "CN=Faculty_225,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0126",
+      "sAMAccountName": "fac_univ_226",
+      "mail": "fac.226@examforge.edu",
+      "distinguishedName": "CN=Faculty_226,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0127",
+      "sAMAccountName": "fac_univ_227",
+      "mail": "fac.227@examforge.edu",
+      "distinguishedName": "CN=Faculty_227,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0128",
+      "sAMAccountName": "fac_univ_228",
+      "mail": "fac.228@examforge.edu",
+      "distinguishedName": "CN=Faculty_228,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0129",
+      "sAMAccountName": "fac_univ_229",
+      "mail": "fac.229@examforge.edu",
+      "distinguishedName": "CN=Faculty_229,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0130",
+      "sAMAccountName": "fac_univ_230",
+      "mail": "fac.230@examforge.edu",
+      "distinguishedName": "CN=Faculty_230,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0131",
+      "sAMAccountName": "fac_univ_231",
+      "mail": "fac.231@examforge.edu",
+      "distinguishedName": "CN=Faculty_231,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0132",
+      "sAMAccountName": "fac_univ_232",
+      "mail": "fac.232@examforge.edu",
+      "distinguishedName": "CN=Faculty_232,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0133",
+      "sAMAccountName": "fac_univ_233",
+      "mail": "fac.233@examforge.edu",
+      "distinguishedName": "CN=Faculty_233,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0134",
+      "sAMAccountName": "fac_univ_234",
+      "mail": "fac.234@examforge.edu",
+      "distinguishedName": "CN=Faculty_234,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0135",
+      "sAMAccountName": "fac_univ_235",
+      "mail": "fac.235@examforge.edu",
+      "distinguishedName": "CN=Faculty_235,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0136",
+      "sAMAccountName": "fac_univ_236",
+      "mail": "fac.236@examforge.edu",
+      "distinguishedName": "CN=Faculty_236,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0137",
+      "sAMAccountName": "fac_univ_237",
+      "mail": "fac.237@examforge.edu",
+      "distinguishedName": "CN=Faculty_237,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0138",
+      "sAMAccountName": "fac_univ_238",
+      "mail": "fac.238@examforge.edu",
+      "distinguishedName": "CN=Faculty_238,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0139",
+      "sAMAccountName": "fac_univ_239",
+      "mail": "fac.239@examforge.edu",
+      "distinguishedName": "CN=Faculty_239,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0140",
+      "sAMAccountName": "fac_univ_240",
+      "mail": "fac.240@examforge.edu",
+      "distinguishedName": "CN=Faculty_240,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0141",
+      "sAMAccountName": "fac_univ_241",
+      "mail": "fac.241@examforge.edu",
+      "distinguishedName": "CN=Faculty_241,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0142",
+      "sAMAccountName": "fac_univ_242",
+      "mail": "fac.242@examforge.edu",
+      "distinguishedName": "CN=Faculty_242,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0143",
+      "sAMAccountName": "fac_univ_243",
+      "mail": "fac.243@examforge.edu",
+      "distinguishedName": "CN=Faculty_243,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0144",
+      "sAMAccountName": "fac_univ_244",
+      "mail": "fac.244@examforge.edu",
+      "distinguishedName": "CN=Faculty_244,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0145",
+      "sAMAccountName": "fac_univ_245",
+      "mail": "fac.245@examforge.edu",
+      "distinguishedName": "CN=Faculty_245,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0146",
+      "sAMAccountName": "fac_univ_246",
+      "mail": "fac.246@examforge.edu",
+      "distinguishedName": "CN=Faculty_246,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0147",
+      "sAMAccountName": "fac_univ_247",
+      "mail": "fac.247@examforge.edu",
+      "distinguishedName": "CN=Faculty_247,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0148",
+      "sAMAccountName": "fac_univ_248",
+      "mail": "fac.248@examforge.edu",
+      "distinguishedName": "CN=Faculty_248,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0149",
+      "sAMAccountName": "fac_univ_249",
+      "mail": "fac.249@examforge.edu",
+      "distinguishedName": "CN=Faculty_249,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0150",
+      "sAMAccountName": "fac_univ_250",
+      "mail": "fac.250@examforge.edu",
+      "distinguishedName": "CN=Faculty_250,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0151",
+      "sAMAccountName": "fac_univ_251",
+      "mail": "fac.251@examforge.edu",
+      "distinguishedName": "CN=Faculty_251,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0152",
+      "sAMAccountName": "fac_univ_252",
+      "mail": "fac.252@examforge.edu",
+      "distinguishedName": "CN=Faculty_252,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0153",
+      "sAMAccountName": "fac_univ_253",
+      "mail": "fac.253@examforge.edu",
+      "distinguishedName": "CN=Faculty_253,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0154",
+      "sAMAccountName": "fac_univ_254",
+      "mail": "fac.254@examforge.edu",
+      "distinguishedName": "CN=Faculty_254,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0155",
+      "sAMAccountName": "fac_univ_255",
+      "mail": "fac.255@examforge.edu",
+      "distinguishedName": "CN=Faculty_255,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0156",
+      "sAMAccountName": "fac_univ_256",
+      "mail": "fac.256@examforge.edu",
+      "distinguishedName": "CN=Faculty_256,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0157",
+      "sAMAccountName": "fac_univ_257",
+      "mail": "fac.257@examforge.edu",
+      "distinguishedName": "CN=Faculty_257,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0158",
+      "sAMAccountName": "fac_univ_258",
+      "mail": "fac.258@examforge.edu",
+      "distinguishedName": "CN=Faculty_258,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0159",
+      "sAMAccountName": "fac_univ_259",
+      "mail": "fac.259@examforge.edu",
+      "distinguishedName": "CN=Faculty_259,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0160",
+      "sAMAccountName": "fac_univ_260",
+      "mail": "fac.260@examforge.edu",
+      "distinguishedName": "CN=Faculty_260,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0161",
+      "sAMAccountName": "fac_univ_261",
+      "mail": "fac.261@examforge.edu",
+      "distinguishedName": "CN=Faculty_261,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0162",
+      "sAMAccountName": "fac_univ_262",
+      "mail": "fac.262@examforge.edu",
+      "distinguishedName": "CN=Faculty_262,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0163",
+      "sAMAccountName": "fac_univ_263",
+      "mail": "fac.263@examforge.edu",
+      "distinguishedName": "CN=Faculty_263,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0164",
+      "sAMAccountName": "fac_univ_264",
+      "mail": "fac.264@examforge.edu",
+      "distinguishedName": "CN=Faculty_264,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0165",
+      "sAMAccountName": "fac_univ_265",
+      "mail": "fac.265@examforge.edu",
+      "distinguishedName": "CN=Faculty_265,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0166",
+      "sAMAccountName": "fac_univ_266",
+      "mail": "fac.266@examforge.edu",
+      "distinguishedName": "CN=Faculty_266,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0167",
+      "sAMAccountName": "fac_univ_267",
+      "mail": "fac.267@examforge.edu",
+      "distinguishedName": "CN=Faculty_267,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0168",
+      "sAMAccountName": "fac_univ_268",
+      "mail": "fac.268@examforge.edu",
+      "distinguishedName": "CN=Faculty_268,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0169",
+      "sAMAccountName": "fac_univ_269",
+      "mail": "fac.269@examforge.edu",
+      "distinguishedName": "CN=Faculty_269,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0170",
+      "sAMAccountName": "fac_univ_270",
+      "mail": "fac.270@examforge.edu",
+      "distinguishedName": "CN=Faculty_270,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0171",
+      "sAMAccountName": "fac_univ_271",
+      "mail": "fac.271@examforge.edu",
+      "distinguishedName": "CN=Faculty_271,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0172",
+      "sAMAccountName": "fac_univ_272",
+      "mail": "fac.272@examforge.edu",
+      "distinguishedName": "CN=Faculty_272,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0173",
+      "sAMAccountName": "fac_univ_273",
+      "mail": "fac.273@examforge.edu",
+      "distinguishedName": "CN=Faculty_273,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0174",
+      "sAMAccountName": "fac_univ_274",
+      "mail": "fac.274@examforge.edu",
+      "distinguishedName": "CN=Faculty_274,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0175",
+      "sAMAccountName": "fac_univ_275",
+      "mail": "fac.275@examforge.edu",
+      "distinguishedName": "CN=Faculty_275,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0176",
+      "sAMAccountName": "fac_univ_276",
+      "mail": "fac.276@examforge.edu",
+      "distinguishedName": "CN=Faculty_276,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0177",
+      "sAMAccountName": "fac_univ_277",
+      "mail": "fac.277@examforge.edu",
+      "distinguishedName": "CN=Faculty_277,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0178",
+      "sAMAccountName": "fac_univ_278",
+      "mail": "fac.278@examforge.edu",
+      "distinguishedName": "CN=Faculty_278,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0179",
+      "sAMAccountName": "fac_univ_279",
+      "mail": "fac.279@examforge.edu",
+      "distinguishedName": "CN=Faculty_279,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0180",
+      "sAMAccountName": "fac_univ_280",
+      "mail": "fac.280@examforge.edu",
+      "distinguishedName": "CN=Faculty_280,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0181",
+      "sAMAccountName": "fac_univ_281",
+      "mail": "fac.281@examforge.edu",
+      "distinguishedName": "CN=Faculty_281,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0182",
+      "sAMAccountName": "fac_univ_282",
+      "mail": "fac.282@examforge.edu",
+      "distinguishedName": "CN=Faculty_282,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0183",
+      "sAMAccountName": "fac_univ_283",
+      "mail": "fac.283@examforge.edu",
+      "distinguishedName": "CN=Faculty_283,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0184",
+      "sAMAccountName": "fac_univ_284",
+      "mail": "fac.284@examforge.edu",
+      "distinguishedName": "CN=Faculty_284,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0185",
+      "sAMAccountName": "fac_univ_285",
+      "mail": "fac.285@examforge.edu",
+      "distinguishedName": "CN=Faculty_285,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0186",
+      "sAMAccountName": "fac_univ_286",
+      "mail": "fac.286@examforge.edu",
+      "distinguishedName": "CN=Faculty_286,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0187",
+      "sAMAccountName": "fac_univ_287",
+      "mail": "fac.287@examforge.edu",
+      "distinguishedName": "CN=Faculty_287,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0188",
+      "sAMAccountName": "fac_univ_288",
+      "mail": "fac.288@examforge.edu",
+      "distinguishedName": "CN=Faculty_288,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0189",
+      "sAMAccountName": "fac_univ_289",
+      "mail": "fac.289@examforge.edu",
+      "distinguishedName": "CN=Faculty_289,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0190",
+      "sAMAccountName": "fac_univ_290",
+      "mail": "fac.290@examforge.edu",
+      "distinguishedName": "CN=Faculty_290,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0191",
+      "sAMAccountName": "fac_univ_291",
+      "mail": "fac.291@examforge.edu",
+      "distinguishedName": "CN=Faculty_291,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0192",
+      "sAMAccountName": "fac_univ_292",
+      "mail": "fac.292@examforge.edu",
+      "distinguishedName": "CN=Faculty_292,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0193",
+      "sAMAccountName": "fac_univ_293",
+      "mail": "fac.293@examforge.edu",
+      "distinguishedName": "CN=Faculty_293,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0194",
+      "sAMAccountName": "fac_univ_294",
+      "mail": "fac.294@examforge.edu",
+      "distinguishedName": "CN=Faculty_294,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0195",
+      "sAMAccountName": "fac_univ_295",
+      "mail": "fac.295@examforge.edu",
+      "distinguishedName": "CN=Faculty_295,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0196",
+      "sAMAccountName": "fac_univ_296",
+      "mail": "fac.296@examforge.edu",
+      "distinguishedName": "CN=Faculty_296,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0197",
+      "sAMAccountName": "fac_univ_297",
+      "mail": "fac.297@examforge.edu",
+      "distinguishedName": "CN=Faculty_297,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0198",
+      "sAMAccountName": "fac_univ_298",
+      "mail": "fac.298@examforge.edu",
+      "distinguishedName": "CN=Faculty_298,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0199",
+      "sAMAccountName": "fac_univ_299",
+      "mail": "fac.299@examforge.edu",
+      "distinguishedName": "CN=Faculty_299,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0200",
+      "sAMAccountName": "fac_univ_300",
+      "mail": "fac.300@examforge.edu",
+      "distinguishedName": "CN=Faculty_300,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0201",
+      "sAMAccountName": "fac_univ_301",
+      "mail": "fac.301@examforge.edu",
+      "distinguishedName": "CN=Faculty_301,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0202",
+      "sAMAccountName": "fac_univ_302",
+      "mail": "fac.302@examforge.edu",
+      "distinguishedName": "CN=Faculty_302,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0203",
+      "sAMAccountName": "fac_univ_303",
+      "mail": "fac.303@examforge.edu",
+      "distinguishedName": "CN=Faculty_303,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0204",
+      "sAMAccountName": "fac_univ_304",
+      "mail": "fac.304@examforge.edu",
+      "distinguishedName": "CN=Faculty_304,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0205",
+      "sAMAccountName": "fac_univ_305",
+      "mail": "fac.305@examforge.edu",
+      "distinguishedName": "CN=Faculty_305,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0206",
+      "sAMAccountName": "fac_univ_306",
+      "mail": "fac.306@examforge.edu",
+      "distinguishedName": "CN=Faculty_306,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0207",
+      "sAMAccountName": "fac_univ_307",
+      "mail": "fac.307@examforge.edu",
+      "distinguishedName": "CN=Faculty_307,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0208",
+      "sAMAccountName": "fac_univ_308",
+      "mail": "fac.308@examforge.edu",
+      "distinguishedName": "CN=Faculty_308,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0209",
+      "sAMAccountName": "fac_univ_309",
+      "mail": "fac.309@examforge.edu",
+      "distinguishedName": "CN=Faculty_309,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0210",
+      "sAMAccountName": "fac_univ_310",
+      "mail": "fac.310@examforge.edu",
+      "distinguishedName": "CN=Faculty_310,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0211",
+      "sAMAccountName": "fac_univ_311",
+      "mail": "fac.311@examforge.edu",
+      "distinguishedName": "CN=Faculty_311,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0212",
+      "sAMAccountName": "fac_univ_312",
+      "mail": "fac.312@examforge.edu",
+      "distinguishedName": "CN=Faculty_312,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0213",
+      "sAMAccountName": "fac_univ_313",
+      "mail": "fac.313@examforge.edu",
+      "distinguishedName": "CN=Faculty_313,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0214",
+      "sAMAccountName": "fac_univ_314",
+      "mail": "fac.314@examforge.edu",
+      "distinguishedName": "CN=Faculty_314,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0215",
+      "sAMAccountName": "fac_univ_315",
+      "mail": "fac.315@examforge.edu",
+      "distinguishedName": "CN=Faculty_315,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0216",
+      "sAMAccountName": "fac_univ_316",
+      "mail": "fac.316@examforge.edu",
+      "distinguishedName": "CN=Faculty_316,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0217",
+      "sAMAccountName": "fac_univ_317",
+      "mail": "fac.317@examforge.edu",
+      "distinguishedName": "CN=Faculty_317,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0218",
+      "sAMAccountName": "fac_univ_318",
+      "mail": "fac.318@examforge.edu",
+      "distinguishedName": "CN=Faculty_318,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0219",
+      "sAMAccountName": "fac_univ_319",
+      "mail": "fac.319@examforge.edu",
+      "distinguishedName": "CN=Faculty_319,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0220",
+      "sAMAccountName": "fac_univ_320",
+      "mail": "fac.320@examforge.edu",
+      "distinguishedName": "CN=Faculty_320,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0221",
+      "sAMAccountName": "fac_univ_321",
+      "mail": "fac.321@examforge.edu",
+      "distinguishedName": "CN=Faculty_321,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0222",
+      "sAMAccountName": "fac_univ_322",
+      "mail": "fac.322@examforge.edu",
+      "distinguishedName": "CN=Faculty_322,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0223",
+      "sAMAccountName": "fac_univ_323",
+      "mail": "fac.323@examforge.edu",
+      "distinguishedName": "CN=Faculty_323,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0224",
+      "sAMAccountName": "fac_univ_324",
+      "mail": "fac.324@examforge.edu",
+      "distinguishedName": "CN=Faculty_324,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0225",
+      "sAMAccountName": "fac_univ_325",
+      "mail": "fac.325@examforge.edu",
+      "distinguishedName": "CN=Faculty_325,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0226",
+      "sAMAccountName": "fac_univ_326",
+      "mail": "fac.326@examforge.edu",
+      "distinguishedName": "CN=Faculty_326,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0227",
+      "sAMAccountName": "fac_univ_327",
+      "mail": "fac.327@examforge.edu",
+      "distinguishedName": "CN=Faculty_327,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0228",
+      "sAMAccountName": "fac_univ_328",
+      "mail": "fac.328@examforge.edu",
+      "distinguishedName": "CN=Faculty_328,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0229",
+      "sAMAccountName": "fac_univ_329",
+      "mail": "fac.329@examforge.edu",
+      "distinguishedName": "CN=Faculty_329,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0230",
+      "sAMAccountName": "fac_univ_330",
+      "mail": "fac.330@examforge.edu",
+      "distinguishedName": "CN=Faculty_330,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0231",
+      "sAMAccountName": "fac_univ_331",
+      "mail": "fac.331@examforge.edu",
+      "distinguishedName": "CN=Faculty_331,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0232",
+      "sAMAccountName": "fac_univ_332",
+      "mail": "fac.332@examforge.edu",
+      "distinguishedName": "CN=Faculty_332,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0233",
+      "sAMAccountName": "fac_univ_333",
+      "mail": "fac.333@examforge.edu",
+      "distinguishedName": "CN=Faculty_333,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0234",
+      "sAMAccountName": "fac_univ_334",
+      "mail": "fac.334@examforge.edu",
+      "distinguishedName": "CN=Faculty_334,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0235",
+      "sAMAccountName": "fac_univ_335",
+      "mail": "fac.335@examforge.edu",
+      "distinguishedName": "CN=Faculty_335,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0236",
+      "sAMAccountName": "fac_univ_336",
+      "mail": "fac.336@examforge.edu",
+      "distinguishedName": "CN=Faculty_336,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0237",
+      "sAMAccountName": "fac_univ_337",
+      "mail": "fac.337@examforge.edu",
+      "distinguishedName": "CN=Faculty_337,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0238",
+      "sAMAccountName": "fac_univ_338",
+      "mail": "fac.338@examforge.edu",
+      "distinguishedName": "CN=Faculty_338,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0239",
+      "sAMAccountName": "fac_univ_339",
+      "mail": "fac.339@examforge.edu",
+      "distinguishedName": "CN=Faculty_339,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0240",
+      "sAMAccountName": "fac_univ_340",
+      "mail": "fac.340@examforge.edu",
+      "distinguishedName": "CN=Faculty_340,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0241",
+      "sAMAccountName": "fac_univ_341",
+      "mail": "fac.341@examforge.edu",
+      "distinguishedName": "CN=Faculty_341,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0242",
+      "sAMAccountName": "fac_univ_342",
+      "mail": "fac.342@examforge.edu",
+      "distinguishedName": "CN=Faculty_342,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0243",
+      "sAMAccountName": "fac_univ_343",
+      "mail": "fac.343@examforge.edu",
+      "distinguishedName": "CN=Faculty_343,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0244",
+      "sAMAccountName": "fac_univ_344",
+      "mail": "fac.344@examforge.edu",
+      "distinguishedName": "CN=Faculty_344,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0245",
+      "sAMAccountName": "fac_univ_345",
+      "mail": "fac.345@examforge.edu",
+      "distinguishedName": "CN=Faculty_345,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0246",
+      "sAMAccountName": "fac_univ_346",
+      "mail": "fac.346@examforge.edu",
+      "distinguishedName": "CN=Faculty_346,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0247",
+      "sAMAccountName": "fac_univ_347",
+      "mail": "fac.347@examforge.edu",
+      "distinguishedName": "CN=Faculty_347,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0248",
+      "sAMAccountName": "fac_univ_348",
+      "mail": "fac.348@examforge.edu",
+      "distinguishedName": "CN=Faculty_348,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0249",
+      "sAMAccountName": "fac_univ_349",
+      "mail": "fac.349@examforge.edu",
+      "distinguishedName": "CN=Faculty_349,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0250",
+      "sAMAccountName": "fac_univ_350",
+      "mail": "fac.350@examforge.edu",
+      "distinguishedName": "CN=Faculty_350,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0251",
+      "sAMAccountName": "fac_univ_351",
+      "mail": "fac.351@examforge.edu",
+      "distinguishedName": "CN=Faculty_351,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0252",
+      "sAMAccountName": "fac_univ_352",
+      "mail": "fac.352@examforge.edu",
+      "distinguishedName": "CN=Faculty_352,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0253",
+      "sAMAccountName": "fac_univ_353",
+      "mail": "fac.353@examforge.edu",
+      "distinguishedName": "CN=Faculty_353,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0254",
+      "sAMAccountName": "fac_univ_354",
+      "mail": "fac.354@examforge.edu",
+      "distinguishedName": "CN=Faculty_354,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0255",
+      "sAMAccountName": "fac_univ_355",
+      "mail": "fac.355@examforge.edu",
+      "distinguishedName": "CN=Faculty_355,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0256",
+      "sAMAccountName": "fac_univ_356",
+      "mail": "fac.356@examforge.edu",
+      "distinguishedName": "CN=Faculty_356,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0257",
+      "sAMAccountName": "fac_univ_357",
+      "mail": "fac.357@examforge.edu",
+      "distinguishedName": "CN=Faculty_357,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0258",
+      "sAMAccountName": "fac_univ_358",
+      "mail": "fac.358@examforge.edu",
+      "distinguishedName": "CN=Faculty_358,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0259",
+      "sAMAccountName": "fac_univ_359",
+      "mail": "fac.359@examforge.edu",
+      "distinguishedName": "CN=Faculty_359,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0260",
+      "sAMAccountName": "fac_univ_360",
+      "mail": "fac.360@examforge.edu",
+      "distinguishedName": "CN=Faculty_360,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0261",
+      "sAMAccountName": "fac_univ_361",
+      "mail": "fac.361@examforge.edu",
+      "distinguishedName": "CN=Faculty_361,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0262",
+      "sAMAccountName": "fac_univ_362",
+      "mail": "fac.362@examforge.edu",
+      "distinguishedName": "CN=Faculty_362,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0263",
+      "sAMAccountName": "fac_univ_363",
+      "mail": "fac.363@examforge.edu",
+      "distinguishedName": "CN=Faculty_363,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0264",
+      "sAMAccountName": "fac_univ_364",
+      "mail": "fac.364@examforge.edu",
+      "distinguishedName": "CN=Faculty_364,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0265",
+      "sAMAccountName": "fac_univ_365",
+      "mail": "fac.365@examforge.edu",
+      "distinguishedName": "CN=Faculty_365,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0266",
+      "sAMAccountName": "fac_univ_366",
+      "mail": "fac.366@examforge.edu",
+      "distinguishedName": "CN=Faculty_366,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0267",
+      "sAMAccountName": "fac_univ_367",
+      "mail": "fac.367@examforge.edu",
+      "distinguishedName": "CN=Faculty_367,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0268",
+      "sAMAccountName": "fac_univ_368",
+      "mail": "fac.368@examforge.edu",
+      "distinguishedName": "CN=Faculty_368,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0269",
+      "sAMAccountName": "fac_univ_369",
+      "mail": "fac.369@examforge.edu",
+      "distinguishedName": "CN=Faculty_369,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0270",
+      "sAMAccountName": "fac_univ_370",
+      "mail": "fac.370@examforge.edu",
+      "distinguishedName": "CN=Faculty_370,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0271",
+      "sAMAccountName": "fac_univ_371",
+      "mail": "fac.371@examforge.edu",
+      "distinguishedName": "CN=Faculty_371,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0272",
+      "sAMAccountName": "fac_univ_372",
+      "mail": "fac.372@examforge.edu",
+      "distinguishedName": "CN=Faculty_372,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0273",
+      "sAMAccountName": "fac_univ_373",
+      "mail": "fac.373@examforge.edu",
+      "distinguishedName": "CN=Faculty_373,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0274",
+      "sAMAccountName": "fac_univ_374",
+      "mail": "fac.374@examforge.edu",
+      "distinguishedName": "CN=Faculty_374,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0275",
+      "sAMAccountName": "fac_univ_375",
+      "mail": "fac.375@examforge.edu",
+      "distinguishedName": "CN=Faculty_375,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0276",
+      "sAMAccountName": "fac_univ_376",
+      "mail": "fac.376@examforge.edu",
+      "distinguishedName": "CN=Faculty_376,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0277",
+      "sAMAccountName": "fac_univ_377",
+      "mail": "fac.377@examforge.edu",
+      "distinguishedName": "CN=Faculty_377,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0278",
+      "sAMAccountName": "fac_univ_378",
+      "mail": "fac.378@examforge.edu",
+      "distinguishedName": "CN=Faculty_378,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0279",
+      "sAMAccountName": "fac_univ_379",
+      "mail": "fac.379@examforge.edu",
+      "distinguishedName": "CN=Faculty_379,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0280",
+      "sAMAccountName": "fac_univ_380",
+      "mail": "fac.380@examforge.edu",
+      "distinguishedName": "CN=Faculty_380,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0281",
+      "sAMAccountName": "fac_univ_381",
+      "mail": "fac.381@examforge.edu",
+      "distinguishedName": "CN=Faculty_381,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0282",
+      "sAMAccountName": "fac_univ_382",
+      "mail": "fac.382@examforge.edu",
+      "distinguishedName": "CN=Faculty_382,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0283",
+      "sAMAccountName": "fac_univ_383",
+      "mail": "fac.383@examforge.edu",
+      "distinguishedName": "CN=Faculty_383,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0284",
+      "sAMAccountName": "fac_univ_384",
+      "mail": "fac.384@examforge.edu",
+      "distinguishedName": "CN=Faculty_384,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0285",
+      "sAMAccountName": "fac_univ_385",
+      "mail": "fac.385@examforge.edu",
+      "distinguishedName": "CN=Faculty_385,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0286",
+      "sAMAccountName": "fac_univ_386",
+      "mail": "fac.386@examforge.edu",
+      "distinguishedName": "CN=Faculty_386,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0287",
+      "sAMAccountName": "fac_univ_387",
+      "mail": "fac.387@examforge.edu",
+      "distinguishedName": "CN=Faculty_387,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0288",
+      "sAMAccountName": "fac_univ_388",
+      "mail": "fac.388@examforge.edu",
+      "distinguishedName": "CN=Faculty_388,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0289",
+      "sAMAccountName": "fac_univ_389",
+      "mail": "fac.389@examforge.edu",
+      "distinguishedName": "CN=Faculty_389,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0290",
+      "sAMAccountName": "fac_univ_390",
+      "mail": "fac.390@examforge.edu",
+      "distinguishedName": "CN=Faculty_390,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0291",
+      "sAMAccountName": "fac_univ_391",
+      "mail": "fac.391@examforge.edu",
+      "distinguishedName": "CN=Faculty_391,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0292",
+      "sAMAccountName": "fac_univ_392",
+      "mail": "fac.392@examforge.edu",
+      "distinguishedName": "CN=Faculty_392,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0293",
+      "sAMAccountName": "fac_univ_393",
+      "mail": "fac.393@examforge.edu",
+      "distinguishedName": "CN=Faculty_393,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0294",
+      "sAMAccountName": "fac_univ_394",
+      "mail": "fac.394@examforge.edu",
+      "distinguishedName": "CN=Faculty_394,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0295",
+      "sAMAccountName": "fac_univ_395",
+      "mail": "fac.395@examforge.edu",
+      "distinguishedName": "CN=Faculty_395,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0296",
+      "sAMAccountName": "fac_univ_396",
+      "mail": "fac.396@examforge.edu",
+      "distinguishedName": "CN=Faculty_396,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0297",
+      "sAMAccountName": "fac_univ_397",
+      "mail": "fac.397@examforge.edu",
+      "distinguishedName": "CN=Faculty_397,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0298",
+      "sAMAccountName": "fac_univ_398",
+      "mail": "fac.398@examforge.edu",
+      "distinguishedName": "CN=Faculty_398,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0299",
+      "sAMAccountName": "fac_univ_399",
+      "mail": "fac.399@examforge.edu",
+      "distinguishedName": "CN=Faculty_399,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0300",
+      "sAMAccountName": "fac_univ_400",
+      "mail": "fac.400@examforge.edu",
+      "distinguishedName": "CN=Faculty_400,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0301",
+      "sAMAccountName": "fac_univ_401",
+      "mail": "fac.401@examforge.edu",
+      "distinguishedName": "CN=Faculty_401,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0302",
+      "sAMAccountName": "fac_univ_402",
+      "mail": "fac.402@examforge.edu",
+      "distinguishedName": "CN=Faculty_402,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0303",
+      "sAMAccountName": "fac_univ_403",
+      "mail": "fac.403@examforge.edu",
+      "distinguishedName": "CN=Faculty_403,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0304",
+      "sAMAccountName": "fac_univ_404",
+      "mail": "fac.404@examforge.edu",
+      "distinguishedName": "CN=Faculty_404,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0305",
+      "sAMAccountName": "fac_univ_405",
+      "mail": "fac.405@examforge.edu",
+      "distinguishedName": "CN=Faculty_405,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0306",
+      "sAMAccountName": "fac_univ_406",
+      "mail": "fac.406@examforge.edu",
+      "distinguishedName": "CN=Faculty_406,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0307",
+      "sAMAccountName": "fac_univ_407",
+      "mail": "fac.407@examforge.edu",
+      "distinguishedName": "CN=Faculty_407,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0308",
+      "sAMAccountName": "fac_univ_408",
+      "mail": "fac.408@examforge.edu",
+      "distinguishedName": "CN=Faculty_408,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0309",
+      "sAMAccountName": "fac_univ_409",
+      "mail": "fac.409@examforge.edu",
+      "distinguishedName": "CN=Faculty_409,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0310",
+      "sAMAccountName": "fac_univ_410",
+      "mail": "fac.410@examforge.edu",
+      "distinguishedName": "CN=Faculty_410,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0311",
+      "sAMAccountName": "fac_univ_411",
+      "mail": "fac.411@examforge.edu",
+      "distinguishedName": "CN=Faculty_411,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0312",
+      "sAMAccountName": "fac_univ_412",
+      "mail": "fac.412@examforge.edu",
+      "distinguishedName": "CN=Faculty_412,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0313",
+      "sAMAccountName": "fac_univ_413",
+      "mail": "fac.413@examforge.edu",
+      "distinguishedName": "CN=Faculty_413,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0314",
+      "sAMAccountName": "fac_univ_414",
+      "mail": "fac.414@examforge.edu",
+      "distinguishedName": "CN=Faculty_414,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0315",
+      "sAMAccountName": "fac_univ_415",
+      "mail": "fac.415@examforge.edu",
+      "distinguishedName": "CN=Faculty_415,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0316",
+      "sAMAccountName": "fac_univ_416",
+      "mail": "fac.416@examforge.edu",
+      "distinguishedName": "CN=Faculty_416,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0317",
+      "sAMAccountName": "fac_univ_417",
+      "mail": "fac.417@examforge.edu",
+      "distinguishedName": "CN=Faculty_417,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0318",
+      "sAMAccountName": "fac_univ_418",
+      "mail": "fac.418@examforge.edu",
+      "distinguishedName": "CN=Faculty_418,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    },
+    {
+      "mapping_id": "LDAP-MAP-2026-0319",
+      "sAMAccountName": "fac_univ_419",
+      "mail": "fac.419@examforge.edu",
+      "distinguishedName": "CN=Faculty_419,OU=AcademicStaff,DC=examforge,DC=edu",
+      "department": "Engineering and Technology",
+      "title": "Assistant Professor",
+      "sync_status": "SYNCHRONIZED",
+      "last_sync": "2026-10-01T04:00:00Z"
+    }
+  ]
+}
