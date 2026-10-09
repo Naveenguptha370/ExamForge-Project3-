@@ -10,10 +10,8 @@ ENV/
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
-media/generated_tickets/*
-!media/generated_tickets/.gitkeep
-media/reports/*
-!media/reports/.gitkeep
+backend/media/*
+!backend/media/.gitkeep
 
 # Node & Frontend
 node_modules/
