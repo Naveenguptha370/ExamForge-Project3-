@@ -1,0 +1,3205 @@
+{
+  "framework": "National Higher Education Qualification Framework (NHEQF)",
+  "qualifications_catalog": [
+    {
+      "catalog_code": "QUAL-0000",
+      "degree": "B.Tech",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0001",
+      "degree": "M.Tech",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0002",
+      "degree": "Ph.D.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0003",
+      "degree": "M.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0004",
+      "degree": "B.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0005",
+      "degree": "M.B.A.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0006",
+      "degree": "M.C.A.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0007",
+      "degree": "D.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0008",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0009",
+      "degree": "B.Tech",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0010",
+      "degree": "M.Tech",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0011",
+      "degree": "Ph.D.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0012",
+      "degree": "M.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0013",
+      "degree": "B.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0014",
+      "degree": "M.B.A.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0015",
+      "degree": "M.C.A.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0016",
+      "degree": "D.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0017",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0018",
+      "degree": "B.Tech",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0019",
+      "degree": "M.Tech",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0020",
+      "degree": "Ph.D.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0021",
+      "degree": "M.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0022",
+      "degree": "B.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0023",
+      "degree": "M.B.A.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0024",
+      "degree": "M.C.A.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0025",
+      "degree": "D.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0026",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0027",
+      "degree": "B.Tech",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0028",
+      "degree": "M.Tech",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0029",
+      "degree": "Ph.D.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0030",
+      "degree": "M.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0031",
+      "degree": "B.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0032",
+      "degree": "M.B.A.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0033",
+      "degree": "M.C.A.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0034",
+      "degree": "D.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0035",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0036",
+      "degree": "B.Tech",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0037",
+      "degree": "M.Tech",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0038",
+      "degree": "Ph.D.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0039",
+      "degree": "M.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0040",
+      "degree": "B.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0041",
+      "degree": "M.B.A.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0042",
+      "degree": "M.C.A.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0043",
+      "degree": "D.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0044",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0045",
+      "degree": "B.Tech",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0046",
+      "degree": "M.Tech",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0047",
+      "degree": "Ph.D.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0048",
+      "degree": "M.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0049",
+      "degree": "B.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0050",
+      "degree": "M.B.A.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0051",
+      "degree": "M.C.A.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0052",
+      "degree": "D.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0053",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0054",
+      "degree": "B.Tech",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0055",
+      "degree": "M.Tech",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0056",
+      "degree": "Ph.D.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0057",
+      "degree": "M.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0058",
+      "degree": "B.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0059",
+      "degree": "M.B.A.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0060",
+      "degree": "M.C.A.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0061",
+      "degree": "D.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0062",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0063",
+      "degree": "B.Tech",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0064",
+      "degree": "M.Tech",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0065",
+      "degree": "Ph.D.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0066",
+      "degree": "M.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0067",
+      "degree": "B.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0068",
+      "degree": "M.B.A.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0069",
+      "degree": "M.C.A.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0070",
+      "degree": "D.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0071",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0072",
+      "degree": "B.Tech",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0073",
+      "degree": "M.Tech",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0074",
+      "degree": "Ph.D.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0075",
+      "degree": "M.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0076",
+      "degree": "B.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0077",
+      "degree": "M.B.A.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0078",
+      "degree": "M.C.A.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0079",
+      "degree": "D.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0080",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0081",
+      "degree": "B.Tech",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0082",
+      "degree": "M.Tech",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0083",
+      "degree": "Ph.D.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0084",
+      "degree": "M.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0085",
+      "degree": "B.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0086",
+      "degree": "M.B.A.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0087",
+      "degree": "M.C.A.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0088",
+      "degree": "D.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0089",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0090",
+      "degree": "B.Tech",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0091",
+      "degree": "M.Tech",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0092",
+      "degree": "Ph.D.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0093",
+      "degree": "M.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0094",
+      "degree": "B.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0095",
+      "degree": "M.B.A.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0096",
+      "degree": "M.C.A.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0097",
+      "degree": "D.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0098",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0099",
+      "degree": "B.Tech",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0100",
+      "degree": "M.Tech",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0101",
+      "degree": "Ph.D.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0102",
+      "degree": "M.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0103",
+      "degree": "B.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0104",
+      "degree": "M.B.A.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0105",
+      "degree": "M.C.A.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0106",
+      "degree": "D.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0107",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0108",
+      "degree": "B.Tech",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0109",
+      "degree": "M.Tech",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0110",
+      "degree": "Ph.D.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0111",
+      "degree": "M.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0112",
+      "degree": "B.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0113",
+      "degree": "M.B.A.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0114",
+      "degree": "M.C.A.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0115",
+      "degree": "D.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0116",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0117",
+      "degree": "B.Tech",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0118",
+      "degree": "M.Tech",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0119",
+      "degree": "Ph.D.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0120",
+      "degree": "M.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0121",
+      "degree": "B.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0122",
+      "degree": "M.B.A.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0123",
+      "degree": "M.C.A.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0124",
+      "degree": "D.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0125",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0126",
+      "degree": "B.Tech",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0127",
+      "degree": "M.Tech",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0128",
+      "degree": "Ph.D.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0129",
+      "degree": "M.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0130",
+      "degree": "B.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0131",
+      "degree": "M.B.A.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0132",
+      "degree": "M.C.A.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0133",
+      "degree": "D.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0134",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0135",
+      "degree": "B.Tech",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0136",
+      "degree": "M.Tech",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0137",
+      "degree": "Ph.D.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0138",
+      "degree": "M.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0139",
+      "degree": "B.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0140",
+      "degree": "M.B.A.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0141",
+      "degree": "M.C.A.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0142",
+      "degree": "D.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0143",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0144",
+      "degree": "B.Tech",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0145",
+      "degree": "M.Tech",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0146",
+      "degree": "Ph.D.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0147",
+      "degree": "M.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0148",
+      "degree": "B.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0149",
+      "degree": "M.B.A.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0150",
+      "degree": "M.C.A.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0151",
+      "degree": "D.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0152",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0153",
+      "degree": "B.Tech",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0154",
+      "degree": "M.Tech",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0155",
+      "degree": "Ph.D.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0156",
+      "degree": "M.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0157",
+      "degree": "B.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0158",
+      "degree": "M.B.A.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0159",
+      "degree": "M.C.A.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0160",
+      "degree": "D.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0161",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0162",
+      "degree": "B.Tech",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0163",
+      "degree": "M.Tech",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0164",
+      "degree": "Ph.D.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0165",
+      "degree": "M.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0166",
+      "degree": "B.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0167",
+      "degree": "M.B.A.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0168",
+      "degree": "M.C.A.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0169",
+      "degree": "D.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0170",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0171",
+      "degree": "B.Tech",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0172",
+      "degree": "M.Tech",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0173",
+      "degree": "Ph.D.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0174",
+      "degree": "M.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0175",
+      "degree": "B.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0176",
+      "degree": "M.B.A.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0177",
+      "degree": "M.C.A.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0178",
+      "degree": "D.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0179",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0180",
+      "degree": "B.Tech",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0181",
+      "degree": "M.Tech",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0182",
+      "degree": "Ph.D.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0183",
+      "degree": "M.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0184",
+      "degree": "B.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0185",
+      "degree": "M.B.A.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0186",
+      "degree": "M.C.A.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0187",
+      "degree": "D.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0188",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0189",
+      "degree": "B.Tech",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0190",
+      "degree": "M.Tech",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0191",
+      "degree": "Ph.D.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0192",
+      "degree": "M.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0193",
+      "degree": "B.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0194",
+      "degree": "M.B.A.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0195",
+      "degree": "M.C.A.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0196",
+      "degree": "D.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0197",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0198",
+      "degree": "B.Tech",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0199",
+      "degree": "M.Tech",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0200",
+      "degree": "Ph.D.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0201",
+      "degree": "M.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0202",
+      "degree": "B.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0203",
+      "degree": "M.B.A.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0204",
+      "degree": "M.C.A.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0205",
+      "degree": "D.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0206",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0207",
+      "degree": "B.Tech",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0208",
+      "degree": "M.Tech",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0209",
+      "degree": "Ph.D.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0210",
+      "degree": "M.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0211",
+      "degree": "B.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0212",
+      "degree": "M.B.A.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0213",
+      "degree": "M.C.A.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0214",
+      "degree": "D.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0215",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0216",
+      "degree": "B.Tech",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0217",
+      "degree": "M.Tech",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0218",
+      "degree": "Ph.D.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0219",
+      "degree": "M.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0220",
+      "degree": "B.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0221",
+      "degree": "M.B.A.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0222",
+      "degree": "M.C.A.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0223",
+      "degree": "D.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0224",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0225",
+      "degree": "B.Tech",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0226",
+      "degree": "M.Tech",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0227",
+      "degree": "Ph.D.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0228",
+      "degree": "M.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0229",
+      "degree": "B.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0230",
+      "degree": "M.B.A.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0231",
+      "degree": "M.C.A.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0232",
+      "degree": "D.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0233",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0234",
+      "degree": "B.Tech",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0235",
+      "degree": "M.Tech",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0236",
+      "degree": "Ph.D.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0237",
+      "degree": "M.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0238",
+      "degree": "B.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0239",
+      "degree": "M.B.A.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0240",
+      "degree": "M.C.A.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0241",
+      "degree": "D.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0242",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0243",
+      "degree": "B.Tech",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0244",
+      "degree": "M.Tech",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0245",
+      "degree": "Ph.D.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0246",
+      "degree": "M.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0247",
+      "degree": "B.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0248",
+      "degree": "M.B.A.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0249",
+      "degree": "M.C.A.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0250",
+      "degree": "D.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0251",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0252",
+      "degree": "B.Tech",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0253",
+      "degree": "M.Tech",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0254",
+      "degree": "Ph.D.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0255",
+      "degree": "M.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0256",
+      "degree": "B.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0257",
+      "degree": "M.B.A.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0258",
+      "degree": "M.C.A.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0259",
+      "degree": "D.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0260",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0261",
+      "degree": "B.Tech",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0262",
+      "degree": "M.Tech",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0263",
+      "degree": "Ph.D.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0264",
+      "degree": "M.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0265",
+      "degree": "B.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0266",
+      "degree": "M.B.A.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0267",
+      "degree": "M.C.A.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0268",
+      "degree": "D.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0269",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0270",
+      "degree": "B.Tech",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0271",
+      "degree": "M.Tech",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0272",
+      "degree": "Ph.D.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0273",
+      "degree": "M.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0274",
+      "degree": "B.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0275",
+      "degree": "M.B.A.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0276",
+      "degree": "M.C.A.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0277",
+      "degree": "D.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0278",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0279",
+      "degree": "B.Tech",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0280",
+      "degree": "M.Tech",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0281",
+      "degree": "Ph.D.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0282",
+      "degree": "M.Sc.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0283",
+      "degree": "B.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0284",
+      "degree": "M.B.A.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0285",
+      "degree": "M.C.A.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0286",
+      "degree": "D.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0287",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0288",
+      "degree": "B.Tech",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0289",
+      "degree": "M.Tech",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0290",
+      "degree": "Ph.D.",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0291",
+      "degree": "M.Sc.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0292",
+      "degree": "B.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0293",
+      "degree": "M.B.A.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0294",
+      "degree": "M.C.A.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0295",
+      "degree": "D.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0296",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0297",
+      "degree": "B.Tech",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0298",
+      "degree": "M.Tech",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0299",
+      "degree": "Ph.D.",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0300",
+      "degree": "M.Sc.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0301",
+      "degree": "B.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0302",
+      "degree": "M.B.A.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0303",
+      "degree": "M.C.A.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0304",
+      "degree": "D.Sc.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0305",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0306",
+      "degree": "B.Tech",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0307",
+      "degree": "M.Tech",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0308",
+      "degree": "Ph.D.",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0309",
+      "degree": "M.Sc.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0310",
+      "degree": "B.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 6,
+      "minimum_experience_months": 0,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0311",
+      "degree": "M.B.A.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 7,
+      "minimum_experience_months": 12,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0312",
+      "degree": "M.C.A.",
+      "specialization": "Artificial Intelligence & Machine Learning",
+      "nheqf_level": 8,
+      "minimum_experience_months": 24,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0313",
+      "degree": "D.Sc.",
+      "specialization": "Distributed Systems & Cloud Infrastructure",
+      "nheqf_level": 9,
+      "minimum_experience_months": 36,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0314",
+      "degree": "Post-Doctoral Fellow",
+      "specialization": "Structural Dynamics & Earth Science",
+      "nheqf_level": 10,
+      "minimum_experience_months": 48,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0315",
+      "degree": "B.Tech",
+      "specialization": "Thermal Power & Fluid Mechanics",
+      "nheqf_level": 6,
+      "minimum_experience_months": 60,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0316",
+      "degree": "M.Tech",
+      "specialization": "VLSI & Microelectronics Fabrication",
+      "nheqf_level": 7,
+      "minimum_experience_months": 72,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0317",
+      "degree": "Ph.D.",
+      "specialization": "Applied Mathematics & Cryptanalysis",
+      "nheqf_level": 8,
+      "minimum_experience_months": 84,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0318",
+      "degree": "M.Sc.",
+      "specialization": "Polymer Chemistry & Nanotechnology",
+      "nheqf_level": 9,
+      "minimum_experience_months": 96,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": true,
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0319",
+      "degree": "B.Sc.",
+      "specialization": "Financial Econometrics & Operations Research",
+      "nheqf_level": 10,
+      "minimum_experience_months": 108,
+      "accrediting_authority": "National Board of Accreditation (NBA)",
+      "is_exam_setter_qualified": false,
+      "is_chief_superintendent_qualified": false
+    }
+  ]
+}
