@@ -1,0 +1,2245 @@
+{
+  "framework": "National Higher Education Qualification Framework",
+  "qualifications_catalog": [
+    {
+      "catalog_code": "QUAL-0000",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0001",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0002",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0003",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0004",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0005",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0006",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0007",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0008",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0009",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0010",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0011",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0012",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0013",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0014",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0015",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0016",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0017",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0018",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0019",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0020",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 20",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0021",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 21",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0022",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 22",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0023",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 23",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0024",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 24",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0025",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 25",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0026",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 26",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0027",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 27",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0028",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 28",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0029",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 29",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0030",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0031",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0032",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0033",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0034",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0035",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0036",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0037",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0038",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0039",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0040",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0041",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0042",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0043",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0044",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0045",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0046",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0047",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0048",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0049",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0050",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 20",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0051",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 21",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0052",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 22",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0053",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 23",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0054",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 24",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0055",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 25",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0056",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 26",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0057",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 27",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0058",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 28",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0059",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 29",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0060",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0061",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0062",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0063",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0064",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0065",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0066",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0067",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0068",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0069",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0070",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0071",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0072",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0073",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0074",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0075",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0076",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0077",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0078",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0079",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0080",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 20",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0081",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 21",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0082",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 22",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0083",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 23",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0084",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 24",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0085",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 25",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0086",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 26",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0087",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 27",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0088",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 28",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0089",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 29",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0090",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0091",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0092",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0093",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0094",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0095",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0096",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0097",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0098",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0099",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0100",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0101",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0102",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0103",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0104",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0105",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0106",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0107",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0108",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0109",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0110",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 20",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0111",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 21",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0112",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 22",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0113",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 23",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0114",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 24",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0115",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 25",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0116",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 26",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0117",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 27",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0118",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 28",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0119",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 29",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0120",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0121",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0122",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0123",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0124",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0125",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0126",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0127",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0128",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0129",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0130",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0131",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0132",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0133",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0134",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0135",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0136",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0137",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0138",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0139",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0140",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 20",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0141",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 21",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0142",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 22",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0143",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 23",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0144",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 24",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0145",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 25",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0146",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 26",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0147",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 27",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0148",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 28",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0149",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 29",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0150",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0151",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0152",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0153",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0154",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0155",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0156",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0157",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0158",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0159",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0160",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0161",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0162",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0163",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0164",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0165",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0166",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0167",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0168",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0169",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0170",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 20",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0171",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 21",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0172",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 22",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0173",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 23",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0174",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 24",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0175",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 25",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0176",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 26",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0177",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 27",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0178",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 28",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0179",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 29",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0180",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0181",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0182",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0183",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0184",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0185",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0186",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0187",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0188",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0189",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0190",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0191",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0192",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0193",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0194",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0195",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0196",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0197",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0198",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0199",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0200",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 20",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0201",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 21",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0202",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 22",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0203",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 23",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0204",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 24",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0205",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 25",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0206",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 26",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0207",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 27",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0208",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 28",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0209",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 29",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0210",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0211",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0212",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0213",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0214",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0215",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0216",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0217",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0218",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0219",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0220",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0221",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0222",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0223",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0224",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0225",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0226",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0227",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0228",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0229",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0230",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 20",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0231",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 21",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0232",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 22",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0233",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 23",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0234",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 24",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0235",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 25",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0236",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 26",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0237",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 27",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0238",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 28",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0239",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 29",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0240",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0241",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0242",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0243",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0244",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0245",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0246",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0247",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0248",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0249",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0250",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0251",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0252",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0253",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0254",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0255",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0256",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0257",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0258",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0259",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0260",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 20",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0261",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 21",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0262",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 22",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0263",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 23",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0264",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 24",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0265",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 25",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0266",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 26",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0267",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 27",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0268",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 28",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0269",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 29",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0270",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0271",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0272",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0273",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0274",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0275",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0276",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0277",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0278",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0279",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0280",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0281",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0282",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0283",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0284",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0285",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0286",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0287",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0288",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0289",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0290",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 20",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0291",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 21",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0292",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 22",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0293",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 23",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0294",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 24",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0295",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 25",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0296",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 26",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0297",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 27",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0298",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 28",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0299",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 29",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0300",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 0",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0301",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 1",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0302",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 2",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0303",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 3",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0304",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 4",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0305",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 5",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0306",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 6",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0307",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 7",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0308",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 8",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0309",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 9",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0310",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 10",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0311",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 11",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0312",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 12",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0313",
+      "degree": "M.B.A.",
+      "specialization": "Specialization Domain 13",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0314",
+      "degree": "M.C.A.",
+      "specialization": "Specialization Domain 14",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0315",
+      "degree": "B.Tech",
+      "specialization": "Specialization Domain 15",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0316",
+      "degree": "M.Tech",
+      "specialization": "Specialization Domain 16",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0317",
+      "degree": "Ph.D.",
+      "specialization": "Specialization Domain 17",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    },
+    {
+      "catalog_code": "QUAL-0318",
+      "degree": "M.Sc.",
+      "specialization": "Specialization Domain 18",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": true
+    },
+    {
+      "catalog_code": "QUAL-0319",
+      "degree": "B.Sc.",
+      "specialization": "Specialization Domain 19",
+      "accrediting_authority": "National Board of Accreditation",
+      "is_chief_superintendent_qualified": false
+    }
+  ]
+}
