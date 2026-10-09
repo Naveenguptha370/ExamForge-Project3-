@@ -3,10 +3,12 @@ ExamForge - Database Seeder Script
 Populates a comprehensive realistic university examination operations dataset.
 """
 
+import argparse
 import os
 import sys
 import django
 from datetime import date, time, timedelta
+from django.db import transaction
 
 # Setup django environment
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'examforge.settings')
@@ -30,6 +32,137 @@ from apps.notifications.models import Announcement, InAppNotification
 from apps.audit.models import AuditLog
 from apps.system_settings.models import SystemSetting
 from django.core.files.base import ContentFile
+
+
+@transaction.atomic
+def run_extended_student_seed():
+    """Create an isolated, repeatable 100-student dataset for the next academic year."""
+    print("[*] Seeding 100 additional students for academic-year testing...")
+
+    department, _ = Department.objects.get_or_create(
+        code='CSE',
+        defaults={
+            'name': 'Computer Science & Engineering',
+            'head_of_department': 'Prof. A. K. Sharma',
+        },
+    )
+    course, _ = Course.objects.get_or_create(
+        code='BTECH',
+        defaults={
+            'name': 'Bachelor of Technology',
+            'department': department,
+            'duration_years': 4,
+            'degree_type': 'Undergraduate',
+        },
+    )
+    branches = [
+        Branch.objects.get_or_create(
+            code=code,
+            defaults={'name': name, 'course': course},
+        )[0]
+        for code, name in (
+            ('CSE-CORE', 'Computer Science (Core)'),
+            ('CSE-AIML', 'Artificial Intelligence & Machine Learning'),
+            ('CSE-DS', 'Data Science & Analytics'),
+        )
+    ]
+    semester, _ = Semester.objects.get_or_create(
+        number=2,
+        academic_year='2026-2027',
+        term=Semester.Term.ODD,
+    )
+
+    subjects = [
+        Subject.objects.get_or_create(
+            code=code,
+            defaults={
+                'name': name,
+                'department': department,
+                'branch': branches[index % len(branches)],
+                'semester': semester,
+                'credits': credits,
+                'min_attendance_pct': 75,
+            },
+        )[0]
+        for index, (code, name, credits) in enumerate((
+            ('CSE201', 'Programming Fundamentals', 4.0),
+            ('CSE202', 'Discrete Mathematics', 4.0),
+            ('CSE203', 'Digital Logic Design', 3.0),
+            ('CSE204', 'Engineering Communication', 2.0),
+        ))
+    ]
+
+    first_names = (
+        'Aarav', 'Ananya', 'Rohan', 'Diya', 'Sai',
+        'Ishaan', 'Kavya', 'Aditya', 'Neha', 'Vikram',
+    )
+    last_names = (
+        'Sharma', 'Reddy', 'Verma', 'Rao', 'Nair',
+        'Patel', 'Gupta', 'Iyer', 'Mishra', 'Pillai',
+    )
+
+    for index in range(100):
+        roll_number = f'26CS{201 + index:03d}'
+        username = f'student.{roll_number.lower()}'
+        first_name = first_names[index % len(first_names)]
+        last_name = last_names[(index // len(first_names) + index) % len(last_names)]
+        user, created = User.objects.get_or_create(
+            username=username,
+            defaults={
+                'email': f'{roll_number.lower()}@student.examforge.edu',
+                'first_name': first_name,
+                'last_name': last_name,
+                'role': User.Role.STUDENT,
+            },
+        )
+        if created:
+            user.set_password('student123')
+            user.save(update_fields=['password'])
+
+        student, _ = StudentProfile.objects.get_or_create(
+            registration_no=f'REG2026{1201 + index:04d}',
+            defaults={
+                'user': user,
+                'roll_no': roll_number,
+                'first_name': first_name,
+                'last_name': last_name,
+                'email': f'{roll_number.lower()}@student.examforge.edu',
+                'department': department,
+                'course': course,
+                'branch': branches[index % len(branches)],
+                'semester': semester,
+                'admission_year': 2026,
+                'status': StudentProfile.Status.ACTIVE,
+                'contact_phone': f'+91 97100 {10000 + index:05d}',
+                'is_eligible_for_exam': index % 20 != 0,
+            },
+        )
+        StudentEnrollment.objects.get_or_create(
+            student=student,
+            semester=semester,
+            academic_year='2026-2027',
+        )
+
+        for subject_index, subject in enumerate(subjects):
+            attendance = (
+                68.0
+                if index % 20 == 0 and subject_index == 0
+                else 80.0 + ((index * 7 + subject_index * 11) % 21)
+            )
+            SubjectRegistration.objects.get_or_create(
+                student=student,
+                subject=subject,
+                semester=semester,
+                defaults={
+                    'is_approved': True,
+                    'attendance_percentage': attendance,
+                    'internal_marks': 18.0 + ((index + subject_index) % 13),
+                },
+            )
+
+    print("  [+] Added 100 students, 100 semester enrollments, and 400 subject registrations.")
+    print("  [+] Five students have an attendance-shortage example for eligibility testing.")
+
 
 def run_seed():
     print("[*] Starting ExamForge Comprehensive Database Seeding...")
@@ -545,4 +678,14 @@ def run_seed():
     print("[SUCCESS] ExamForge Database Seeding Successfully Completed!")
 
 if __name__ == '__main__':
-    run_seed()
+    parser = argparse.ArgumentParser(description='Seed ExamForge demo data.')
+    parser.add_argument(
+        '--extended-students',
+        action='store_true',
+        help='Add 100 idempotent student records in academic year 2026-2027.',
+    )
+    args = parser.parse_args()
+    if args.extended_students:
+        run_extended_student_seed()
+    else:
+        run_seed()

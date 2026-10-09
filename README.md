@@ -105,6 +105,13 @@ python manage.py test tests
 python manage.py runserver 0.0.0.0:8000
 ```
 
+To add 100 additional students for the 2026-2027 academic year without changing
+the existing examination-session dataset, run this optional, rerunnable seed:
+
+```bash
+python seed_demo_data.py --extended-students
+```
+
 ### B. Frontend Setup (React + Vite)
 
 ```bash

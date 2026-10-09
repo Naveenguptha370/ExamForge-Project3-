@@ -1,38 +1,14 @@
-# Python & Django
-<<<<<<< HEAD
-*.pyc
-__pycache__/
-*.pyo
-*.pyd
-=======
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
->>>>>>> origin/member1-work
 .Python
 env/
 venv/
 ENV/
-<<<<<<< HEAD
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-backend/media/*
-!backend/media/.gitkeep
-
-# Node & Frontend
-node_modules/
-frontend/node_modules/
-frontend/dist/
-.eslintcache
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
-.vite/
-frontend/.vite/
-=======
+.venv/
+backend/.venv/
 build/
 develop-eggs/
 dist/
@@ -49,33 +25,35 @@ wheels/
 .installed.cfg
 *.egg
 
-# Database & Environment
-*.sqlite3
-db.sqlite3
-.env
+# Django and local environment
 local_settings.py
+*.sqlite3
+db.sqlite3-journal
+.env
+backend/media/*
+!backend/media/.gitkeep
 *.log
 logs/
 
-# Frontend (Node / Vite)
+# Node and frontend
 node_modules/
-dist/
+frontend/node_modules/
 dist-ssr/
+frontend/dist/
+.eslintcache
+.vite/
+frontend/.vite/
 *.local
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-pnpm-debug.log*
->>>>>>> origin/member1-work
+.pnpm-debug.log*
 
-# IDE & OS
+# IDE and OS
 .vscode/
 .idea/
 *.swp
 *.swo
 .DS_Store
 Thumbs.db
-<<<<<<< HEAD
 desktop.ini
-=======
->>>>>>> origin/member1-work
