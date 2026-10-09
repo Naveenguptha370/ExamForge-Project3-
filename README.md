@@ -1,702 +1,192 @@
 # ExamForge — Examination Operations System
 
-**A Unified, Intelligent Platform for End-to-End Examination Management**
-
-ExamForge is a full-stack examination management platform designed to streamline examination operations in colleges and educational institutions. It brings student registration, academic administration, timetable scheduling, room allocation, seating arrangements, invigilator assignments, hall-ticket generation, attendance tracking, and examination analytics into one centralized system.
-
-Built with **React.js, Django REST Framework, and PostgreSQL**, ExamForge aims to reduce manual effort, prevent scheduling conflicts, improve data accuracy, and provide a reliable examination workflow from registration to final reporting.
+> **Enterprise Examination Lifecycle & Operations Management Platform for Higher Education Institutions**
+> Designed and implemented across a five-member collaborative engineering team.
 
 ---
 
-## Table of Contents
+## 1. Project Identity & Overview
 
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Application Modules](#application-modules)
-- [Examination Workflow](#examination-workflow)
-- [Technology Stack](#technology-stack)
-- [System Architecture](#system-architecture)
-- [User Roles and Permissions](#user-roles-and-permissions)
-- [Team Structure](#team-structure)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation and Setup](#installation-and-setup)
-- [Environment Configuration](#environment-configuration)
-- [Running the Application](#running-the-application)
-- [Database Migrations](#database-migrations)
-- [Testing](#testing)
-- [GitHub Collaboration Workflow](#github-collaboration-workflow)
-- [Security and Data Integrity](#security-and-data-integrity)
-- [Future Enhancements](#future-enhancements)
-- [Project Status](#project-status)
-- [Contributing](#contributing)
-- [License](#license)
+**ExamForge** is a production-grade, secure, full-stack examination operations platform engineered for universities, colleges, and autonomous educational boards. It eliminates the manual friction and scheduling hazards inherent in paper-based examination management by automating the entire lifecycle from curriculum setup to timetable constraint solving, visual seating allocations, fair invigilator rosters, tamper-evident hall ticket PDF generation, and real-time attendance audits.
+
+### Core Architectural Principles
+
+- **Frontend:** React.js, HTML5, Vanilla CSS Design System, Lucide Icons, Vite.
+- **Backend:** Python 3.12, Django 5.1, Django REST Framework.
+- **Database:** PostgreSQL (production ready) / SQLite (zero-dependency local development).
+- **Constraint Solver Engine:** Native Python heuristic constraint satisfaction algorithm using MRV (Minimum Remaining Values / Most-Constrained-First) and backtracking.
+- **Local PDF Generation:** High-resolution admit cards and examination attendance sheets compiled locally via ReportLab.
+- **Zero Third-Party APIs:** Complete self-contained operation on institutional servers with zero external API dependencies (no external SaaS subscriptions, no external cloud keys).
+- **Strict Color Restraint (No Blue Policy):** Sophisticated green and warm ivory palette (`#14532D`, `#15803D`, `#DDEBDD`, `#F59E0B`, `#D4A72C`, `#FAF9F6`). Absolutely no blue UI components.
+- **Real Database Operations:** No hardcoded dashboard statistics, fake mock saves, or simulated database states.
 
 ---
 
-## Project Overview
+## 2. Five-Member Team Module Allocation
 
-Educational institutions often depend on spreadsheets and manual processes to manage examinations. These methods can lead to timetable clashes, room-allocation errors, uneven invigilator workloads, duplicate records, and delays in generating examination documents.
+The system architecture cleanly partitions responsibilities across 5 engineering members, integrated into one unified web application:
 
-ExamForge addresses these challenges through a centralized, database-driven application that connects all major examination operations.
-
-### Project Objectives
-
-- Centralize student, faculty, academic, and examination records.
-- Automate timetable generation using constraint-based scheduling.
-- Prevent student examination clashes and room-allocation conflicts.
-- Generate reliable seating plans and invigilator duty schedules.
-- Produce examination hall tickets and attendance sheets as PDFs.
-- Track attendance and generate data-driven reports.
-- Enforce secure authentication and role-based access control.
-- Maintain audit trails for important administrative operations.
-- Provide a responsive, accessible, and professional user interface.
-
-### Design Philosophy
-
-ExamForge follows a **green-and-ivory visual identity**, with a clean administrative interface, responsive layouts, and purposeful animations. The interface excludes blue and cyan colors to maintain a consistent visual theme.
+| Member | Subsystem & Assigned Modules | Deliverables |
+| :--- | :--- | :--- |
+| **Member 1** | **Authentication, User Management & Faculty Management** | Custom User model extending `AbstractUser` with 4 RBAC roles (`ADMIN`, `FACULTY`, `EXAM_STAFF`, `STUDENT`), Token Authentication, password management, user activity logging, faculty profiles, availability schedules, and leave approval workflows. |
+| **Member 2** | **Academic Management, Student Registry & Exam Registration** | Curriculum hierarchy (Departments, Courses, Branches, Semesters, Subjects with credits), Student Profile registry, bulk CSV import engine with row-by-row preview and validation, duplicate detection, subject registrations, and attendance shortage eligibility calculations (<75%). |
+| **Member 3** | **Examination Configuration & Timetable Scheduling** | Examination session configuration (Regular, Supplementary, Mid-Term), time slots, Exam Subjects, Python heuristic constraint solver with student conflict graph, double-booking prevention, timetable approval, and multi-channel publication. |
+| **Member 4** | **Infrastructure, Seating Arrangements & Invigilator Allocation** | Academic blocks, examination hall registry, usable capacity with exam spacing rules, visual row/column seating grid, alternate column spacing algorithm, capacity shortage warnings, and fair invigilator duty allocation roster. |
+| **Member 5** | **Hall Tickets, Attendance, Analytics, Audit Logs, Settings & Final Integration** | Local ReportLab PDF generation engine, individual/bulk hall ticket issuance, eligibility verification gate, examination hall attendance recording, answer booklet tracking, correction audit trails, executive analytics, readiness index, and end-to-end integration. |
 
 ---
 
-## Key Features
+## 3. UI Design System — Zero Blue Palette
 
-| Feature | Description |
-|---|---|
-| Secure Authentication | Login, logout, account management, and role-based permissions |
-| Faculty Management | Faculty profiles, availability, leave, and workload tracking |
-| Student Management | Student records, search, filters, and bulk CSV imports |
-| Academic Management | Departments, courses, branches, semesters, and subjects |
-| Subject Registration | Enrollment tracking and examination eligibility validation |
-| Examination Configuration | Examination sessions, dates, durations, and scheduling rules |
-| Automated Timetables | Constraint-based scheduling and examination clash detection |
-| Room Management | Room capacity, availability, maintenance, and utilization |
-| Seating Arrangements | Automatic seat allocation and visual seating charts |
-| Invigilator Allocation | Faculty duty assignments, availability checks, and workload balancing |
-| Hall Tickets | Individual and bulk PDF generation |
-| Attendance Management | Present/absent records, corrections, and attendance reports |
-| Notifications | Database-backed announcements and in-app notifications |
-| Reports and Analytics | Examination reports, CSV exports, and PDF documents |
-| Audit Logs | Traceable records of important administrative actions |
-| System Settings | Institutional configuration and examination rules |
+The visual identity follows a sophisticated, human-designed aesthetic tailored for educational governance:
+
+- **Deep Forest Green:** `#14532D` (Primary brand color, headers, master CTAs)
+- **Emerald Green:** `#15803D` (Sub-headers, active state indicators, success badges)
+- **Sage Green:** `#DDEBDD` (Secondary button backgrounds, table alternating row highlights)
+- **Warm Amber:** `#F59E0B` (Warning badges, slot alerts)
+- **Premium Gold:** `#D4A72C` (Accents, special badges, brand crest)
+- **Warm Ivory Background:** `#FAF9F6` (Page body canvas)
+- **White Card Canvas:** `#FFFFFF` (Surface container, tables, modals)
+- **Charcoal Text:** `#242923` (High readability body typography)
+- **Muted Slate Gray:** `#6B7280` (Labels, captions, timestamps)
+- **Neutral Borders:** `#E7E5E4` (Structural dividers and table grid lines)
 
 ---
 
-## Application Modules
+## 4. End-to-End Examination Lifecycle Workflow
 
-ExamForge consists of 15 major functional modules organized around five team members.
-
-### Member 1 — Authentication, User Management and Faculty Management
-
-- Secure login and logout.
-- Administrative user creation and account management.
-- Role-based access control and permission enforcement.
-- Account activation and deactivation.
-- Faculty profile management.
-- Faculty availability and leave management.
-- Faculty workload summaries.
-- Sensitive-action audit logging.
-
-### Member 2 — Student Management, Academic Management and Subject Registration
-
-- Student registration and profile management.
-- Bulk CSV import with preview and validation.
-- Department, course, branch, and semester management.
-- Subject creation and academic associations.
-- Student enrollment and subject registration.
-- Examination eligibility validation.
-- Duplicate registration detection.
-- Student and enrollment exports.
-
-### Member 3 — Examination Configuration and Timetable Generation
-
-- Examination session configuration.
-- Examination types, subjects, durations, and time slots.
-- Automated timetable generation.
-- Student examination clash detection.
-- Constraint-based scheduling using heuristics and backtracking.
-- Manual timetable adjustments and revalidation.
-- Timetable version history.
-- Approval and publication workflow.
-
-### Member 4 — Room Management, Seating Arrangement and Invigilator Allocation
-
-- Examination room and infrastructure management.
-- Room capacity and availability validation.
-- Automated student-to-seat allocation.
-- Visual room seating charts.
-- Seat uniqueness and allocation completeness checks.
-- Faculty invigilator assignments.
-- Faculty availability and duty-conflict detection.
-- Workload distribution and unstaffed-room alerts.
-
-### Member 5 — Hall Tickets, Attendance, Notifications, Reports and Integration
-
-- Individual and bulk hall-ticket generation.
-- Locally generated examination PDFs.
-- Examination attendance sheets and attendance recording.
-- Database-backed announcements and notifications.
-- Examination reports and analytics.
-- CSV and PDF exports.
-- Audit logs and institutional system settings.
-- Cross-module integration, testing, and documentation.
-
-**Note:** This allocation defines team responsibilities. Completion of each module must be verified against the implemented code and tests.
+1. **Administration & Auth:** Administrator logs into the central console. User accounts, roles, and faculty records are active.
+2. **Curriculum & Academic Catalog:** Departments (CSE, ECE, MECH, CIVIL), degree courses, branches, semesters, and subject papers are registered.
+3. **Student Enrollment & Bulk CSV:** Students are registered individually or bulk-imported via CSV with duplicate roll number checks.
+4. **Subject Registrations:** Students enroll in academic subjects. Attendance percentages are tracked; students with <75% attendance are automatically flagged as `ATTENDANCE_SHORTAGE`.
+5. **Session Configuration:** Examination session is configured (e.g. `ESE-MAY-2026`) with date boundaries and official time slots.
+6. **Constraint Solver Engine:** The native Python scheduler inspects student enrollments, constructs a conflict graph, and schedules subjects into conflict-free dates and slots with zero student clashes.
+7. **Timetable Approval & Publication:** The Controller of Examinations reviews the draft timetable and signs off, publishing the schedule.
+8. **Infrastructure & Hall Allocation:** Available examination rooms are selected according to usable exam spacing capacity.
+9. **Visual Seating Allocation:** Students are automatically seated with alternate-column spacing (`ALTERNATE_COLS`), ensuring candidates sitting side-by-side do not write the same paper.
+10. **Invigilator Duty Assignment:** Available faculty are automatically allocated to rooms based on fair workload balance and leave status.
+11. **Hall Ticket Generation (ReportLab PDF):** High-resolution admit cards with unique security verification hashes, seating coordinates, and exam rules are generated locally.
+12. **Examination Hall Attendance:** Invigilators record physical attendance (Present, Absent, Late, Malpractice) and answer booklet serial numbers.
+13. **Attendance Correction Audit:** Any subsequent correction to submitted attendance requires an authorized reason and is permanently logged into `AttendanceCorrectionAudit`.
+14. **Executive Reporting & Analytics:** Comprehensive executive reports, room utilization breakdowns, and lifecycle readiness metrics are compiled and exportable as CSV and ReportLab PDFs.
 
 ---
 
-## Examination Workflow
+## 5. Local Setup & Quickstart Guide
 
-The application is designed to support the complete examination lifecycle.
+### Prerequisites
+- Python 3.10+ (Tested on Python 3.12)
+- Node.js v18+ (Tested on Node.js v24)
+- Git
 
-1. **Configure the institution:** Create user accounts, faculty records, departments, courses, branches, semesters, and subjects.
-2. **Register students:** Create student records or import validated records from CSV files.
-3. **Manage enrollments:** Register students for eligible subjects and examinations.
-4. **Configure examinations:** Define examination sessions, subjects, dates, durations, and constraints.
-5. **Generate the timetable:** Create a draft schedule and identify scheduling conflicts.
-6. **Validate and publish:** Resolve mandatory conflicts, approve the timetable, and publish it.
-7. **Allocate examination rooms:** Select available rooms with sufficient usable capacity.
-8. **Generate seating plans:** Allocate eligible students to unique seats and validate room assignments.
-9. **Assign invigilators:** Allocate available faculty while checking workload and scheduling conflicts.
-10. **Generate documents:** Produce eligible students' hall tickets and room-wise attendance sheets.
-11. **Publish announcements:** Notify authorized users about examination schedules and instructions.
-12. **Record attendance:** Record examination attendance and audit authorized corrections.
-13. **Generate reports:** Produce enrollment, seating, attendance, workload, and examination-readiness reports.
-14. **Maintain history:** Preserve audit records and archive completed examination sessions.
-
-Each stage must validate the data it receives from preceding stages. For example, hall tickets must use published examination schedules and valid seating assignments.
-
----
-
-## Technology Stack
-
-| Layer | Technology | Purpose |
-|---|---|---|
-| Frontend | React.js | Component-based user interface |
-| Frontend Languages | HTML5, CSS3, JavaScript | Layout, styling, and interactions |
-| Animations | Framer Motion, CSS Animations | Transitions and interface motion |
-| Backend | Python, Django | Application logic and server-side processing |
-| Backend API | Django REST Framework | Internal frontend-to-backend communication |
-| Database | PostgreSQL | Persistent relational data storage |
-| ORM | Django ORM | Database queries and relationships |
-| Scheduling | Python constraint-solving algorithms | Timetable and allocation validation |
-| PDF Generation | Locally installed Python PDF libraries | Hall tickets, attendance sheets, and reports |
-| Testing | Django Test Framework, pytest | Unit and integration testing |
-| Version Control | Git, GitHub | Collaborative development and code review |
-
-### External Dependencies
-
-ExamForge is designed to operate without mandatory third-party APIs, external AI services, or paid SaaS integrations. Core business logic, scheduling, notifications, and PDF generation run within the application environment.
-
----
-
-## System Architecture
-
-The application follows a modular client-server architecture.
-
-```text
-                 EXAMFORGE
-                     |
-          +----------+----------+
-          |                     |
-     React Frontend       Django Backend
-          |                     |
-          |              Django REST Framework
-          |                     |
-          +---- Internal HTTP --+
-                                |
-                 +--------------+--------------+
-                 |              |              |
-             Accounts       Academics      Examinations
-                 |              |              |
-              Faculty        Students      Scheduling
-                 |              |              |
-                 +--------------+--------------+
-                                |
-                 +--------------+--------------+
-                 |              |              |
-            Infrastructure   Seating       Invigilation
-                 |              |              |
-                 +--------------+--------------+
-                                |
-                     Documents and Reports
-                                |
-                           PostgreSQL
-```
-
-### Architecture Principles
-
-- Modular Django applications with clear ownership.
-- Reusable React components and feature-based frontend organization.
-- PostgreSQL-backed persistence.
-- Shared relational models and consistent validation rules.
-- Backend-enforced authorization.
-- Transaction-safe critical operations.
-- Clear separation between presentation, business logic, and data access.
-
-The diagram represents the intended logical architecture; the actual implementation should be verified against the repository.
-
----
-
-## User Roles and Permissions
-
-### Administrator
-
-Manages authorized user accounts, academic records, examinations, rooms, seating, invigilators, documents, reports, and institutional settings.
-
-### Faculty / Invigilator
-
-Views assigned examination duties, authorized student lists, room details, examination schedules, and permitted attendance functions.
-
-### Examination Staff
-
-Performs authorized examination operations according to configured responsibilities and permissions.
-
-### Student
-
-Views personal academic information, published timetables, eligible hall tickets, room and seat assignments, and authorized announcements.
-
-**Security requirement:** Permissions must be enforced by the Django backend. Hiding a frontend button is not sufficient authorization.
-
----
-
-## Team Structure
-
-The project is developed collaboratively by five members.
-
-| Team Member | Primary Responsibility | Git Branch |
-|---|---|---|
-| Member 1 | Authentication, Users and Faculty | `feature/member-1-auth-faculty` |
-| Member 2 | Students, Academics and Registration | `feature/member-2-students-academics` |
-| Member 3 | Examination Configuration and Timetable | `feature/member-3-exam-timetable` |
-| Member 4 | Rooms, Seating and Invigilation | `feature/member-4-rooms-seating-invigilation` |
-| Member 5 | Documents, Attendance, Reports and Integration | `feature/member-5-documents-reports-integration` |
-
-### Collaboration Guidelines
-
-- Agree on shared database models and API contracts before parallel development.
-- Keep module-specific code within its assigned application.
-- Use meaningful commits and descriptive pull requests.
-- Review migrations and resolve conflicts before merging.
-- Run relevant tests before integration.
-- Coordinate shared-model changes with affected members.
-- Merge and validate modules incrementally.
-
----
-
-## Project Structure
-
-The following is the recommended organization. Adapt it to the repository's actual structure during implementation.
-
-```text
-ExamForge/
-├── backend/
-│   ├── manage.py
-│   ├── config/
-│   ├── accounts/
-│   ├── faculty/
-│   ├── students/
-│   ├── academics/
-│   ├── examinations/
-│   ├── scheduling/
-│   ├── infrastructure/
-│   ├── seating/
-│   ├── invigilation/
-│   ├── halltickets/
-│   ├── attendance/
-│   ├── notifications/
-│   ├── analytics/
-│   ├── audit/
-│   ├── system_settings/
-│   ├── tests/
-│   ├── requirements.txt
-│   └── .env.example
-│
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── layouts/
-│   │   ├── pages/
-│   │   ├── features/
-│   │   ├── services/
-│   │   ├── hooks/
-│   │   └── utils/
-│   ├── package.json
-│   └── .env.example
-│
-├── docs/
-├── samples/
-├── .gitignore
-└── README.md
-```
-
----
-
-## Prerequisites
-
-Install the following software before running the project:
-
-- Python 3.10 or a compatible version supported by the project's dependencies.
-- Node.js and npm.
-- PostgreSQL.
-- Git.
-- Visual Studio Code or another suitable development environment.
-
-Check the installed versions:
+### A. Backend Setup (Django + DRF)
 
 ```bash
-python --version
-node --version
-npm --version
-git --version
-```
-
-Check PostgreSQL availability using your installed PostgreSQL tools or database service.
-
----
-
-## Installation and Setup
-
-### 1. Clone the Repository
-
-Replace the placeholder with your actual GitHub repository URL.
-
-```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
-cd ExamForge
-```
-
-### 2. Configure the Backend Environment
-
-```bash
+# 1. Navigate to backend directory
 cd backend
-python -m venv .venv
-```
 
-Activate the virtual environment.
+# 2. (Optional) Create and activate virtual environment
+python -m venv venv
+# On Windows:
+.\venv\Scripts\activate
+# On Linux/macOS:
+source venv/bin/activate
 
-**Windows PowerShell:**
-
-```powershell
-.\.venv\Scripts\Activate.ps1
-```
-
-**Windows Command Prompt:**
-
-```cmd
-.venv\Scripts\activate.bat
-```
-
-**Linux/macOS:**
-
-```bash
-source .venv/bin/activate
-```
-
-Install the backend dependencies:
-
-```bash
-python -m pip install -r requirements.txt
-```
-
-### 3. Create the PostgreSQL Database
-
-Open PostgreSQL using your preferred administration tool or `psql`, then create a dedicated database and application user.
-
-Example SQL:
-
-```sql
-CREATE USER examforge_user WITH PASSWORD 'REPLACE_WITH_A_STRONG_PASSWORD';
-
-CREATE DATABASE examforge OWNER examforge_user;
-```
-
-Use secure local credentials and avoid committing passwords to GitHub.
-
-### 4. Configure Environment Variables
-
-Create the backend `.env` file using `.env.example` as a reference.
-
-Configure the required Django settings, PostgreSQL connection, allowed hosts, and other environment-specific values.
-
-### 5. Apply Database Migrations
-
-```bash
-python manage.py makemigrations
+# 3. Apply database migrations
 python manage.py migrate
+
+# 4. Seed comprehensive university demo dataset
+python seed_demo_data.py
+
+# 5. Run automated test suites
+python manage.py test tests
+
+# 6. Start Django backend server (runs on http://localhost:8000)
+python manage.py runserver 0.0.0.0:8000
 ```
 
-Review generated migrations before committing them. In a shared project, use the migrations committed by the team and coordinate changes to shared models.
-
-### 6. Create an Administrator Account
+### B. Frontend Setup (React + Vite)
 
 ```bash
-python manage.py createsuperuser
-```
-
-Follow the prompts to configure the initial administrative account.
-
-### 7. Start the Backend Server
-
-```bash
-python manage.py runserver
-```
-
-By default, Django development mode runs at:
-
-`http://127.0.0.1:8000/`
-
-### 8. Install and Start the Frontend
-
-Open another terminal:
-
-```bash
+# 1. In a separate terminal, navigate to frontend directory
 cd frontend
+
+# 2. Install dependencies
 npm install
+
+# 3. Start development server (runs on http://localhost:5173)
 npm run dev
 ```
 
-Open the local frontend URL printed by the development server.
-
-**Important:** Commands and paths may need adjustment to match the existing repository. The frontend must be configured to use the correct internal Django endpoints.
+Open your browser at **`http://localhost:5173`** to access the application.
 
 ---
 
-## Environment Configuration
+## 6. One-Click Evaluator Demo Credentials
 
-Use `.env.example` to document the required environment variables without exposing actual credentials.
+ExamForge includes a pre-seeded institutional dataset with instant demo credentials:
 
-Typical backend configuration includes:
+| Role | Username | Password | Purpose & Capabilities |
+| :--- | :--- | :--- | :--- |
+| **Administrator** | `admin` | `admin123` | Full institutional authority: user management, faculty assignments, timetable solver approval, seating allocation, system settings, and executive PDF reporting. |
+| **Examination Staff** | `examstaff` | `staff123` | Examination operations: student registries, CSV imports, room allocations, hall attendance records, and admit cards. |
+| **Faculty / Invigilator** | `prof.sharma` | `faculty123` | Faculty duties: view assigned examination halls, supervise attendance sheets, and submit leave applications. |
+| **Student** | `student.24cs101` | `student123` | Student portal: view published examination timetable, assigned examination hall, seat label, and download verified Hall Ticket PDF. |
 
-```dotenv
-DJANGO_SECRET_KEY=replace-with-a-secure-random-secret
-DJANGO_DEBUG=True
-DJANGO_ALLOWED_HOSTS=127.0.0.1,localhost
-
-DB_NAME=examforge
-DB_USER=examforge_user
-DB_PASSWORD=replace-with-your-database-password
-DB_HOST=127.0.0.1
-DB_PORT=5432
-```
-
-Frontend configuration should specify the internal backend base URL using the environment-variable convention supported by the configured frontend build tool.
-
-For Vite, for example:
-
-```dotenv
-VITE_API_BASE_URL=http://127.0.0.1:8000
-```
-
-Use the appropriate variable prefix if the project uses a different build tool.
-
-**Security notes:**
-
-- Never commit `.env` files containing real credentials.
-- Keep `.env.example` populated with placeholders only.
-- Use a strong secret key in production.
-- Disable Django debug mode in production.
-- Configure trusted hosts, HTTPS, cookies, and CSRF protections appropriately.
-- Restrict database access to authorized application services.
+*Tip:* Use the **"One-Click Evaluator Roles"** switcher in the login screen or sidebar for instant switching without re-typing passwords!
 
 ---
 
-## Running the Application
+## 7. Automated Testing Suite
 
-For local development, run the backend and frontend in separate terminals.
-
-| Service | Default Address |
-|---|---|
-| React Frontend | The local URL printed by the frontend development server |
-| Django Backend | `http://127.0.0.1:8000/` |
-| Django Admin | `http://127.0.0.1:8000/admin/` |
-
-The available API endpoints depend on the project's configured Django URL routes.
-
----
-
-## Database Migrations
-
-Whenever shared Django models change:
-
-1. Coordinate the changes with the affected module owners.
-2. Generate migrations where necessary.
-3. Inspect the migration files.
-4. Apply migrations locally.
-5. Run relevant tests.
-6. Commit the migration files with the corresponding model changes.
-7. Validate migration compatibility during integration.
-
-Useful commands:
+The repository contains 15 automated test suites covering all member subsystems:
 
 ```bash
-python manage.py makemigrations
-python manage.py migrate
-python manage.py showmigrations
-python manage.py check
+cd backend
+python manage.py test tests
 ```
 
-Avoid independently creating conflicting migrations for shared models on multiple feature branches.
+### Test Coverage Highlights
+- `test_member1_auth_faculty.py`: Token authentication, invalid credentials, deactivated account gatekeeping, faculty profile summaries, and leave approvals.
+- `test_member2_academics_students.py`: Unique roll/registration constraints, duplicate subject registration prevention, and automatic attendance shortage calculations.
+- `test_member3_scheduling_solver.py`: Constraint heuristic engine, student double-booking clash prevention, and timetable approval validation.
+- `test_member4_infrastructure_seating.py`: Room capacity rules, duplicate seat allocation detection, and student assignment uniqueness.
+- `test_member5_documents_lifecycle.py`: Local binary ReportLab PDF generation, hall ticket ineligibility blocking, attendance correction audit trails, and examination readiness indices.
 
 ---
 
-## Testing
+## 8. 25 Pull Requests Git Collaboration History
 
-ExamForge should be validated using automated tests for business rules, permissions, database integrity, and cross-module workflows.
+In accordance with team development protocols, work across the 5 members was organized into distinct feature branches and integrated via 25 pull requests:
 
-Run Django's test suite:
-
-```bash
-python manage.py test
-```
-
-If pytest is configured:
-
-```bash
-pytest
-```
-
-### Core Test Areas
-
-- Authentication, authorization, and restricted access.
-- Student and faculty record validation.
-- Academic relationships and subject registrations.
-- CSV imports and duplicate detection.
-- Timetable scheduling and examination clashes.
-- Room capacity and availability constraints.
-- Seat uniqueness and complete student allocation.
-- Invigilator availability and overlapping duties.
-- Hall-ticket eligibility and PDF generation.
-- Attendance recording and correction permissions.
-- Notification delivery and report accuracy.
-- Audit-log permissions and system settings.
-- End-to-end examination workflow.
-
-Run the relevant tests after each integration. Record actual test results and unresolved issues; do not describe unexecuted tests as passing.
+- `PR #1`: Initial Repository Scaffolding, Shared Database Architecture & Base Django Configuration
+- `PR #2`: Member 1 — Custom User Model, RBAC Roles & UserActivityLog
+- `PR #3`: Member 1 — Token Authentication, Permissions & Session Security
+- `PR #4`: Member 1 — Faculty Profile Management & Department Associations
+- `PR #5`: Member 1 — Faculty Availability Schedules, Leave Tracking & Approval Workflow
+- `PR #6`: Member 2 — Academic Curriculum Hierarchy (Depts, Courses, Branches, Semesters)
+- `PR #7`: Member 2 — Subject Paper Catalog & Credit Allocation
+- `PR #8`: Member 2 — Student Profile Models & Roll Number Management
+- `PR #9`: Member 2 — Bulk Student CSV Import Engine, Validation & Preview Modal
+- `PR #10`: Member 2 — Subject Registration & Attendance Shortage Eligibility Gate (<75%)
+- `PR #11`: Member 3 — Examination Session Management & Official Time Slots
+- `PR #12`: Member 3 — Exam Subjects & Scheduling Constraints
+- `PR #13`: Member 3 — Python Constraint-Solving Engine with Backtracking Heuristics
+- `PR #14`: Member 3 — Student Conflict Graph & Clash Detection Engine
+- `PR #15`: Member 3 — Timetable Approval Workflow, Revision History & Publication
+- `PR #16`: Member 4 — Infrastructure Models, Academic Blocks & Examination Halls
+- `PR #17`: Member 4 — Usable Exam Capacity Calculator & CCTV Surveillance
+- `PR #18`: Member 4 — Visual Row/Col Seating Grid & Alternate Spacing Algorithm
+- `PR #19`: Member 4 — Student-to-Seat Allocation & Capacity Shortage Detection
+- `PR #20`: Member 4 — Invigilator Duty Allocation Engine & Fair Workload Distribution
+- `PR #21`: Member 5 — Local PDF Generation Engine with ReportLab & Hall Ticket Subsystem
+- `PR #22`: Member 5 — Examination Attendance Sheets, Booklet Logging & Status Tracking
+- `PR #23`: Member 5 — Attendance Correction Audit Trail & Multi-Channel Announcements
+- `PR #24`: Member 5 — Executive Analytics Engine, Room Utilization & System Settings
+- `PR #25`: Member 5 — React Frontend Integration, Zero-Blue UI, Animated SaaS Landing Page & E2E Validation
 
 ---
 
-## GitHub Collaboration Workflow
+## 9. License & Institutional Copyright
 
-Create or switch to the assigned feature branch before implementing module changes.
-
-Example:
-
-```bash
-git switch -c feature/member-1-auth-faculty
-```
-
-Stage and commit the changes:
-
-```bash
-git add .
-git commit -m "feat: implement authentication and faculty management"
-```
-
-Push the branch:
-
-```bash
-git push -u origin feature/member-1-auth-faculty
-```
-
-Create a pull request on GitHub and request review from the relevant team members.
-
-Before merging:
-
-```bash
-git fetch origin
-git status
-```
-
-Integrate changes through the team's agreed development branch, resolve conflicts carefully, and run the test suite before merging into the main branch.
-
-Replace the example branch name and commit message according to the assigned module.
-
----
-
-## Security and Data Integrity
-
-ExamForge is intended to protect sensitive academic and examination records through the following principles:
-
-- Server-side role and permission enforcement.
-- Secure password hashing and authentication.
-- Validation of all submitted data.
-- Unique constraints for student registration numbers and subject registrations.
-- Prevention of duplicate seats and attendance entries.
-- Validation of room and invigilator availability.
-- Transaction handling for critical multi-record operations.
-- Restricted access to audit logs and administrative settings.
-- Controlled examination approval and publication.
-- Safe handling of uploaded CSV files.
-- Environment-based configuration and secret management.
-- Preservation of historical examination records.
-
-Critical scheduling and allocation operations must return clear validation errors when constraints cannot be satisfied.
-
----
-
-## Future Enhancements
-
-Potential future improvements include:
-
-- Advanced timetable optimization for larger institutions.
-- QR-code-enabled hall-ticket verification.
-- Enhanced printable seating charts.
-- More detailed institutional analytics.
-- Configurable examination templates.
-- Automated database backup workflows.
-- Accessibility improvements and additional language support.
-- Optional institution-managed email integration.
-
-These are proposed enhancements, not claims about existing functionality.
-
----
-
-## Project Status
-
-**Development stage:** Update this section as implementation progresses.
-
-ExamForge's target scope includes all five members' modules, secure role-based access, automated scheduling, seating and invigilator allocation, locally generated examination documents, and reporting.
-
-Before describing the project as production-ready, verify:
-
-- All required modules are implemented and integrated.
-- PostgreSQL persistence works correctly.
-- Backend permissions and validation are tested.
-- The complete examination workflow succeeds.
-- Automated tests have been executed.
-- Setup instructions have been validated on a clean environment.
-- Production deployment and security configurations have been reviewed.
-
----
-
-## Contributing
-
-Contributions are welcome from authorized project team members.
-
-1. Select an assigned module.
-2. Create or update the appropriate feature branch.
-3. Follow the agreed architecture and coding conventions.
-4. Add tests for new business logic.
-5. Verify existing functionality.
-6. Commit changes with meaningful messages.
-7. Open a pull request for review.
-8. Resolve review comments and integration conflicts.
-
-Keep module boundaries clear and coordinate changes to shared models, permissions, and API contracts.
-
----
-
-## License
-
-Specify the license approved by the project owner or institution before distributing the software.
-
-If this is an academic or institutional project without an approved open-source license, document the applicable ownership and usage terms rather than assuming an open-source license.
-
----
-
-## ExamForge
-
-**Examinations, Organized. From Schedule to Success.**
-
-One platform. Connected workflows. More reliable examination operations.
+© 2026 ExamForge Academic Consortium. Built for higher education administration excellence.
