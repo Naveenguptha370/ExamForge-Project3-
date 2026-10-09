@@ -1,12 +1,20 @@
 # Python & Django
+<<<<<<< HEAD
 *.pyc
 __pycache__/
 *.pyo
 *.pyd
+=======
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+>>>>>>> origin/member1-work
 .Python
 env/
 venv/
 ENV/
+<<<<<<< HEAD
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -24,6 +32,41 @@ yarn-error.log*
 .pnpm-debug.log*
 .vite/
 frontend/.vite/
+=======
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Database & Environment
+*.sqlite3
+db.sqlite3
+.env
+local_settings.py
+*.log
+logs/
+
+# Frontend (Node / Vite)
+node_modules/
+dist/
+dist-ssr/
+*.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+>>>>>>> origin/member1-work
 
 # IDE & OS
 .vscode/
@@ -32,4 +75,7 @@ frontend/.vite/
 *.swo
 .DS_Store
 Thumbs.db
+<<<<<<< HEAD
 desktop.ini
+=======
+>>>>>>> origin/member1-work

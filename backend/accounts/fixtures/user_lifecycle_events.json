@@ -1,0 +1,2885 @@
+{
+  "metadata": { "title": "Institutional User Lifecycle Audit Archive" },
+  "lifecycle_events": [
+    {
+      "event_id": "EVT-LC-2026-00000",
+      "user_id": 1,
+      "username": "faculty_member_1",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00001",
+      "user_id": 2,
+      "username": "faculty_member_2",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00002",
+      "user_id": 3,
+      "username": "faculty_member_3",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00003",
+      "user_id": 4,
+      "username": "faculty_member_4",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00004",
+      "user_id": 5,
+      "username": "faculty_member_5",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00005",
+      "user_id": 6,
+      "username": "faculty_member_6",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00006",
+      "user_id": 7,
+      "username": "faculty_member_7",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00007",
+      "user_id": 8,
+      "username": "faculty_member_8",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00008",
+      "user_id": 9,
+      "username": "faculty_member_9",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00009",
+      "user_id": 10,
+      "username": "faculty_member_10",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00010",
+      "user_id": 11,
+      "username": "faculty_member_11",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00011",
+      "user_id": 12,
+      "username": "faculty_member_12",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00012",
+      "user_id": 13,
+      "username": "faculty_member_13",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00013",
+      "user_id": 14,
+      "username": "faculty_member_14",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00014",
+      "user_id": 15,
+      "username": "faculty_member_15",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00015",
+      "user_id": 16,
+      "username": "faculty_member_16",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00016",
+      "user_id": 17,
+      "username": "faculty_member_17",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00017",
+      "user_id": 18,
+      "username": "faculty_member_18",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00018",
+      "user_id": 19,
+      "username": "faculty_member_19",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00019",
+      "user_id": 20,
+      "username": "faculty_member_20",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00020",
+      "user_id": 21,
+      "username": "faculty_member_21",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00021",
+      "user_id": 22,
+      "username": "faculty_member_22",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00022",
+      "user_id": 23,
+      "username": "faculty_member_23",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00023",
+      "user_id": 24,
+      "username": "faculty_member_24",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00024",
+      "user_id": 25,
+      "username": "faculty_member_25",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00025",
+      "user_id": 26,
+      "username": "faculty_member_26",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00026",
+      "user_id": 27,
+      "username": "faculty_member_27",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00027",
+      "user_id": 28,
+      "username": "faculty_member_28",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00028",
+      "user_id": 29,
+      "username": "faculty_member_29",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00029",
+      "user_id": 30,
+      "username": "faculty_member_30",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00030",
+      "user_id": 31,
+      "username": "faculty_member_31",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00031",
+      "user_id": 32,
+      "username": "faculty_member_32",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00032",
+      "user_id": 33,
+      "username": "faculty_member_33",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00033",
+      "user_id": 34,
+      "username": "faculty_member_34",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00034",
+      "user_id": 35,
+      "username": "faculty_member_35",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00035",
+      "user_id": 36,
+      "username": "faculty_member_36",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00036",
+      "user_id": 37,
+      "username": "faculty_member_37",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00037",
+      "user_id": 38,
+      "username": "faculty_member_38",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00038",
+      "user_id": 39,
+      "username": "faculty_member_39",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00039",
+      "user_id": 40,
+      "username": "faculty_member_40",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00040",
+      "user_id": 41,
+      "username": "faculty_member_41",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00041",
+      "user_id": 42,
+      "username": "faculty_member_42",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00042",
+      "user_id": 43,
+      "username": "faculty_member_43",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00043",
+      "user_id": 44,
+      "username": "faculty_member_44",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00044",
+      "user_id": 45,
+      "username": "faculty_member_45",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00045",
+      "user_id": 46,
+      "username": "faculty_member_46",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00046",
+      "user_id": 47,
+      "username": "faculty_member_47",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00047",
+      "user_id": 48,
+      "username": "faculty_member_48",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00048",
+      "user_id": 49,
+      "username": "faculty_member_49",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00049",
+      "user_id": 50,
+      "username": "faculty_member_50",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00050",
+      "user_id": 51,
+      "username": "faculty_member_51",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00051",
+      "user_id": 52,
+      "username": "faculty_member_52",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00052",
+      "user_id": 53,
+      "username": "faculty_member_53",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00053",
+      "user_id": 54,
+      "username": "faculty_member_54",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00054",
+      "user_id": 55,
+      "username": "faculty_member_55",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00055",
+      "user_id": 56,
+      "username": "faculty_member_56",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00056",
+      "user_id": 57,
+      "username": "faculty_member_57",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00057",
+      "user_id": 58,
+      "username": "faculty_member_58",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00058",
+      "user_id": 59,
+      "username": "faculty_member_59",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00059",
+      "user_id": 60,
+      "username": "faculty_member_60",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00060",
+      "user_id": 61,
+      "username": "faculty_member_61",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00061",
+      "user_id": 62,
+      "username": "faculty_member_62",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00062",
+      "user_id": 63,
+      "username": "faculty_member_63",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00063",
+      "user_id": 64,
+      "username": "faculty_member_64",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00064",
+      "user_id": 65,
+      "username": "faculty_member_65",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00065",
+      "user_id": 66,
+      "username": "faculty_member_66",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00066",
+      "user_id": 67,
+      "username": "faculty_member_67",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00067",
+      "user_id": 68,
+      "username": "faculty_member_68",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00068",
+      "user_id": 69,
+      "username": "faculty_member_69",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00069",
+      "user_id": 70,
+      "username": "faculty_member_70",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00070",
+      "user_id": 71,
+      "username": "faculty_member_71",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00071",
+      "user_id": 72,
+      "username": "faculty_member_72",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00072",
+      "user_id": 73,
+      "username": "faculty_member_73",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00073",
+      "user_id": 74,
+      "username": "faculty_member_74",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00074",
+      "user_id": 75,
+      "username": "faculty_member_75",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00075",
+      "user_id": 76,
+      "username": "faculty_member_76",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00076",
+      "user_id": 77,
+      "username": "faculty_member_77",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00077",
+      "user_id": 78,
+      "username": "faculty_member_78",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00078",
+      "user_id": 79,
+      "username": "faculty_member_79",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00079",
+      "user_id": 80,
+      "username": "faculty_member_80",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00080",
+      "user_id": 81,
+      "username": "faculty_member_81",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00081",
+      "user_id": 82,
+      "username": "faculty_member_82",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00082",
+      "user_id": 83,
+      "username": "faculty_member_83",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00083",
+      "user_id": 84,
+      "username": "faculty_member_84",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00084",
+      "user_id": 85,
+      "username": "faculty_member_85",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00085",
+      "user_id": 86,
+      "username": "faculty_member_86",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00086",
+      "user_id": 87,
+      "username": "faculty_member_87",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00087",
+      "user_id": 88,
+      "username": "faculty_member_88",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00088",
+      "user_id": 89,
+      "username": "faculty_member_89",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00089",
+      "user_id": 90,
+      "username": "faculty_member_90",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00090",
+      "user_id": 91,
+      "username": "faculty_member_91",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00091",
+      "user_id": 92,
+      "username": "faculty_member_92",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00092",
+      "user_id": 93,
+      "username": "faculty_member_93",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00093",
+      "user_id": 94,
+      "username": "faculty_member_94",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00094",
+      "user_id": 95,
+      "username": "faculty_member_95",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00095",
+      "user_id": 96,
+      "username": "faculty_member_96",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00096",
+      "user_id": 97,
+      "username": "faculty_member_97",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00097",
+      "user_id": 98,
+      "username": "faculty_member_98",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00098",
+      "user_id": 99,
+      "username": "faculty_member_99",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00099",
+      "user_id": 100,
+      "username": "faculty_member_100",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00100",
+      "user_id": 101,
+      "username": "faculty_member_101",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00101",
+      "user_id": 102,
+      "username": "faculty_member_102",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00102",
+      "user_id": 103,
+      "username": "faculty_member_103",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00103",
+      "user_id": 104,
+      "username": "faculty_member_104",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00104",
+      "user_id": 105,
+      "username": "faculty_member_105",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00105",
+      "user_id": 106,
+      "username": "faculty_member_106",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00106",
+      "user_id": 107,
+      "username": "faculty_member_107",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00107",
+      "user_id": 108,
+      "username": "faculty_member_108",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00108",
+      "user_id": 109,
+      "username": "faculty_member_109",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00109",
+      "user_id": 110,
+      "username": "faculty_member_110",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00110",
+      "user_id": 111,
+      "username": "faculty_member_111",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00111",
+      "user_id": 112,
+      "username": "faculty_member_112",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00112",
+      "user_id": 113,
+      "username": "faculty_member_113",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00113",
+      "user_id": 114,
+      "username": "faculty_member_114",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00114",
+      "user_id": 115,
+      "username": "faculty_member_115",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00115",
+      "user_id": 116,
+      "username": "faculty_member_116",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00116",
+      "user_id": 117,
+      "username": "faculty_member_117",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00117",
+      "user_id": 118,
+      "username": "faculty_member_118",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00118",
+      "user_id": 119,
+      "username": "faculty_member_119",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00119",
+      "user_id": 120,
+      "username": "faculty_member_120",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00120",
+      "user_id": 1,
+      "username": "faculty_member_1",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00121",
+      "user_id": 2,
+      "username": "faculty_member_2",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00122",
+      "user_id": 3,
+      "username": "faculty_member_3",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00123",
+      "user_id": 4,
+      "username": "faculty_member_4",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00124",
+      "user_id": 5,
+      "username": "faculty_member_5",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00125",
+      "user_id": 6,
+      "username": "faculty_member_6",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00126",
+      "user_id": 7,
+      "username": "faculty_member_7",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00127",
+      "user_id": 8,
+      "username": "faculty_member_8",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00128",
+      "user_id": 9,
+      "username": "faculty_member_9",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00129",
+      "user_id": 10,
+      "username": "faculty_member_10",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00130",
+      "user_id": 11,
+      "username": "faculty_member_11",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00131",
+      "user_id": 12,
+      "username": "faculty_member_12",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00132",
+      "user_id": 13,
+      "username": "faculty_member_13",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00133",
+      "user_id": 14,
+      "username": "faculty_member_14",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00134",
+      "user_id": 15,
+      "username": "faculty_member_15",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00135",
+      "user_id": 16,
+      "username": "faculty_member_16",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00136",
+      "user_id": 17,
+      "username": "faculty_member_17",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00137",
+      "user_id": 18,
+      "username": "faculty_member_18",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00138",
+      "user_id": 19,
+      "username": "faculty_member_19",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00139",
+      "user_id": 20,
+      "username": "faculty_member_20",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00140",
+      "user_id": 21,
+      "username": "faculty_member_21",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00141",
+      "user_id": 22,
+      "username": "faculty_member_22",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00142",
+      "user_id": 23,
+      "username": "faculty_member_23",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00143",
+      "user_id": 24,
+      "username": "faculty_member_24",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00144",
+      "user_id": 25,
+      "username": "faculty_member_25",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00145",
+      "user_id": 26,
+      "username": "faculty_member_26",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00146",
+      "user_id": 27,
+      "username": "faculty_member_27",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00147",
+      "user_id": 28,
+      "username": "faculty_member_28",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00148",
+      "user_id": 29,
+      "username": "faculty_member_29",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00149",
+      "user_id": 30,
+      "username": "faculty_member_30",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00150",
+      "user_id": 31,
+      "username": "faculty_member_31",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00151",
+      "user_id": 32,
+      "username": "faculty_member_32",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00152",
+      "user_id": 33,
+      "username": "faculty_member_33",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00153",
+      "user_id": 34,
+      "username": "faculty_member_34",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00154",
+      "user_id": 35,
+      "username": "faculty_member_35",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00155",
+      "user_id": 36,
+      "username": "faculty_member_36",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00156",
+      "user_id": 37,
+      "username": "faculty_member_37",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00157",
+      "user_id": 38,
+      "username": "faculty_member_38",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00158",
+      "user_id": 39,
+      "username": "faculty_member_39",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00159",
+      "user_id": 40,
+      "username": "faculty_member_40",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00160",
+      "user_id": 41,
+      "username": "faculty_member_41",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00161",
+      "user_id": 42,
+      "username": "faculty_member_42",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00162",
+      "user_id": 43,
+      "username": "faculty_member_43",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00163",
+      "user_id": 44,
+      "username": "faculty_member_44",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00164",
+      "user_id": 45,
+      "username": "faculty_member_45",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00165",
+      "user_id": 46,
+      "username": "faculty_member_46",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00166",
+      "user_id": 47,
+      "username": "faculty_member_47",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00167",
+      "user_id": 48,
+      "username": "faculty_member_48",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00168",
+      "user_id": 49,
+      "username": "faculty_member_49",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00169",
+      "user_id": 50,
+      "username": "faculty_member_50",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00170",
+      "user_id": 51,
+      "username": "faculty_member_51",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00171",
+      "user_id": 52,
+      "username": "faculty_member_52",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00172",
+      "user_id": 53,
+      "username": "faculty_member_53",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00173",
+      "user_id": 54,
+      "username": "faculty_member_54",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00174",
+      "user_id": 55,
+      "username": "faculty_member_55",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00175",
+      "user_id": 56,
+      "username": "faculty_member_56",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00176",
+      "user_id": 57,
+      "username": "faculty_member_57",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00177",
+      "user_id": 58,
+      "username": "faculty_member_58",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00178",
+      "user_id": 59,
+      "username": "faculty_member_59",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00179",
+      "user_id": 60,
+      "username": "faculty_member_60",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00180",
+      "user_id": 61,
+      "username": "faculty_member_61",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00181",
+      "user_id": 62,
+      "username": "faculty_member_62",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00182",
+      "user_id": 63,
+      "username": "faculty_member_63",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00183",
+      "user_id": 64,
+      "username": "faculty_member_64",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00184",
+      "user_id": 65,
+      "username": "faculty_member_65",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00185",
+      "user_id": 66,
+      "username": "faculty_member_66",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00186",
+      "user_id": 67,
+      "username": "faculty_member_67",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00187",
+      "user_id": 68,
+      "username": "faculty_member_68",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00188",
+      "user_id": 69,
+      "username": "faculty_member_69",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00189",
+      "user_id": 70,
+      "username": "faculty_member_70",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00190",
+      "user_id": 71,
+      "username": "faculty_member_71",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00191",
+      "user_id": 72,
+      "username": "faculty_member_72",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00192",
+      "user_id": 73,
+      "username": "faculty_member_73",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00193",
+      "user_id": 74,
+      "username": "faculty_member_74",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00194",
+      "user_id": 75,
+      "username": "faculty_member_75",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00195",
+      "user_id": 76,
+      "username": "faculty_member_76",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00196",
+      "user_id": 77,
+      "username": "faculty_member_77",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00197",
+      "user_id": 78,
+      "username": "faculty_member_78",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00198",
+      "user_id": 79,
+      "username": "faculty_member_79",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00199",
+      "user_id": 80,
+      "username": "faculty_member_80",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00200",
+      "user_id": 81,
+      "username": "faculty_member_81",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00201",
+      "user_id": 82,
+      "username": "faculty_member_82",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00202",
+      "user_id": 83,
+      "username": "faculty_member_83",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00203",
+      "user_id": 84,
+      "username": "faculty_member_84",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00204",
+      "user_id": 85,
+      "username": "faculty_member_85",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00205",
+      "user_id": 86,
+      "username": "faculty_member_86",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00206",
+      "user_id": 87,
+      "username": "faculty_member_87",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00207",
+      "user_id": 88,
+      "username": "faculty_member_88",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00208",
+      "user_id": 89,
+      "username": "faculty_member_89",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00209",
+      "user_id": 90,
+      "username": "faculty_member_90",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00210",
+      "user_id": 91,
+      "username": "faculty_member_91",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00211",
+      "user_id": 92,
+      "username": "faculty_member_92",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00212",
+      "user_id": 93,
+      "username": "faculty_member_93",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00213",
+      "user_id": 94,
+      "username": "faculty_member_94",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00214",
+      "user_id": 95,
+      "username": "faculty_member_95",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00215",
+      "user_id": 96,
+      "username": "faculty_member_96",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00216",
+      "user_id": 97,
+      "username": "faculty_member_97",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00217",
+      "user_id": 98,
+      "username": "faculty_member_98",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00218",
+      "user_id": 99,
+      "username": "faculty_member_99",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00219",
+      "user_id": 100,
+      "username": "faculty_member_100",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00220",
+      "user_id": 101,
+      "username": "faculty_member_101",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00221",
+      "user_id": 102,
+      "username": "faculty_member_102",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00222",
+      "user_id": 103,
+      "username": "faculty_member_103",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00223",
+      "user_id": 104,
+      "username": "faculty_member_104",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00224",
+      "user_id": 105,
+      "username": "faculty_member_105",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00225",
+      "user_id": 106,
+      "username": "faculty_member_106",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00226",
+      "user_id": 107,
+      "username": "faculty_member_107",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00227",
+      "user_id": 108,
+      "username": "faculty_member_108",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00228",
+      "user_id": 109,
+      "username": "faculty_member_109",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00229",
+      "user_id": 110,
+      "username": "faculty_member_110",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00230",
+      "user_id": 111,
+      "username": "faculty_member_111",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00231",
+      "user_id": 112,
+      "username": "faculty_member_112",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00232",
+      "user_id": 113,
+      "username": "faculty_member_113",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00233",
+      "user_id": 114,
+      "username": "faculty_member_114",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00234",
+      "user_id": 115,
+      "username": "faculty_member_115",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00235",
+      "user_id": 116,
+      "username": "faculty_member_116",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00236",
+      "user_id": 117,
+      "username": "faculty_member_117",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00237",
+      "user_id": 118,
+      "username": "faculty_member_118",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00238",
+      "user_id": 119,
+      "username": "faculty_member_119",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00239",
+      "user_id": 120,
+      "username": "faculty_member_120",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00240",
+      "user_id": 1,
+      "username": "faculty_member_1",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00241",
+      "user_id": 2,
+      "username": "faculty_member_2",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00242",
+      "user_id": 3,
+      "username": "faculty_member_3",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00243",
+      "user_id": 4,
+      "username": "faculty_member_4",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00244",
+      "user_id": 5,
+      "username": "faculty_member_5",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00245",
+      "user_id": 6,
+      "username": "faculty_member_6",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00246",
+      "user_id": 7,
+      "username": "faculty_member_7",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00247",
+      "user_id": 8,
+      "username": "faculty_member_8",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00248",
+      "user_id": 9,
+      "username": "faculty_member_9",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00249",
+      "user_id": 10,
+      "username": "faculty_member_10",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00250",
+      "user_id": 11,
+      "username": "faculty_member_11",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00251",
+      "user_id": 12,
+      "username": "faculty_member_12",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00252",
+      "user_id": 13,
+      "username": "faculty_member_13",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00253",
+      "user_id": 14,
+      "username": "faculty_member_14",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00254",
+      "user_id": 15,
+      "username": "faculty_member_15",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00255",
+      "user_id": 16,
+      "username": "faculty_member_16",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00256",
+      "user_id": 17,
+      "username": "faculty_member_17",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00257",
+      "user_id": 18,
+      "username": "faculty_member_18",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00258",
+      "user_id": 19,
+      "username": "faculty_member_19",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00259",
+      "user_id": 20,
+      "username": "faculty_member_20",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00260",
+      "user_id": 21,
+      "username": "faculty_member_21",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00261",
+      "user_id": 22,
+      "username": "faculty_member_22",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00262",
+      "user_id": 23,
+      "username": "faculty_member_23",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00263",
+      "user_id": 24,
+      "username": "faculty_member_24",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00264",
+      "user_id": 25,
+      "username": "faculty_member_25",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00265",
+      "user_id": 26,
+      "username": "faculty_member_26",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00266",
+      "user_id": 27,
+      "username": "faculty_member_27",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00267",
+      "user_id": 28,
+      "username": "faculty_member_28",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00268",
+      "user_id": 29,
+      "username": "faculty_member_29",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00269",
+      "user_id": 30,
+      "username": "faculty_member_30",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00270",
+      "user_id": 31,
+      "username": "faculty_member_31",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00271",
+      "user_id": 32,
+      "username": "faculty_member_32",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00272",
+      "user_id": 33,
+      "username": "faculty_member_33",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00273",
+      "user_id": 34,
+      "username": "faculty_member_34",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00274",
+      "user_id": 35,
+      "username": "faculty_member_35",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00275",
+      "user_id": 36,
+      "username": "faculty_member_36",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00276",
+      "user_id": 37,
+      "username": "faculty_member_37",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00277",
+      "user_id": 38,
+      "username": "faculty_member_38",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00278",
+      "user_id": 39,
+      "username": "faculty_member_39",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00279",
+      "user_id": 40,
+      "username": "faculty_member_40",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00280",
+      "user_id": 41,
+      "username": "faculty_member_41",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00281",
+      "user_id": 42,
+      "username": "faculty_member_42",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00282",
+      "user_id": 43,
+      "username": "faculty_member_43",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00283",
+      "user_id": 44,
+      "username": "faculty_member_44",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00284",
+      "user_id": 45,
+      "username": "faculty_member_45",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00285",
+      "user_id": 46,
+      "username": "faculty_member_46",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00286",
+      "user_id": 47,
+      "username": "faculty_member_47",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00287",
+      "user_id": 48,
+      "username": "faculty_member_48",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00288",
+      "user_id": 49,
+      "username": "faculty_member_49",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00289",
+      "user_id": 50,
+      "username": "faculty_member_50",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00290",
+      "user_id": 51,
+      "username": "faculty_member_51",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00291",
+      "user_id": 52,
+      "username": "faculty_member_52",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00292",
+      "user_id": 53,
+      "username": "faculty_member_53",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-13T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00293",
+      "user_id": 54,
+      "username": "faculty_member_54",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-14T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00294",
+      "user_id": 55,
+      "username": "faculty_member_55",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-15T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00295",
+      "user_id": 56,
+      "username": "faculty_member_56",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-16T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00296",
+      "user_id": 57,
+      "username": "faculty_member_57",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-17T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00297",
+      "user_id": 58,
+      "username": "faculty_member_58",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-18T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00298",
+      "user_id": 59,
+      "username": "faculty_member_59",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-19T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00299",
+      "user_id": 60,
+      "username": "faculty_member_60",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-20T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00300",
+      "user_id": 61,
+      "username": "faculty_member_61",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-21T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00301",
+      "user_id": 62,
+      "username": "faculty_member_62",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-22T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00302",
+      "user_id": 63,
+      "username": "faculty_member_63",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-23T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00303",
+      "user_id": 64,
+      "username": "faculty_member_64",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-24T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00304",
+      "user_id": 65,
+      "username": "faculty_member_65",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-25T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00305",
+      "user_id": 66,
+      "username": "faculty_member_66",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-26T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00306",
+      "user_id": 67,
+      "username": "faculty_member_67",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-27T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00307",
+      "user_id": 68,
+      "username": "faculty_member_68",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-28T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00308",
+      "user_id": 69,
+      "username": "faculty_member_69",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-1T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00309",
+      "user_id": 70,
+      "username": "faculty_member_70",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-2T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00310",
+      "user_id": 71,
+      "username": "faculty_member_71",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-3T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00311",
+      "user_id": 72,
+      "username": "faculty_member_72",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-4T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00312",
+      "user_id": 73,
+      "username": "faculty_member_73",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-5T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00313",
+      "user_id": 74,
+      "username": "faculty_member_74",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-6T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00314",
+      "user_id": 75,
+      "username": "faculty_member_75",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-7T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00315",
+      "user_id": 76,
+      "username": "faculty_member_76",
+      "previous_status": "ACTIVE",
+      "new_status": "SUSPENDED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-8T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00316",
+      "user_id": 77,
+      "username": "faculty_member_77",
+      "previous_status": "SUSPENDED",
+      "new_status": "INACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-9T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00317",
+      "user_id": 78,
+      "username": "faculty_member_78",
+      "previous_status": "INACTIVE",
+      "new_status": "ARCHIVED",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-10T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00318",
+      "user_id": 79,
+      "username": "faculty_member_79",
+      "previous_status": "ARCHIVED",
+      "new_status": "PENDING",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-11T11:30:00Z"
+    },
+    {
+      "event_id": "EVT-LC-2026-00319",
+      "user_id": 80,
+      "username": "faculty_member_80",
+      "previous_status": "PENDING",
+      "new_status": "ACTIVE",
+      "authorized_by": "administrator_exam_cell",
+      "timestamp": "2026-09-12T11:30:00Z"
+    }
+  ]
+}
