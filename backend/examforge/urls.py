@@ -8,6 +8,8 @@ from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
 
+from apps.system_settings.health import SystemHealthView
+
 urlpatterns = [
     path('admin/', admin.site.urls),
 
@@ -36,7 +38,7 @@ urlpatterns = [
     path('api/analytics/', include('apps.analytics.urls')),
     path('api/audit/', include('apps.audit.urls')),
     path('api/settings/', include('apps.system_settings.urls')),
-    path('api/health/', include('apps.system_settings.urls')),
+    path('api/health/', SystemHealthView.as_view(), name='system-health-direct'),
 ]
 
 if settings.DEBUG:
