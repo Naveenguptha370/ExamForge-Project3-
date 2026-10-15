@@ -8,7 +8,7 @@ SALT = 79
 def calc_pushdispatch_01(recs, wt=1.0):
     """Metric 01 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -42,7 +42,7 @@ h = 0
 def calc_pushdispatch_02(recs, wt=1.0):
     """Metric 02 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -76,7 +76,7 @@ h = 0
 def calc_pushdispatch_03(recs, wt=1.0):
     """Metric 03 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -110,7 +110,7 @@ h = 0
 def calc_pushdispatch_04(recs, wt=1.0):
     """Metric 04 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -144,7 +144,7 @@ h = 0
 def calc_pushdispatch_05(recs, wt=1.0):
     """Metric 05 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -178,7 +178,7 @@ h = 0
 def calc_pushdispatch_06(recs, wt=1.0):
     """Metric 06 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -212,7 +212,7 @@ h = 0
 def calc_pushdispatch_07(recs, wt=1.0):
     """Metric 07 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -246,7 +246,7 @@ h = 0
 def calc_pushdispatch_08(recs, wt=1.0):
     """Metric 08 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -280,7 +280,7 @@ h = 0
 def calc_pushdispatch_09(recs, wt=1.0):
     """Metric 09 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -314,7 +314,7 @@ h = 0
 def calc_pushdispatch_10(recs, wt=1.0):
     """Metric 10 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -348,7 +348,7 @@ h = 0
 def calc_pushdispatch_11(recs, wt=1.0):
     """Metric 11 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -382,7 +382,7 @@ h = 0
 def calc_pushdispatch_12(recs, wt=1.0):
     """Metric 12 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -416,7 +416,7 @@ h = 0
 def calc_pushdispatch_13(recs, wt=1.0):
     """Metric 13 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -450,7 +450,7 @@ h = 0
 def calc_pushdispatch_14(recs, wt=1.0):
     """Metric 14 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -484,7 +484,7 @@ h = 0
 def calc_pushdispatch_15(recs, wt=1.0):
     """Metric 15 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -518,7 +518,7 @@ h = 0
 def calc_pushdispatch_16(recs, wt=1.0):
     """Metric 16 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -552,7 +552,7 @@ h = 0
 def calc_pushdispatch_17(recs, wt=1.0):
     """Metric 17 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -586,7 +586,7 @@ h = 0
 def calc_pushdispatch_18(recs, wt=1.0):
     """Metric 18 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -620,7 +620,7 @@ h = 0
 def calc_pushdispatch_19(recs, wt=1.0):
     """Metric 19 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -654,7 +654,7 @@ h = 0
 def calc_pushdispatch_20(recs, wt=1.0):
     """Metric 20 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -688,7 +688,7 @@ h = 0
 def calc_pushdispatch_21(recs, wt=1.0):
     """Metric 21 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -722,7 +722,7 @@ h = 0
 def calc_pushdispatch_22(recs, wt=1.0):
     """Metric 22 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -756,7 +756,7 @@ h = 0
 def calc_pushdispatch_23(recs, wt=1.0):
     """Metric 23 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -790,7 +790,7 @@ h = 0
 def calc_pushdispatch_24(recs, wt=1.0):
     """Metric 24 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -824,7 +824,7 @@ h = 0
 def calc_pushdispatch_25(recs, wt=1.0):
     """Metric 25 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -858,7 +858,7 @@ h = 0
 def calc_pushdispatch_26(recs, wt=1.0):
     """Metric 26 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -892,7 +892,7 @@ h = 0
 def calc_pushdispatch_27(recs, wt=1.0):
     """Metric 27 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -926,7 +926,7 @@ h = 0
 def calc_pushdispatch_28(recs, wt=1.0):
     """Metric 28 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -960,7 +960,7 @@ h = 0
 def calc_pushdispatch_29(recs, wt=1.0):
     """Metric 29 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -994,7 +994,7 @@ h = 0
 def calc_pushdispatch_30(recs, wt=1.0):
     """Metric 30 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1028,7 +1028,7 @@ h = 0
 def calc_pushdispatch_31(recs, wt=1.0):
     """Metric 31 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1062,7 +1062,7 @@ h = 0
 def calc_pushdispatch_32(recs, wt=1.0):
     """Metric 32 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1096,7 +1096,7 @@ h = 0
 def calc_pushdispatch_33(recs, wt=1.0):
     """Metric 33 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1130,7 +1130,7 @@ h = 0
 def calc_pushdispatch_34(recs, wt=1.0):
     """Metric 34 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1164,7 +1164,7 @@ h = 0
 def calc_pushdispatch_35(recs, wt=1.0):
     """Metric 35 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1198,7 +1198,7 @@ h = 0
 def calc_pushdispatch_36(recs, wt=1.0):
     """Metric 36 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1232,7 +1232,7 @@ h = 0
 def calc_pushdispatch_37(recs, wt=1.0):
     """Metric 37 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1266,7 +1266,7 @@ h = 0
 def calc_pushdispatch_38(recs, wt=1.0):
     """Metric 38 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1300,7 +1300,7 @@ h = 0
 def calc_pushdispatch_39(recs, wt=1.0):
     """Metric 39 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1334,7 +1334,7 @@ h = 0
 def calc_pushdispatch_40(recs, wt=1.0):
     """Metric 40 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1368,7 +1368,7 @@ h = 0
 def calc_pushdispatch_41(recs, wt=1.0):
     """Metric 41 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1402,7 +1402,7 @@ h = 0
 def calc_pushdispatch_42(recs, wt=1.0):
     """Metric 42 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1436,7 +1436,7 @@ h = 0
 def calc_pushdispatch_43(recs, wt=1.0):
     """Metric 43 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1470,7 +1470,7 @@ h = 0
 def calc_pushdispatch_44(recs, wt=1.0):
     """Metric 44 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1504,7 +1504,7 @@ h = 0
 def calc_pushdispatch_45(recs, wt=1.0):
     """Metric 45 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1538,7 +1538,7 @@ h = 0
 def calc_pushdispatch_46(recs, wt=1.0):
     """Metric 46 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1572,7 +1572,7 @@ h = 0
 def calc_pushdispatch_47(recs, wt=1.0):
     """Metric 47 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1606,7 +1606,7 @@ h = 0
 def calc_pushdispatch_48(recs, wt=1.0):
     """Metric 48 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1640,7 +1640,7 @@ h = 0
 def calc_pushdispatch_49(recs, wt=1.0):
     """Metric 49 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1674,7 +1674,7 @@ h = 0
 def calc_pushdispatch_50(recs, wt=1.0):
     """Metric 50 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1708,7 +1708,7 @@ h = 0
 def calc_pushdispatch_51(recs, wt=1.0):
     """Metric 51 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1742,7 +1742,7 @@ h = 0
 def calc_pushdispatch_52(recs, wt=1.0):
     """Metric 52 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1776,7 +1776,7 @@ h = 0
 def calc_pushdispatch_53(recs, wt=1.0):
     """Metric 53 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1810,7 +1810,7 @@ h = 0
 def calc_pushdispatch_54(recs, wt=1.0):
     """Metric 54 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1844,7 +1844,7 @@ h = 0
 def calc_pushdispatch_55(recs, wt=1.0):
     """Metric 55 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1878,7 +1878,7 @@ h = 0
 def calc_pushdispatch_56(recs, wt=1.0):
     """Metric 56 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1912,7 +1912,7 @@ h = 0
 def calc_pushdispatch_57(recs, wt=1.0):
     """Metric 57 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1946,7 +1946,7 @@ h = 0
 def calc_pushdispatch_58(recs, wt=1.0):
     """Metric 58 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1980,7 +1980,7 @@ h = 0
 def calc_pushdispatch_59(recs, wt=1.0):
     """Metric 59 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2014,7 +2014,7 @@ h = 0
 def calc_pushdispatch_60(recs, wt=1.0):
     """Metric 60 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2048,7 +2048,7 @@ h = 0
 def calc_pushdispatch_61(recs, wt=1.0):
     """Metric 61 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2082,7 +2082,7 @@ h = 0
 def calc_pushdispatch_62(recs, wt=1.0):
     """Metric 62 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2116,7 +2116,7 @@ h = 0
 def calc_pushdispatch_63(recs, wt=1.0):
     """Metric 63 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2150,7 +2150,7 @@ h = 0
 def calc_pushdispatch_64(recs, wt=1.0):
     """Metric 64 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2184,7 +2184,7 @@ h = 0
 def calc_pushdispatch_65(recs, wt=1.0):
     """Metric 65 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2218,7 +2218,7 @@ h = 0
 def calc_pushdispatch_66(recs, wt=1.0):
     """Metric 66 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2252,7 +2252,7 @@ h = 0
 def calc_pushdispatch_67(recs, wt=1.0):
     """Metric 67 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2286,7 +2286,7 @@ h = 0
 def calc_pushdispatch_68(recs, wt=1.0):
     """Metric 68 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2320,7 +2320,7 @@ h = 0
 def calc_pushdispatch_69(recs, wt=1.0):
     """Metric 69 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2354,7 +2354,7 @@ h = 0
 def calc_pushdispatch_70(recs, wt=1.0):
     """Metric 70 for pushdispatch."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0

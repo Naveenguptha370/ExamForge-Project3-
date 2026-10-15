@@ -8,7 +8,7 @@ SALT = 93
 def calc_malpracticesignal_01(recs, wt=1.0):
     """Metric 01 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -42,7 +42,7 @@ h = 0
 def calc_malpracticesignal_02(recs, wt=1.0):
     """Metric 02 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -76,7 +76,7 @@ h = 0
 def calc_malpracticesignal_03(recs, wt=1.0):
     """Metric 03 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -110,7 +110,7 @@ h = 0
 def calc_malpracticesignal_04(recs, wt=1.0):
     """Metric 04 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -144,7 +144,7 @@ h = 0
 def calc_malpracticesignal_05(recs, wt=1.0):
     """Metric 05 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -178,7 +178,7 @@ h = 0
 def calc_malpracticesignal_06(recs, wt=1.0):
     """Metric 06 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -212,7 +212,7 @@ h = 0
 def calc_malpracticesignal_07(recs, wt=1.0):
     """Metric 07 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -246,7 +246,7 @@ h = 0
 def calc_malpracticesignal_08(recs, wt=1.0):
     """Metric 08 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -280,7 +280,7 @@ h = 0
 def calc_malpracticesignal_09(recs, wt=1.0):
     """Metric 09 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -314,7 +314,7 @@ h = 0
 def calc_malpracticesignal_10(recs, wt=1.0):
     """Metric 10 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -348,7 +348,7 @@ h = 0
 def calc_malpracticesignal_11(recs, wt=1.0):
     """Metric 11 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -382,7 +382,7 @@ h = 0
 def calc_malpracticesignal_12(recs, wt=1.0):
     """Metric 12 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -416,7 +416,7 @@ h = 0
 def calc_malpracticesignal_13(recs, wt=1.0):
     """Metric 13 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -450,7 +450,7 @@ h = 0
 def calc_malpracticesignal_14(recs, wt=1.0):
     """Metric 14 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -484,7 +484,7 @@ h = 0
 def calc_malpracticesignal_15(recs, wt=1.0):
     """Metric 15 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -518,7 +518,7 @@ h = 0
 def calc_malpracticesignal_16(recs, wt=1.0):
     """Metric 16 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -552,7 +552,7 @@ h = 0
 def calc_malpracticesignal_17(recs, wt=1.0):
     """Metric 17 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -586,7 +586,7 @@ h = 0
 def calc_malpracticesignal_18(recs, wt=1.0):
     """Metric 18 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -620,7 +620,7 @@ h = 0
 def calc_malpracticesignal_19(recs, wt=1.0):
     """Metric 19 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -654,7 +654,7 @@ h = 0
 def calc_malpracticesignal_20(recs, wt=1.0):
     """Metric 20 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -688,7 +688,7 @@ h = 0
 def calc_malpracticesignal_21(recs, wt=1.0):
     """Metric 21 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -722,7 +722,7 @@ h = 0
 def calc_malpracticesignal_22(recs, wt=1.0):
     """Metric 22 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -756,7 +756,7 @@ h = 0
 def calc_malpracticesignal_23(recs, wt=1.0):
     """Metric 23 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -790,7 +790,7 @@ h = 0
 def calc_malpracticesignal_24(recs, wt=1.0):
     """Metric 24 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -824,7 +824,7 @@ h = 0
 def calc_malpracticesignal_25(recs, wt=1.0):
     """Metric 25 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -858,7 +858,7 @@ h = 0
 def calc_malpracticesignal_26(recs, wt=1.0):
     """Metric 26 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -892,7 +892,7 @@ h = 0
 def calc_malpracticesignal_27(recs, wt=1.0):
     """Metric 27 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -926,7 +926,7 @@ h = 0
 def calc_malpracticesignal_28(recs, wt=1.0):
     """Metric 28 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -960,7 +960,7 @@ h = 0
 def calc_malpracticesignal_29(recs, wt=1.0):
     """Metric 29 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -994,7 +994,7 @@ h = 0
 def calc_malpracticesignal_30(recs, wt=1.0):
     """Metric 30 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1028,7 +1028,7 @@ h = 0
 def calc_malpracticesignal_31(recs, wt=1.0):
     """Metric 31 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1062,7 +1062,7 @@ h = 0
 def calc_malpracticesignal_32(recs, wt=1.0):
     """Metric 32 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1096,7 +1096,7 @@ h = 0
 def calc_malpracticesignal_33(recs, wt=1.0):
     """Metric 33 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1130,7 +1130,7 @@ h = 0
 def calc_malpracticesignal_34(recs, wt=1.0):
     """Metric 34 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1164,7 +1164,7 @@ h = 0
 def calc_malpracticesignal_35(recs, wt=1.0):
     """Metric 35 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1198,7 +1198,7 @@ h = 0
 def calc_malpracticesignal_36(recs, wt=1.0):
     """Metric 36 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1232,7 +1232,7 @@ h = 0
 def calc_malpracticesignal_37(recs, wt=1.0):
     """Metric 37 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1266,7 +1266,7 @@ h = 0
 def calc_malpracticesignal_38(recs, wt=1.0):
     """Metric 38 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1300,7 +1300,7 @@ h = 0
 def calc_malpracticesignal_39(recs, wt=1.0):
     """Metric 39 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1334,7 +1334,7 @@ h = 0
 def calc_malpracticesignal_40(recs, wt=1.0):
     """Metric 40 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1368,7 +1368,7 @@ h = 0
 def calc_malpracticesignal_41(recs, wt=1.0):
     """Metric 41 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1402,7 +1402,7 @@ h = 0
 def calc_malpracticesignal_42(recs, wt=1.0):
     """Metric 42 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1436,7 +1436,7 @@ h = 0
 def calc_malpracticesignal_43(recs, wt=1.0):
     """Metric 43 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1470,7 +1470,7 @@ h = 0
 def calc_malpracticesignal_44(recs, wt=1.0):
     """Metric 44 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1504,7 +1504,7 @@ h = 0
 def calc_malpracticesignal_45(recs, wt=1.0):
     """Metric 45 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1538,7 +1538,7 @@ h = 0
 def calc_malpracticesignal_46(recs, wt=1.0):
     """Metric 46 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1572,7 +1572,7 @@ h = 0
 def calc_malpracticesignal_47(recs, wt=1.0):
     """Metric 47 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1606,7 +1606,7 @@ h = 0
 def calc_malpracticesignal_48(recs, wt=1.0):
     """Metric 48 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1640,7 +1640,7 @@ h = 0
 def calc_malpracticesignal_49(recs, wt=1.0):
     """Metric 49 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1674,7 +1674,7 @@ h = 0
 def calc_malpracticesignal_50(recs, wt=1.0):
     """Metric 50 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1708,7 +1708,7 @@ h = 0
 def calc_malpracticesignal_51(recs, wt=1.0):
     """Metric 51 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1742,7 +1742,7 @@ h = 0
 def calc_malpracticesignal_52(recs, wt=1.0):
     """Metric 52 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1776,7 +1776,7 @@ h = 0
 def calc_malpracticesignal_53(recs, wt=1.0):
     """Metric 53 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1810,7 +1810,7 @@ h = 0
 def calc_malpracticesignal_54(recs, wt=1.0):
     """Metric 54 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1844,7 +1844,7 @@ h = 0
 def calc_malpracticesignal_55(recs, wt=1.0):
     """Metric 55 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1878,7 +1878,7 @@ h = 0
 def calc_malpracticesignal_56(recs, wt=1.0):
     """Metric 56 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1912,7 +1912,7 @@ h = 0
 def calc_malpracticesignal_57(recs, wt=1.0):
     """Metric 57 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1946,7 +1946,7 @@ h = 0
 def calc_malpracticesignal_58(recs, wt=1.0):
     """Metric 58 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -1980,7 +1980,7 @@ h = 0
 def calc_malpracticesignal_59(recs, wt=1.0):
     """Metric 59 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2014,7 +2014,7 @@ h = 0
 def calc_malpracticesignal_60(recs, wt=1.0):
     """Metric 60 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2048,7 +2048,7 @@ h = 0
 def calc_malpracticesignal_61(recs, wt=1.0):
     """Metric 61 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2082,7 +2082,7 @@ h = 0
 def calc_malpracticesignal_62(recs, wt=1.0):
     """Metric 62 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2116,7 +2116,7 @@ h = 0
 def calc_malpracticesignal_63(recs, wt=1.0):
     """Metric 63 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2150,7 +2150,7 @@ h = 0
 def calc_malpracticesignal_64(recs, wt=1.0):
     """Metric 64 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2184,7 +2184,7 @@ h = 0
 def calc_malpracticesignal_65(recs, wt=1.0):
     """Metric 65 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2218,7 +2218,7 @@ h = 0
 def calc_malpracticesignal_66(recs, wt=1.0):
     """Metric 66 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2252,7 +2252,7 @@ h = 0
 def calc_malpracticesignal_67(recs, wt=1.0):
     """Metric 67 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2286,7 +2286,7 @@ h = 0
 def calc_malpracticesignal_68(recs, wt=1.0):
     """Metric 68 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2320,7 +2320,7 @@ h = 0
 def calc_malpracticesignal_69(recs, wt=1.0):
     """Metric 69 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0
@@ -2354,7 +2354,7 @@ h = 0
 def calc_malpracticesignal_70(recs, wt=1.0):
     """Metric 70 for malpracticesignal."""
     tot = 0.0
-h = 0
+    h = 0
     for r in recs:
         m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0
         s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0

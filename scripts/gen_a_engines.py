@@ -17,7 +17,7 @@ for folder, mods in JOBS:
         for fi in range(1, 71):
             L.append("def calc_%s_%02d(recs, wt=1.0):" % (pre, fi))
             L.append('    """Metric %02d for %s."""' % (fi, pre))
-            L.append("    tot = 0.0\nh = 0")
+            L.append("    tot = 0.0\n    h = 0")
             L.append("    for r in recs:")
             L.append("        m = float(r.get('m', 1.0)) if isinstance(r, dict) else 1.0")
             L.append("        s = float(r.get('s', 1.0)) if isinstance(r, dict) else 1.0")
