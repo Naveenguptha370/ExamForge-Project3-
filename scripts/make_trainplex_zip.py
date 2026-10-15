@@ -43,7 +43,15 @@ for f in files:
 
 tests = [p for p in pathlib.Path(ROOT).rglob("*test*.py") if ".git" not in str(p) and "node_modules" not in str(p) and ".venv" not in str(p)]
 readme_ok = (ROOT/"README.md").exists() and (ROOT/"README.md").stat().st_size > 100
-license_ok = (ROOT/"LICENSE").exists()
+proprietary_ok = not (ROOT/"LICENSE").exists() and not (ROOT/"LICENCE").exists()
+no_env_in_git = True
+try:
+    tracked = run(["git", "ls-files"]).splitlines()
+    bad = [t for t in tracked if t == ".env" or t.startswith(".env.") or t.endswith(".env") or ".env." in t.replace("\\", "/")]
+    no_env_in_git = len(bad) == 0
+    env_detail = "clean" if no_env_in_git else "; ".join(bad[:3])
+except Exception:
+    env_detail = "check-skipped"
 req_ok = (ROOT/"backend"/"requirements.txt").exists()
 pkg_ok = (ROOT/"frontend"/"package.json").exists()
 pr_dir = ROOT/"pull_requests"
@@ -57,7 +65,8 @@ checks = [
     ("Tracked files >= 300", len(files) >= 300, f"{len(files)}"),
     ("Tests present", len(tests) > 0, f"{len(tests)} test files"),
     ("README present", readme_ok, "README.md"),
-    ("LICENSE present", license_ok, "LICENSE"),
+    ("Proprietary (no LICENSE)", proprietary_ok, "no LICENSE file"),
+    ("No .env in git", no_env_in_git, env_detail),
     ("Dependencies declared", req_ok and pkg_ok, "requirements.txt + package.json"),
     (".git will be included", True, "history checks"),
 ]
